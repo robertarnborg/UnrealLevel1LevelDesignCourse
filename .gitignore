@@ -72,3 +72,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Shooter_lvl1/Saved/Config/CrashReportClient/UE4CC-Windows-D5D61C85426F14294235BE96AC16F0C5/CrashReportClient.ini
+Shooter_lvl1/Saved/Logs/Shooter_lvl1-backup-2021.03.11-16.41.22.log

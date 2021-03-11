@@ -1290,3 +1290,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.11-20.40.19:032][848]LogSavePackage: Moving '../../../../../../PROJECTS/FUTUREGAMES/Level Design/Assignment/UnrealProject/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/FirstPersonExampleMap89163FBD4351B978DCAF4CB9E84D522E.tmp' to '../../../../../../PROJECTS/FUTUREGAMES/Level Design/Assignment/UnrealProject/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
 [2021.03.11-20.40.19:068][848]AssetCheck: New page: Asset Save: FirstPersonExampleMap
 [2021.03.11-20.40.19:068][848]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.03.11-20.40.51:847][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.03.11-20.40.53:499][ 39]LogSlate: Window 'Save Content' being destroyed
+[2021.03.11-20.40.53:982][ 39]LogSavePackage: Moving '../../../../../../PROJECTS/FUTUREGAMES/Level Design/Assignment/UnrealProject/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/Lvl1888689DF412365DCC7D3319E048E361B.tmp' to '../../../../../../PROJECTS/FUTUREGAMES/Level Design/Assignment/UnrealProject/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Sprites/Lvl1.uasset'
+[2021.03.11-20.40.54:021][ 39]LogSavePackage: Moving '../../../../../../PROJECTS/FUTUREGAMES/Level Design/Assignment/UnrealProject/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/Lvl1_MatE7AB63AC4C852229F25EB8BDDB1F9F07.tmp' to '../../../../../../PROJECTS/FUTUREGAMES/Level Design/Assignment/UnrealProject/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Sprites/Lvl1_Mat.uasset'
+[2021.03.11-20.40.54:031][ 39]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.11-20.40.54:031][ 39]LogContentValidation: Display: Validating Material /Game/Sprites/Lvl1_Mat.Lvl1_Mat
+[2021.03.11-20.40.54:031][ 39]LogContentValidation: Display: Validating Texture2D /Game/Sprites/Lvl1.Lvl1

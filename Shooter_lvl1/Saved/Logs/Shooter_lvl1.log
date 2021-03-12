@@ -3903,3 +3903,25 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.12-12.21.33:584][781]LogSavePackage: Moving 'E:/GitHub/LD_Shooter_level1/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/AugustTestMapB68865F948B33829C7BA459EDD2AECE5.tmp' to 'E:/GitHub/LD_Shooter_level1/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Maps/Test/AugustTestMap.umap'
 [2021.03.12-12.21.33:640][781]AssetCheck: New page: Asset Save: AugustTestMap
 [2021.03.12-12.21.33:640][781]LogContentValidation: Display: Validating World /Game/Maps/Test/AugustTestMap.AugustTestMap
+[2021.03.12-12.22.46:079][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2021.03.12-12.22.46:128][143]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2021.03.12-12.22.46:128][143]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2021.03.12-12.22.46:128][143]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.03.12-12.22.46:184][143]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2021.03.12-12.22.46:189][143]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Test/TestMapRob.TestMapRob
+[2021.03.12-12.22.46:197][143]Cmd: MAP LOAD FILE="E:/GitHub/LD_Shooter_level1/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Maps/Test/TestMapRob.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.12-12.22.46:197][143]LightingResults: New page: Lighting Build
+[2021.03.12-12.22.46:199][143]LoadErrors: New page: Loading map: TestMapRob.umap
+[2021.03.12-12.22.46:219][143]LogWorld: UWorld::CleanupWorld for AugustTestMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.12-12.22.46:220][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-12.22.46:220][143]MapCheck: New page: Map Check
+[2021.03.12-12.22.46:220][143]LightingResults: New page: Lighting Build
+[2021.03.12-12.22.46:246][143]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.12-12.22.46:339][143]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.03.12-12.22.46:367][143]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestMapRob'.
+[2021.03.12-12.22.46:745][143]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.12-12.22.46:745][143]LogAIModule: Creating AISystem for world TestMapRob
+[2021.03.12-12.22.46:865][143]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2021.03.12-12.22.46:882][143]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.12-12.22.46:882][143]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.089ms to complete.
+[2021.03.12-12.22.46:882][143]LogFileHelpers: Loading map 'TestMapRob' took 0.693

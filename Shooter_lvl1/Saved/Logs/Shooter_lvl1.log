@@ -2447,3 +2447,245 @@ Please see Output Log for details.
 [2021.03.12-12.59.07:577][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level3_assets/SM_HalfCover3x4_01]
 [2021.03.12-12.59.07:585][651]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/SM_HalfCover3x4_01_Auto1C3B744E9450AA52477297198852FB6B9.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/Autosaves/Game/Level3_assets/SM_HalfCover3x4_01_Auto1.uasset'
 [2021.03.12-12.59.07:586][651]LogFileHelpers: Auto-saving content packages took 1.091
+[2021.03.12-13.26.10:624][933]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Simon\Desktop\assets\sm_enemygunner.fbx)
+[2021.03.12-13.26.10:630][933]LogFbx: Loading FBX Scene from C:\Users\Simon\Desktop\assets\sm_enemygunner.fbx
+[2021.03.12-13.26.10:634][933]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.12-13.26.12:725][933]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.03.12-13.26.12:750][933]LogFbx: Display: Triangulating static mesh Cube
+[2021.03.12-13.26.12:764][933]LogStaticMesh: Building static mesh sm_enemygunner...
+[2021.03.12-13.26.12:769][933]LogStaticMesh: Built static mesh [0.00s] /Game/Level1_Assets/Meshes/sm_enemygunner.sm_enemygunner
+[2021.03.12-13.26.12:776][933]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.12-13.26.14:077][ 46]LogSlate: Window 'Message Log' being destroyed
+[2021.03.12-13.26.14:081][ 46]LogSlate: Window 'Message Log' being destroyed
+[2021.03.12-13.26.14:906][140]LogActorFactory: Actor Factory created sm_enemygunner
+[2021.03.12-13.26.15:561][217]LogActorFactory: Actor Factory created sm_enemygunner
+[2021.03.12-13.26.43:121][568]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2021.03.12-13.26.43:182][568]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/FirstPersonExampleMap_Auto278269FED4BDBF0FAF317E29F5AB522E0.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2021.03.12-13.26.43:184][568]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.078
+[2021.03.12-13.26.43:184][568]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.078
+[2021.03.12-13.26.43:184][568]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level1_Assets/Meshes/sm_enemygunner] ([1] browsable assets)...
+[2021.03.12-13.26.43:195][568]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Level1_Assets/Meshes/sm_enemygunner.sm_enemygunner]
+[2021.03.12-13.26.43:195][568]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level1_Assets/Meshes/sm_enemygunner]
+[2021.03.12-13.26.43:205][568]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/sm_enemygunner_Auto28002D9424C65C83B3DD60F99401ED4D0.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/Autosaves/Game/Level1_Assets/Meshes/sm_enemygunner_Auto2.uasset'
+[2021.03.12-13.26.43:208][568]LogFileHelpers: Auto-saving content packages took 0.024
+[2021.03.12-13.27.01:432][685]LogEditorFactories: Performing atomic reimport of [C:/Users/Simon/Desktop/assets/sm_enemygunner.fbx]
+[2021.03.12-13.27.01:447][685]LogFbx: Loading FBX Scene from C:/Users/Simon/Desktop/assets/sm_enemygunner.fbx
+[2021.03.12-13.27.01:451][685]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.12-13.27.01:468][685]LogFbx: Display: Triangulating static mesh Cube
+[2021.03.12-13.27.01:497][685]LogStaticMesh: Building static mesh sm_enemygunner...
+[2021.03.12-13.27.01:501][685]LogStaticMesh: Built static mesh [0.00s] /Game/Level1_Assets/Meshes/sm_enemygunner.sm_enemygunner
+[2021.03.12-13.27.01:508][685]LogEditorFactories: -- imported successfully
+[2021.03.12-13.27.01:510][685]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.12-13.27.05:296][ 52]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube32)
+[2021.03.12-13.27.06:021][122]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sm_enemygunner)
+[2021.03.12-13.27.14:740][141]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube32)
+[2021.03.12-13.27.18:930][619]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sm_enemygunner)
+[2021.03.12-13.27.21:400][906]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.03.12-13.27.34:736][476]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.03.12-13.27.35:701][582]LogEditorViewport: Clicking on Actor (LMB): BP_EnemySmall_C (BP_EnemySmall3)
+[2021.03.12-13.27.38:201][870]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.03.12-13.27.40:216][106]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.12-13.27.40:225][106]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.12-13.27.40:225][106]PIE: New page: PIE session: FirstPersonExampleMap (Mar 12, 2021, 3:27:40 PM)
+[2021.03.12-13.27.40:254][106]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.03.12-13.27.40:276][106]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022272s)
+[2021.03.12-13.27.40:277][106]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.03.12-13.27.40:278][106]LogPlayLevel: PIE: World Init took: (0.001261s)
+[2021.03.12-13.27.40:278][106]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.023676s)
+[2021.03.12-13.27.40:293][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.03.12-13.27.40:301][106]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2021.03.12-13.27.40:301][106]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.12-13.27.40:301][106]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.12-13.27.40:301][106]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.12-13.27.40:301][106]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.12-13.27.40:301][106]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.12-13.27.40:301][106]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.12-13.27.40:301][106]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.12-13.27.40:301][106]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.12-13.27.40:301][106]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.12-13.27.40:301][106]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.12-13.27.40:305][106]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.12-13.27.40:305][106]LogAudioMixer: Display: 1: FrontRight
+[2021.03.12-13.27.40:305][106]LogAudioMixer: Display: 2: FrontCenter
+[2021.03.12-13.27.40:305][106]LogAudioMixer: Display: 3: LowFrequency
+[2021.03.12-13.27.40:305][106]LogAudioMixer: Display: 4: BackLeft
+[2021.03.12-13.27.40:305][106]LogAudioMixer: Display: 5: BackRight
+[2021.03.12-13.27.40:305][106]LogAudioMixer: Display: 6: SideLeft
+[2021.03.12-13.27.40:305][106]LogAudioMixer: Display: 7: SideRight
+[2021.03.12-13.27.40:327][106]LogAudioMixer: Display: Using Audio Device Hörlurar (ROG Headset)
+[2021.03.12-13.27.40:328][106]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.12-13.27.40:328][106]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.12-13.27.40:328][106]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.12-13.27.40:328][106]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.12-13.27.40:328][106]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.12-13.27.40:328][106]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.03.12-13.27.40:340][106]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.12-13.27.40:340][106]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.12-13.27.40:340][106]LogInit: FAudioDevice initialized.
+[2021.03.12-13.27.40:340][106]LogAudio: Display: Audio Device (ID: 13) registered with world 'FirstPersonExampleMap'.
+[2021.03.12-13.27.40:349][106]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.03.12-13.27.40:352][106]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.03.12-14.27.40
+[2021.03.12-13.27.40:352][106]LogWorld: Bringing up level for play took: 0.002567
+[2021.03.12-13.27.40:353][106]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2021.03.12-13.27.40:355][106]PIE: Server logged in
+[2021.03.12-13.27.40:355][106]PIE: Play in editor total start time 0.131 seconds.
+[2021.03.12-13.27.49:854][239]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-13.27.49:854][239]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.03.12-13.27.49:854][239]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.12-13.27.49:855][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-13.27.49:864][239]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.12-13.27.49:878][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-13.27.49:892][239]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.12-13.27.49:892][239]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.12-13.27.49:893][239]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.12-13.27.49:913][239]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-13.27.49:917][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2021.03.12-13.27.49:950][240]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2021.03.12-13.27.51:141][381]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube32)
+[2021.03.12-13.27.51:335][401]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sm_enemygunner)
+[2021.03.12-13.27.52:773][567]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Level1_Assets/Meshes/sm_enemygunner.sm_enemygunner
+[2021.03.12-13.29.18:434][648]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/sm_enemygunner458BC7FE4B8A7683059909BD7BD64EB3.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level1_Assets/Meshes/sm_enemygunner.uasset'
+[2021.03.12-13.29.18:444][648]AssetCheck: New page: Asset Save: sm_enemygunner
+[2021.03.12-13.29.18:444][648]LogContentValidation: Display: Validating StaticMesh /Game/Level1_Assets/Meshes/sm_enemygunner.sm_enemygunner
+[2021.03.12-13.29.18:829][689]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/sm_enemygunnerEB156C2F4CCB3638A97065B3CE0BC075.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level1_Assets/Meshes/sm_enemygunner.uasset'
+[2021.03.12-13.29.18:839][689]AssetCheck: New page: Asset Save: sm_enemygunner
+[2021.03.12-13.29.18:839][689]LogContentValidation: Display: Validating StaticMesh /Game/Level1_Assets/Meshes/sm_enemygunner.sm_enemygunner
+[2021.03.12-13.29.19:010][706]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/sm_enemygunner51C1E6A743793F23291FFBB0FAE4B1E3.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level1_Assets/Meshes/sm_enemygunner.uasset'
+[2021.03.12-13.29.19:021][706]AssetCheck: New page: Asset Save: sm_enemygunner
+[2021.03.12-13.29.19:021][706]LogContentValidation: Display: Validating StaticMesh /Game/Level1_Assets/Meshes/sm_enemygunner.sm_enemygunner
+[2021.03.12-13.29.19:156][719]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/sm_enemygunnerBEEADE7D40089AF600B808BDCBF5CED6.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level1_Assets/Meshes/sm_enemygunner.uasset'
+[2021.03.12-13.29.19:165][719]AssetCheck: New page: Asset Save: sm_enemygunner
+[2021.03.12-13.29.19:165][719]LogContentValidation: Display: Validating StaticMesh /Game/Level1_Assets/Meshes/sm_enemygunner.sm_enemygunner
+[2021.03.12-13.29.19:400][743]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/sm_enemygunnerAE448D7F457087237DBBABB6AB83E1CF.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level1_Assets/Meshes/sm_enemygunner.uasset'
+[2021.03.12-13.29.19:410][743]AssetCheck: New page: Asset Save: sm_enemygunner
+[2021.03.12-13.29.19:410][743]LogContentValidation: Display: Validating StaticMesh /Game/Level1_Assets/Meshes/sm_enemygunner.sm_enemygunner
+[2021.03.12-13.29.20:231][826]LogSlate: Window 'sm_enemygunner' being destroyed
+[2021.03.12-13.29.20:236][826]LogSlate: Window 'sm_enemygunner' being destroyed
+[2021.03.12-13.29.20:264][826]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.03.12-13.29.20:264][826]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-13.29.21:399][953]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.12-13.29.21:407][953]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.12-13.29.21:407][953]PIE: New page: PIE session: FirstPersonExampleMap (Mar 12, 2021, 3:29:21 PM)
+[2021.03.12-13.29.21:444][953]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.03.12-13.29.21:464][953]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019855s)
+[2021.03.12-13.29.21:464][953]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.03.12-13.29.21:465][953]LogPlayLevel: PIE: World Init took: (0.001026s)
+[2021.03.12-13.29.21:465][953]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.021022s)
+[2021.03.12-13.29.21:482][953]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.03.12-13.29.21:494][953]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2021.03.12-13.29.21:494][953]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.12-13.29.21:494][953]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.12-13.29.21:494][953]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.12-13.29.21:494][953]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.12-13.29.21:494][953]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.12-13.29.21:494][953]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.12-13.29.21:494][953]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.12-13.29.21:494][953]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.12-13.29.21:495][953]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.12-13.29.21:495][953]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.12-13.29.21:498][953]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.12-13.29.21:498][953]LogAudioMixer: Display: 1: FrontRight
+[2021.03.12-13.29.21:498][953]LogAudioMixer: Display: 2: FrontCenter
+[2021.03.12-13.29.21:498][953]LogAudioMixer: Display: 3: LowFrequency
+[2021.03.12-13.29.21:498][953]LogAudioMixer: Display: 4: BackLeft
+[2021.03.12-13.29.21:498][953]LogAudioMixer: Display: 5: BackRight
+[2021.03.12-13.29.21:498][953]LogAudioMixer: Display: 6: SideLeft
+[2021.03.12-13.29.21:498][953]LogAudioMixer: Display: 7: SideRight
+[2021.03.12-13.29.21:520][953]LogAudioMixer: Display: Using Audio Device Hörlurar (ROG Headset)
+[2021.03.12-13.29.21:521][953]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.12-13.29.21:521][953]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.12-13.29.21:521][953]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.12-13.29.21:521][953]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.12-13.29.21:521][953]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.12-13.29.21:521][953]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.03.12-13.29.21:533][953]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.12-13.29.21:533][953]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.12-13.29.21:533][953]LogInit: FAudioDevice initialized.
+[2021.03.12-13.29.21:533][953]LogAudio: Display: Audio Device (ID: 14) registered with world 'FirstPersonExampleMap'.
+[2021.03.12-13.29.21:539][953]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.03.12-13.29.21:542][953]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.03.12-14.29.21
+[2021.03.12-13.29.21:542][953]LogWorld: Bringing up level for play took: 0.002257
+[2021.03.12-13.29.21:542][953]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2021.03.12-13.29.21:544][953]PIE: Server logged in
+[2021.03.12-13.29.21:545][953]PIE: Play in editor total start time 0.137 seconds.
+[2021.03.12-13.29.31:386][125]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1272.718 Y=-246.218 Z=500.295] for [FirstPersonProjectile_C]
+[2021.03.12-13.29.31:769][171]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1289.030 Y=-248.780 Z=500.073] for [FirstPersonProjectile_C]
+[2021.03.12-13.29.32:044][204]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1288.119 Y=-248.507 Z=499.789] for [FirstPersonProjectile_C]
+[2021.03.12-13.29.33:227][346]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1273.210 Y=-249.990 Z=503.449] for [FirstPersonProjectile_C]
+[2021.03.12-13.29.34:286][473]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1286.823 Y=-252.904 Z=505.439] for [FirstPersonProjectile_C]
+[2021.03.12-13.29.34:370][483]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1284.747 Y=-253.186 Z=505.516] for [FirstPersonProjectile_C]
+[2021.03.12-13.29.35:486][617]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1282.745 Y=-253.760 Z=505.158] for [FirstPersonProjectile_C]
+[2021.03.12-13.29.36:655][757]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1280.141 Y=-254.589 Z=503.438] for [FirstPersonProjectile_C]
+[2021.03.12-13.29.36:746][768]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1279.072 Y=-255.986 Z=505.064] for [FirstPersonProjectile_C]
+[2021.03.12-13.29.36:854][781]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1278.694 Y=-255.185 Z=504.483] for [FirstPersonProjectile_C]
+[2021.03.12-13.29.39:005][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-13.29.39:006][ 35]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.03.12-13.29.39:006][ 35]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.12-13.29.39:006][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-13.29.39:014][ 35]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.12-13.29.39:032][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-13.29.39:044][ 35]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.12-13.29.39:044][ 35]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.12-13.29.39:045][ 35]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.12-13.29.39:069][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-13.29.39:072][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2021.03.12-13.29.39:104][ 36]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2021.03.12-13.29.39:642][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2021.03.12-13.29.39:700][ 95]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/FirstPersonExampleMap773D50984E758D9AF23AA38796027708.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.03.12-13.29.39:727][ 95]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2021.03.12-13.29.39:727][ 95]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.03.12-13.29.43:666][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2021.03.12-13.29.44:638][236]LogSlate: Window 'Save Content' being destroyed
+[2021.03.12-13.29.44:658][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level3_assets/G3_Bridge_01" FILE="D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level3_assets/G3_Bridge_01.uasset" SILENT=true
+[2021.03.12-13.29.44:664][236]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/G3_Bridge_0149F593204D69A880EA3F51A666EBC44D.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level3_assets/G3_Bridge_01.uasset'
+[2021.03.12-13.29.44:669][236]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/SM_BridgeGoodVersion_0182F2B9D44279BCBCD5CFABACA95D8C10.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level2_assets/SM_BridgeGoodVersion_01.uasset'
+[2021.03.12-13.29.44:670][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level3_assets/SM_Bush_01" FILE="D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level3_assets/SM_Bush_01.uasset" SILENT=true
+[2021.03.12-13.29.44:703][236]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/SM_Bush_0103DF8F4E47ADBBFB53A0E9B421D3FA85.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level3_assets/SM_Bush_01.uasset'
+[2021.03.12-13.29.44:703][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level2_assets/SM_Enemy_01" FILE="D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level2_assets/SM_Enemy_01.uasset" SILENT=true
+[2021.03.12-13.29.44:708][236]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/SM_Enemy_01E5F065DD4233DE1172C75AB281D542F5.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level2_assets/SM_Enemy_01.uasset'
+[2021.03.12-13.29.44:717][236]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/SM_Enemy_03-CragSquid464F74D54DD3D557AE1FC3B1C5154017.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level3_assets/SM_Enemy_03-CragSquid.uasset'
+[2021.03.12-13.29.44:718][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level2_assets/SM_Floor_01" FILE="D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level2_assets/SM_Floor_01.uasset" SILENT=true
+[2021.03.12-13.29.44:723][236]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/SM_Floor_01A18EE4F945D4B5AA8281FEB09113C286.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level2_assets/SM_Floor_01.uasset'
+[2021.03.12-13.29.44:723][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level3_assets/SM_HalfCover3x4_01" FILE="D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level3_assets/SM_HalfCover3x4_01.uasset" SILENT=true
+[2021.03.12-13.29.44:728][236]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/SM_HalfCover3x4_0101DD032F4ED5E8BB119949826892F7DB.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level3_assets/SM_HalfCover3x4_01.uasset'
+[2021.03.12-13.29.44:736][236]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/SM_LandMarkPortal_01E5E1A61F43FD7E05DB732297F3EC2D28.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level3_assets/SM_LandMarkPortal_01.uasset'
+[2021.03.12-13.29.44:736][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level2_assets/SM_LowCover_01" FILE="D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level2_assets/SM_LowCover_01.uasset" SILENT=true
+[2021.03.12-13.29.44:741][236]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/SM_LowCover_016E24F03D40AC0DE7B27DCFA093BE1977.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level2_assets/SM_LowCover_01.uasset'
+[2021.03.12-13.29.44:742][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level2_assets/SM_LowCover_02" FILE="D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level2_assets/SM_LowCover_02.uasset" SILENT=true
+[2021.03.12-13.29.44:747][236]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/SM_LowCover_02D219C36442533CD3489403BA95C249B9.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level2_assets/SM_LowCover_02.uasset'
+[2021.03.12-13.29.44:747][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level2_assets/SM_Railing_01" FILE="D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level2_assets/SM_Railing_01.uasset" SILENT=true
+[2021.03.12-13.29.44:754][236]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/SM_Railing_01F2C5F2744B9EB93C9108F4AE7FD09DD4.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level2_assets/SM_Railing_01.uasset'
+[2021.03.12-13.29.44:755][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1_Assets/Meshes/sm_rockflat" FILE="D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level1_Assets/Meshes/sm_rockflat.uasset" SILENT=true
+[2021.03.12-13.29.44:762][236]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/sm_rockflatEE8642044504FBB08B1C17830177F0E2.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level1_Assets/Meshes/sm_rockflat.uasset'
+[2021.03.12-13.29.44:762][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level2_assets/SM_Stair_01" FILE="D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level2_assets/SM_Stair_01.uasset" SILENT=true
+[2021.03.12-13.29.44:768][236]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/SM_Stair_01B6BAFD1F48C69847C20B7085B4FBF989.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level2_assets/SM_Stair_01.uasset'
+[2021.03.12-13.29.44:768][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level3_assets/SM_Tile_01" FILE="D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level3_assets/SM_Tile_01.uasset" SILENT=true
+[2021.03.12-13.29.44:772][236]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/SM_Tile_01282E435B45807B159D0D3E9719518327.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level3_assets/SM_Tile_01.uasset'
+[2021.03.12-13.29.44:773][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level3_assets/SM_Tree_01" FILE="D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level3_assets/SM_Tree_01.uasset" SILENT=true
+[2021.03.12-13.29.44:778][236]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/SM_Tree_01ED9519E54F120159E2DE209F1EB05EC3.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level3_assets/SM_Tree_01.uasset'
+[2021.03.12-13.29.44:778][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level3_assets/SM_Wall3x5_01" FILE="D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level3_assets/SM_Wall3x5_01.uasset" SILENT=true
+[2021.03.12-13.29.44:784][236]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/SM_Wall3x5_01C4BD0F764B20AFD3B9DE96B38C8902C2.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level3_assets/SM_Wall3x5_01.uasset'
+[2021.03.12-13.29.44:785][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level2_assets/SM_Wall_01" FILE="D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level2_assets/SM_Wall_01.uasset" SILENT=true
+[2021.03.12-13.29.44:789][236]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/SM_Wall_016A220CAF46FCB3CE8FB6FDB942D1231E.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level2_assets/SM_Wall_01.uasset'
+[2021.03.12-13.29.44:800][236]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.12-13.29.44:801][236]LogContentValidation: Display: Validating StaticMesh /Game/Level1_Assets/Meshes/sm_rockflat.sm_rockflat
+[2021.03.12-13.29.44:801][236]LogContentValidation: Display: Validating StaticMesh /Game/Level3_assets/SM_LandMarkPortal_01.SM_LandMarkPortal_01
+[2021.03.12-13.29.44:801][236]LogContentValidation: Display: Validating StaticMesh /Game/Level3_assets/SM_HalfCover3x4_01.SM_HalfCover3x4_01
+[2021.03.12-13.29.44:801][236]LogContentValidation: Display: Validating StaticMesh /Game/Level3_assets/SM_Enemy_03-CragSquid.SM_Enemy_03-CragSquid
+[2021.03.12-13.29.44:801][236]LogContentValidation: Display: Validating StaticMesh /Game/Level3_assets/SM_Bush_01.SM_Bush_01
+[2021.03.12-13.29.44:801][236]LogContentValidation: Display: Validating StaticMesh /Game/Level3_assets/G3_Bridge_01.G3_Bridge_01
+[2021.03.12-13.29.44:801][236]LogContentValidation: Display: Validating StaticMesh /Game/Level3_assets/SM_Wall3x5_01.SM_Wall3x5_01
+[2021.03.12-13.29.44:801][236]LogContentValidation: Display: Validating StaticMesh /Game/Level3_assets/SM_Tree_01.SM_Tree_01
+[2021.03.12-13.29.44:801][236]LogContentValidation: Display: Validating StaticMesh /Game/Level3_assets/SM_Tile_01.SM_Tile_01
+[2021.03.12-13.29.44:801][236]LogContentValidation: Display: Validating StaticMesh /Game/Level2_assets/SM_Railing_01.SM_Railing_01
+[2021.03.12-13.29.44:801][236]LogContentValidation: Display: Validating StaticMesh /Game/Level2_assets/SM_LowCover_02.SM_LowCover_02
+[2021.03.12-13.29.44:801][236]LogContentValidation: Display: Validating StaticMesh /Game/Level2_assets/SM_LowCover_01.SM_LowCover_01
+[2021.03.12-13.29.44:801][236]LogContentValidation: Display: Validating StaticMesh /Game/Level2_assets/SM_Floor_01.SM_Floor_01
+[2021.03.12-13.29.44:801][236]LogContentValidation: Display: Validating StaticMesh /Game/Level2_assets/SM_Enemy_01.SM_Enemy_01
+[2021.03.12-13.29.44:801][236]LogContentValidation: Display: Validating StaticMesh /Game/Level2_assets/SM_BridgeGoodVersion_01.SM_BridgeGoodVersion_01
+[2021.03.12-13.29.44:801][236]LogContentValidation: Display: Validating StaticMesh /Game/Level2_assets/SM_Wall_01.SM_Wall_01
+[2021.03.12-13.29.44:801][236]LogContentValidation: Display: Validating StaticMesh /Game/Level2_assets/SM_Stair_01.SM_Stair_01
+[2021.03.12-13.29.45:955][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.03.12-13.29.46:012][370]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/FirstPersonExampleMapEFEB25EB4AC07954E54783897F7C5547.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.03.12-13.29.46:033][370]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2021.03.12-13.29.46:033][370]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap

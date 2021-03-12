@@ -1479,3 +1479,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.12-10.53.08:412][505]LogFileHelpers: Saving map 'TestMapRob' took 0.168
 [2021.03.12-10.53.08:430][505]AssetCheck: New page: Asset Save: TestMapRob
 [2021.03.12-10.53.08:430][505]LogContentValidation: Display: Validating World /Game/Maps/Test/TestMapRob.TestMapRob
+[2021.03.12-10.53.37:464][610]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../PROJECTS/FUTUREGAMES/Level Design/Assignment/UnrealProject/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Intermediate/CachedAssetRegistry.bin', retrying in .5s...
+[2021.03.12-10.53.37:794][611]LogFileManager: Warning: DeleteFile recovered during retry!

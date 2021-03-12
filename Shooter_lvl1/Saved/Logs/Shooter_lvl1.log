@@ -2332,3 +2332,118 @@ Please see Output Log for details.
 [2021.03.12-12.54.42:631][620]LogEditorActor: Deleted Actor: StaticMeshActor
 [2021.03.12-12.54.42:645][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
 [2021.03.12-12.54.42:651][620]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2021.03.12-12.55.09:172][350]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stair_01)
+[2021.03.12-12.55.10:539][511]Cmd: DELETE
+[2021.03.12-12.55.10:539][511]Cmd: ACTOR DELETE
+[2021.03.12-12.55.10:542][511]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.12-12.55.10:554][511]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.03.12-12.55.10:557][511]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2021.03.12-12.55.10:894][552]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_01)
+[2021.03.12-12.55.11:069][570]Cmd: DELETE
+[2021.03.12-12.55.11:069][570]Cmd: ACTOR DELETE
+[2021.03.12-12.55.11:072][570]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.12-12.55.11:084][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.03.12-12.55.11:085][570]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2021.03.12-12.55.11:505][620]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LowCover_02)
+[2021.03.12-12.55.11:620][631]Cmd: DELETE
+[2021.03.12-12.55.11:620][631]Cmd: ACTOR DELETE
+[2021.03.12-12.55.11:623][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.12-12.55.11:635][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.03.12-12.55.11:636][631]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.03.12-12.55.11:999][675]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LowCover_01)
+[2021.03.12-12.55.12:199][696]Cmd: DELETE
+[2021.03.12-12.55.12:199][696]Cmd: ACTOR DELETE
+[2021.03.12-12.55.12:201][696]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.12-12.55.12:213][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.03.12-12.55.12:214][696]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2021.03.12-12.55.12:555][737]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_01)
+[2021.03.12-12.55.12:804][764]Cmd: DELETE
+[2021.03.12-12.55.12:804][764]Cmd: ACTOR DELETE
+[2021.03.12-12.55.12:807][764]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.12-12.55.12:819][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.03.12-12.55.12:820][764]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2021.03.12-12.55.13:158][804]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Enemy_01)
+[2021.03.12-12.55.13:445][835]Cmd: DELETE
+[2021.03.12-12.55.13:445][835]Cmd: ACTOR DELETE
+[2021.03.12-12.55.13:448][835]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.12-12.55.13:461][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.03.12-12.55.13:462][835]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2021.03.12-12.55.13:877][885]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Railing_01)
+[2021.03.12-12.55.14:076][906]Cmd: DELETE
+[2021.03.12-12.55.14:076][906]Cmd: ACTOR DELETE
+[2021.03.12-12.55.14:078][906]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.12-12.55.14:091][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.03.12-12.55.14:092][906]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2021.03.12-12.59.06:431][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.03.12-12.59.06:493][651]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/FirstPersonExampleMap_Auto196F2DA1445D16EE4379124872C8377E1.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2021.03.12-12.59.06:495][651]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.078
+[2021.03.12-12.59.06:495][651]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.078
+[2021.03.12-12.59.06:495][651]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level1_Assets/Meshes/sm_rockflat] ([1] browsable assets)...
+[2021.03.12-12.59.06:502][651]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Level1_Assets/Meshes/sm_rockflat.sm_rockflat]
+[2021.03.12-12.59.06:502][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level1_Assets/Meshes/sm_rockflat]
+[2021.03.12-12.59.06:514][651]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/sm_rockflat_Auto186B2ED3241E311B1979ABDA5E8406434.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/Autosaves/Game/Level1_Assets/Meshes/sm_rockflat_Auto1.uasset'
+[2021.03.12-12.59.06:514][651]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level2_assets/SM_Wall_01] ([1] browsable assets)...
+[2021.03.12-12.59.06:522][651]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Level2_assets/SM_Wall_01.SM_Wall_01]
+[2021.03.12-12.59.06:522][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level2_assets/SM_Wall_01]
+[2021.03.12-12.59.06:530][651]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/SM_Wall_01_Auto16C23BF9E47891052C76D7C86EBD48A24.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/Autosaves/Game/Level2_assets/SM_Wall_01_Auto1.uasset'
+[2021.03.12-12.59.06:530][651]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level2_assets/SM_Stair_01] ([1] browsable assets)...
+[2021.03.12-12.59.06:538][651]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Level2_assets/SM_Stair_01.SM_Stair_01]
+[2021.03.12-12.59.06:538][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level2_assets/SM_Stair_01]
+[2021.03.12-12.59.07:318][651]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/SM_Stair_01_Auto16FE94A0B4248E92989A97889DBBCB519.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/Autosaves/Game/Level2_assets/SM_Stair_01_Auto1.uasset'
+[2021.03.12-12.59.07:319][651]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level2_assets/SM_Railing_01] ([1] browsable assets)...
+[2021.03.12-12.59.07:326][651]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Level2_assets/SM_Railing_01.SM_Railing_01]
+[2021.03.12-12.59.07:326][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level2_assets/SM_Railing_01]
+[2021.03.12-12.59.07:335][651]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/SM_Railing_01_Auto1A49C70BF42F26D72695AA1A588763D41.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/Autosaves/Game/Level2_assets/SM_Railing_01_Auto1.uasset'
+[2021.03.12-12.59.07:336][651]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level2_assets/SM_LowCover_02] ([1] browsable assets)...
+[2021.03.12-12.59.07:342][651]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Level2_assets/SM_LowCover_02.SM_LowCover_02]
+[2021.03.12-12.59.07:342][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level2_assets/SM_LowCover_02]
+[2021.03.12-12.59.07:351][651]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/SM_LowCover_02_Auto12DBDDAA14B96FC010B90F084CA8BB078.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/Autosaves/Game/Level2_assets/SM_LowCover_02_Auto1.uasset'
+[2021.03.12-12.59.07:351][651]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level2_assets/SM_LowCover_01] ([1] browsable assets)...
+[2021.03.12-12.59.07:359][651]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Level2_assets/SM_LowCover_01.SM_LowCover_01]
+[2021.03.12-12.59.07:359][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level2_assets/SM_LowCover_01]
+[2021.03.12-12.59.07:367][651]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/SM_LowCover_01_Auto111EE12D04D1C0669842A0C9943EB2580.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/Autosaves/Game/Level2_assets/SM_LowCover_01_Auto1.uasset'
+[2021.03.12-12.59.07:368][651]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level2_assets/SM_Floor_01] ([1] browsable assets)...
+[2021.03.12-12.59.07:375][651]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Level2_assets/SM_Floor_01.SM_Floor_01]
+[2021.03.12-12.59.07:375][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level2_assets/SM_Floor_01]
+[2021.03.12-12.59.07:384][651]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/SM_Floor_01_Auto1EC70868A4B7F722A330A439DB26F3C00.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/Autosaves/Game/Level2_assets/SM_Floor_01_Auto1.uasset'
+[2021.03.12-12.59.07:384][651]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level2_assets/SM_Enemy_01] ([1] browsable assets)...
+[2021.03.12-12.59.07:391][651]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Level2_assets/SM_Enemy_01.SM_Enemy_01]
+[2021.03.12-12.59.07:391][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level2_assets/SM_Enemy_01]
+[2021.03.12-12.59.07:400][651]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/SM_Enemy_01_Auto1D175C17542207100AF5CE0A2AEDDD766.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/Autosaves/Game/Level2_assets/SM_Enemy_01_Auto1.uasset'
+[2021.03.12-12.59.07:400][651]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level2_assets/SM_BridgeGoodVersion_01] ([1] browsable assets)...
+[2021.03.12-12.59.07:407][651]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Level2_assets/SM_BridgeGoodVersion_01.SM_BridgeGoodVersion_01]
+[2021.03.12-12.59.07:407][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level2_assets/SM_BridgeGoodVersion_01]
+[2021.03.12-12.59.07:415][651]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/SM_BridgeGoodVersion_01_Auto1575067AB40DB7B96D976A6B0B2DA07B6.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/Autosaves/Game/Level2_assets/SM_BridgeGoodVersion_01_Auto1.uasset'
+[2021.03.12-12.59.07:416][651]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level3_assets/SM_Tile_01] ([1] browsable assets)...
+[2021.03.12-12.59.07:424][651]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Level3_assets/SM_Tile_01.SM_Tile_01]
+[2021.03.12-12.59.07:424][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level3_assets/SM_Tile_01]
+[2021.03.12-12.59.07:432][651]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/SM_Tile_01_Auto1713D902147B864CFAA261D938A9D5B01.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/Autosaves/Game/Level3_assets/SM_Tile_01_Auto1.uasset'
+[2021.03.12-12.59.07:433][651]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level3_assets/SM_Tree_01] ([1] browsable assets)...
+[2021.03.12-12.59.07:440][651]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Level3_assets/SM_Tree_01.SM_Tree_01]
+[2021.03.12-12.59.07:440][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level3_assets/SM_Tree_01]
+[2021.03.12-12.59.07:448][651]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/SM_Tree_01_Auto1946CF303452A8F9CD7B54E93416EFD48.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/Autosaves/Game/Level3_assets/SM_Tree_01_Auto1.uasset'
+[2021.03.12-12.59.07:448][651]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level3_assets/SM_Wall3x5_01] ([1] browsable assets)...
+[2021.03.12-12.59.07:456][651]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Level3_assets/SM_Wall3x5_01.SM_Wall3x5_01]
+[2021.03.12-12.59.07:456][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level3_assets/SM_Wall3x5_01]
+[2021.03.12-12.59.07:464][651]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/SM_Wall3x5_01_Auto1BABD8EF840EE98E06B2ED1BF7668D1D8.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/Autosaves/Game/Level3_assets/SM_Wall3x5_01_Auto1.uasset'
+[2021.03.12-12.59.07:464][651]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level3_assets/G3_Bridge_01] ([1] browsable assets)...
+[2021.03.12-12.59.07:471][651]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Level3_assets/G3_Bridge_01.G3_Bridge_01]
+[2021.03.12-12.59.07:471][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level3_assets/G3_Bridge_01]
+[2021.03.12-12.59.07:481][651]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/G3_Bridge_01_Auto1FF969EB14283C45FE1FFE381C2D9C2FA.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/Autosaves/Game/Level3_assets/G3_Bridge_01_Auto1.uasset'
+[2021.03.12-12.59.07:481][651]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level3_assets/SM_Bush_01] ([1] browsable assets)...
+[2021.03.12-12.59.07:488][651]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Level3_assets/SM_Bush_01.SM_Bush_01]
+[2021.03.12-12.59.07:488][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level3_assets/SM_Bush_01]
+[2021.03.12-12.59.07:498][651]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/SM_Bush_01_Auto1F4E8DA1248436D799F88BC888C74DAA4.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/Autosaves/Game/Level3_assets/SM_Bush_01_Auto1.uasset'
+[2021.03.12-12.59.07:498][651]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level3_assets/SM_Enemy_03-CragSquid] ([1] browsable assets)...
+[2021.03.12-12.59.07:505][651]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Level3_assets/SM_Enemy_03-CragSquid.SM_Enemy_03-CragSquid]
+[2021.03.12-12.59.07:505][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level3_assets/SM_Enemy_03-CragSquid]
+[2021.03.12-12.59.07:523][651]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/SM_Enemy_03-CragSquid_Auto1E029D6234E161FE8DB03D4ABD679C54C.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/Autosaves/Game/Level3_assets/SM_Enemy_03-CragSquid_Auto1.uasset'
+[2021.03.12-12.59.07:552][651]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level3_assets/SM_LandMarkPortal_01] ([1] browsable assets)...
+[2021.03.12-12.59.07:559][651]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Level3_assets/SM_LandMarkPortal_01.SM_LandMarkPortal_01]
+[2021.03.12-12.59.07:559][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level3_assets/SM_LandMarkPortal_01]
+[2021.03.12-12.59.07:570][651]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/SM_LandMarkPortal_01_Auto14876C2114F133267C8628E9199E3B586.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/Autosaves/Game/Level3_assets/SM_LandMarkPortal_01_Auto1.uasset'
+[2021.03.12-12.59.07:570][651]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level3_assets/SM_HalfCover3x4_01] ([1] browsable assets)...
+[2021.03.12-12.59.07:577][651]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Level3_assets/SM_HalfCover3x4_01.SM_HalfCover3x4_01]
+[2021.03.12-12.59.07:577][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level3_assets/SM_HalfCover3x4_01]
+[2021.03.12-12.59.07:585][651]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/SM_HalfCover3x4_01_Auto1C3B744E9450AA52477297198852FB6B9.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/Autosaves/Game/Level3_assets/SM_HalfCover3x4_01_Auto1.uasset'
+[2021.03.12-12.59.07:586][651]LogFileHelpers: Auto-saving content packages took 1.091

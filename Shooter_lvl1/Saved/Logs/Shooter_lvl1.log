@@ -1200,3 +1200,282 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.12-10.06.05:624][483]AssetCheck: New page: Asset Save: TestMapRob
 [2021.03.12-10.06.05:624][483]LogContentValidation: Display: Validating World /Game/Maps/Test/TestMapRob.TestMapRob
 [2021.03.12-10.06.59:292][672]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2021.03.12-10.14.48:187][715]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.03.12-10.15.22:057][318]LogSlate: Window 'Project Settings' being destroyed
+[2021.03.12-10.15.22:065][318]LogSlate: Window 'Project Settings' being destroyed
+[2021.03.12-10.17.43:337][842]Cmd: TRANSACTION UNDO
+[2021.03.12-10.17.43:337][842]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.03.12-10.19.44:363][784]Cmd: TRANSACTION UNDO
+[2021.03.12-10.19.44:363][784]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.03.12-10.19.44:374][784]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.03.12-10.19.44:910][796]Cmd: TRANSACTION UNDO
+[2021.03.12-10.19.44:910][796]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.03.12-10.19.44:922][796]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.03.12-10.19.45:406][822]Cmd: TRANSACTION UNDO
+[2021.03.12-10.19.45:407][822]LogEditorTransaction: Undo Set Actor Visibility
+[2021.03.12-10.19.47:357][936]Cmd: TRANSACTION REDO
+[2021.03.12-10.19.47:357][936]LogEditorTransaction: Redo Set Actor Visibility
+[2021.03.12-10.19.48:097][978]Cmd: TRANSACTION REDO
+[2021.03.12-10.19.48:097][978]LogEditorTransaction: Redo Landscape Editing: Sculpt
+[2021.03.12-10.19.48:863][ 20]Cmd: TRANSACTION REDO
+[2021.03.12-10.19.48:863][ 20]LogEditorTransaction: Redo Landscape Editing: Sculpt
+[2021.03.12-10.19.48:874][ 20]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.03.12-10.19.49:870][ 77]Cmd: TRANSACTION UNDO
+[2021.03.12-10.19.49:870][ 77]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.03.12-10.19.55:026][373]Cmd: TRANSACTION UNDO
+[2021.03.12-10.19.55:026][373]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.03.12-10.20.03:679][855]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2021.03.12-10.20.19:421][740]Cmd: TRANSACTION UNDO
+[2021.03.12-10.20.19:421][740]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.03.12-10.20.19:432][740]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.03.12-10.20.25:115][ 51]Cmd: TRANSACTION UNDO
+[2021.03.12-10.20.25:115][ 51]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.03.12-10.20.35:018][611]Cmd: TRANSACTION UNDO
+[2021.03.12-10.20.35:018][611]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.03.12-10.20.35:031][611]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.03.12-10.20.40:935][939]Cmd: TRANSACTION UNDO
+[2021.03.12-10.20.40:935][939]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.03.12-10.20.40:948][939]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.03.12-10.20.41:141][942]Cmd: TRANSACTION UNDO
+[2021.03.12-10.20.41:141][942]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.03.12-10.20.41:153][942]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.03.12-10.20.41:293][944]Cmd: TRANSACTION UNDO
+[2021.03.12-10.20.41:293][944]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.03.12-10.20.41:303][944]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.03.12-10.20.41:447][946]Cmd: TRANSACTION UNDO
+[2021.03.12-10.20.41:447][946]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.03.12-10.20.41:589][951]Cmd: TRANSACTION UNDO
+[2021.03.12-10.20.41:589][951]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.03.12-10.20.41:604][951]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.03.12-10.20.41:738][955]Cmd: TRANSACTION UNDO
+[2021.03.12-10.20.41:738][955]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.03.12-10.20.41:750][955]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.03.12-10.20.41:921][962]Cmd: TRANSACTION UNDO
+[2021.03.12-10.20.41:921][962]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.03.12-10.20.41:932][962]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.03.12-10.20.42:223][976]Cmd: TRANSACTION UNDO
+[2021.03.12-10.20.42:223][976]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.03.12-10.20.42:235][976]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.03.12-10.20.42:456][986]Cmd: TRANSACTION UNDO
+[2021.03.12-10.20.42:456][986]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.03.12-10.20.42:470][986]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.03.12-10.20.42:804][  3]Cmd: TRANSACTION UNDO
+[2021.03.12-10.20.42:804][  3]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.03.12-10.20.42:817][  3]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.03.12-10.20.43:177][ 22]Cmd: TRANSACTION UNDO
+[2021.03.12-10.20.43:177][ 22]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.03.12-10.20.51:742][520]Cmd: TRANSACTION UNDO
+[2021.03.12-10.20.51:742][520]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.03.12-10.23.32:507][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2021.03.12-10.23.32:522][ 80]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.03.12-10.23.32:526][ 80]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2021.03.12-10.23.32:527][ 80]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2021.03.12-10.23.32:622][ 80]LogSavePackage: Moving '../../../../../../PROJECTS/FUTUREGAMES/Level Design/Assignment/UnrealProject/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/TestMapRob_Auto5DFEB6391478BD2745E5F8B87F119A2EC.tmp' to '../../../../../../PROJECTS/FUTUREGAMES/Level Design/Assignment/UnrealProject/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/Autosaves/Game/Maps/Test/TestMapRob_Auto5.umap'
+[2021.03.12-10.23.32:624][ 80]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Test/TestMapRob' took 0.223
+[2021.03.12-10.23.32:624][ 80]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.223
+[2021.03.12-10.27.16:925][755]Cmd: TRANSACTION UNDO
+[2021.03.12-10.27.16:925][755]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.03.12-10.27.16:968][755]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2021.03.12-10.27.16:972][755]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.03.12-10.28.09:837][635]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2021.03.12-10.28.13:672][814]Cmd: TRANSACTION UNDO
+[2021.03.12-10.28.13:672][814]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.03.12-10.28.13:713][814]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2021.03.12-10.28.13:715][814]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.03.12-10.28.14:423][837]Cmd: TRANSACTION UNDO
+[2021.03.12-10.28.14:423][837]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.03.12-10.28.14:465][837]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2021.03.12-10.28.14:466][837]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.03.12-10.28.26:215][489]Cmd: TRANSACTION UNDO
+[2021.03.12-10.28.26:215][489]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.03.12-10.28.26:260][489]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2021.03.12-10.29.14:326][ 33]Cmd: TRANSACTION UNDO
+[2021.03.12-10.29.14:326][ 33]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.03.12-10.29.14:372][ 33]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2021.03.12-10.29.14:373][ 33]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.03.12-10.29.29:057][828]Cmd: TRANSACTION UNDO
+[2021.03.12-10.29.29:057][828]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.03.12-10.29.29:069][828]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.03.12-10.30.45:482][ 50]Cmd: TRANSACTION UNDO
+[2021.03.12-10.30.45:482][ 50]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2021.03.12-10.30.45:492][ 50]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.03.12-10.32.25:077][722]Cmd: TRANSACTION UNDO
+[2021.03.12-10.32.25:078][722]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.03.12-10.32.25:119][722]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2021.03.12-10.32.25:121][722]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.03.12-10.34.11:868][746]Cmd: TRANSACTION UNDO
+[2021.03.12-10.34.11:868][746]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.03.12-10.34.11:915][746]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2021.03.12-10.34.11:916][746]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.03.12-10.34.53:793][977]Cmd: TRANSACTION UNDO
+[2021.03.12-10.34.53:793][977]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.03.12-10.34.53:866][977]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2021.03.12-10.34.53:869][977]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2021.03.12-10.34.53:871][977]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.03.12-10.36.13:950][469]Cmd: TRANSACTION UNDO
+[2021.03.12-10.36.13:950][469]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.03.12-10.36.13:961][469]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.03.12-10.36.16:880][613]Cmd: TRANSACTION UNDO
+[2021.03.12-10.36.16:880][613]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.03.12-10.39.24:198][120]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.12-10.39.24:216][120]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.12-10.39.24:216][120]PIE: New page: PIE session: TestMapRob (Mar 12, 2021, 12:39:24 PM)
+[2021.03.12-10.39.24:217][120]LogPlayLevel: Creating play world package: /Game/Maps/Test/UEDPIE_0_TestMapRob
+[2021.03.12-10.39.24:249][120]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032533s)
+[2021.03.12-10.39.24:251][120]LogAIModule: Creating AISystem for world TestMapRob
+[2021.03.12-10.39.24:251][120]LogPlayLevel: PIE: World Init took: (0.001748s)
+[2021.03.12-10.39.24:251][120]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test/TestMapRob.TestMapRob to /Game/Maps/Test/UEDPIE_0_TestMapRob.TestMapRob (0.034465s)
+[2021.03.12-10.39.24:334][120]LogUObjectHash: Compacting FUObjectHashTables data took   6.61ms
+[2021.03.12-10.39.24:346][120]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.03.12-10.39.24:346][120]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.12-10.39.24:346][120]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.12-10.39.24:346][120]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.12-10.39.24:346][120]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.12-10.39.24:346][120]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.12-10.39.24:346][120]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.12-10.39.24:346][120]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.12-10.39.24:346][120]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.12-10.39.24:346][120]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.12-10.39.24:346][120]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.12-10.39.24:351][120]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.12-10.39.24:351][120]LogAudioMixer: Display: 1: FrontRight
+[2021.03.12-10.39.24:365][120]LogAudioMixer: Display: Using Audio Device Speakers (2- FiiO Q series)
+[2021.03.12-10.39.24:365][120]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.12-10.39.24:365][120]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.12-10.39.24:365][120]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.12-10.39.24:366][120]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.12-10.39.24:366][120]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.12-10.39.24:366][120]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.12-10.39.24:386][120]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.12-10.39.24:386][120]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.12-10.39.24:386][120]LogInit: FAudioDevice initialized.
+[2021.03.12-10.39.24:386][120]LogAudio: Display: Audio Device (ID: 5) registered with world 'TestMapRob'.
+[2021.03.12-10.39.24:393][120]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.03.12-10.39.24:398][120]LogWorld: Bringing World /Game/Maps/Test/UEDPIE_0_TestMapRob.TestMapRob up for play (max tick rate 60) at 2021.03.12-11.39.24
+[2021.03.12-10.39.24:399][120]LogWorld: Bringing up level for play took: 0.004242
+[2021.03.12-10.39.24:399][120]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.03.12-10.39.24:403][120]PIE: Server logged in
+[2021.03.12-10.39.24:404][120]PIE: Play in editor total start time 0.19 seconds.
+[2021.03.12-10.39.34:333][686]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-10.39.34:333][686]LogWorld: BeginTearingDown for /Game/Maps/Test/UEDPIE_0_TestMapRob
+[2021.03.12-10.39.34:333][686]LogWorld: UWorld::CleanupWorld for TestMapRob, bSessionEnded=true, bCleanupResources=true
+[2021.03.12-10.39.34:334][686]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-10.39.34:343][686]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.12-10.39.34:349][686]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-10.39.34:376][686]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-10.39.34:377][686]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.12-10.39.34:378][686]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.12-10.39.34:404][686]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.03.12-10.39.34:449][687]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.03.12-10.40.09:338][572]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.12-10.40.09:354][572]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.12-10.40.09:354][572]PIE: New page: PIE session: TestMapRob (Mar 12, 2021, 12:40:09 PM)
+[2021.03.12-10.40.09:355][572]LogPlayLevel: Creating play world package: /Game/Maps/Test/UEDPIE_0_TestMapRob
+[2021.03.12-10.40.09:386][572]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030904s)
+[2021.03.12-10.40.09:387][572]LogAIModule: Creating AISystem for world TestMapRob
+[2021.03.12-10.40.09:387][572]LogPlayLevel: PIE: World Init took: (0.001363s)
+[2021.03.12-10.40.09:387][572]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test/TestMapRob.TestMapRob to /Game/Maps/Test/UEDPIE_0_TestMapRob.TestMapRob (0.032429s)
+[2021.03.12-10.40.09:423][572]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2021.03.12-10.40.09:429][572]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.03.12-10.40.09:429][572]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.12-10.40.09:429][572]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.12-10.40.09:429][572]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.12-10.40.09:429][572]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.12-10.40.09:429][572]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.12-10.40.09:429][572]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.12-10.40.09:429][572]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.12-10.40.09:429][572]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.12-10.40.09:429][572]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.12-10.40.09:429][572]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.12-10.40.09:433][572]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.12-10.40.09:433][572]LogAudioMixer: Display: 1: FrontRight
+[2021.03.12-10.40.09:442][572]LogAudioMixer: Display: Using Audio Device Speakers (2- FiiO Q series)
+[2021.03.12-10.40.09:442][572]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.12-10.40.09:442][572]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.12-10.40.09:442][572]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.12-10.40.09:443][572]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.12-10.40.09:443][572]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.12-10.40.09:443][572]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.12-10.40.09:459][572]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.12-10.40.09:459][572]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.12-10.40.09:459][572]LogInit: FAudioDevice initialized.
+[2021.03.12-10.40.09:459][572]LogAudio: Display: Audio Device (ID: 6) registered with world 'TestMapRob'.
+[2021.03.12-10.40.09:472][572]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.03.12-10.40.09:477][572]LogWorld: Bringing World /Game/Maps/Test/UEDPIE_0_TestMapRob.TestMapRob up for play (max tick rate 60) at 2021.03.12-11.40.09
+[2021.03.12-10.40.09:477][572]LogWorld: Bringing up level for play took: 0.004716
+[2021.03.12-10.40.09:478][572]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.03.12-10.40.09:481][572]PIE: Server logged in
+[2021.03.12-10.40.09:482][572]PIE: Play in editor total start time 0.129 seconds.
+[2021.03.12-10.41.13:748][363]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-10.41.13:748][363]LogWorld: BeginTearingDown for /Game/Maps/Test/UEDPIE_0_TestMapRob
+[2021.03.12-10.41.13:748][363]LogWorld: UWorld::CleanupWorld for TestMapRob, bSessionEnded=true, bCleanupResources=true
+[2021.03.12-10.41.13:749][363]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-10.41.13:756][363]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.12-10.41.13:762][363]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-10.41.13:791][363]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.12-10.41.13:791][363]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.12-10.41.13:792][363]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.12-10.41.13:813][363]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-10.41.13:818][363]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2021.03.12-10.41.13:867][364]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.03.12-10.41.50:890][525]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2021.03.12-10.41.50:909][525]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.03.12-10.41.50:914][525]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2021.03.12-10.41.50:915][525]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2021.03.12-10.41.50:916][525]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2021.03.12-10.41.51:018][525]LogSavePackage: Moving '../../../../../../PROJECTS/FUTUREGAMES/Level Design/Assignment/UnrealProject/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/TestMapRob_Auto63F0B96124B44E4CDF625D99BBACB321C.tmp' to '../../../../../../PROJECTS/FUTUREGAMES/Level Design/Assignment/UnrealProject/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/Autosaves/Game/Maps/Test/TestMapRob_Auto6.umap'
+[2021.03.12-10.41.51:024][525]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Test/TestMapRob' took 0.169
+[2021.03.12-10.41.51:024][525]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.169
+[2021.03.12-10.44.10:703][728]Cmd: TRANSACTION UNDO
+[2021.03.12-10.44.10:703][728]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.03.12-10.44.15:835][879]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Map_DrawnBluePrint)
+[2021.03.12-10.44.16:692][898]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2021.03.12-10.44.47:296][942]Cmd: TRANSACTION UNDO
+[2021.03.12-10.44.47:296][942]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.03.12-10.44.47:380][942]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2021.03.12-10.44.47:381][942]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.03.12-10.44.47:845][952]Cmd: TRANSACTION UNDO
+[2021.03.12-10.44.47:845][952]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.03.12-10.44.47:926][952]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2021.03.12-10.44.47:930][952]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.03.12-10.44.48:283][961]Cmd: TRANSACTION UNDO
+[2021.03.12-10.44.48:283][961]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.03.12-10.44.48:377][961]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2021.03.12-10.44.48:378][961]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.03.12-10.44.48:521][965]Cmd: TRANSACTION UNDO
+[2021.03.12-10.44.48:521][965]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.03.12-10.44.48:600][965]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2021.03.12-10.44.48:601][965]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.03.12-10.44.48:831][971]Cmd: TRANSACTION UNDO
+[2021.03.12-10.44.48:831][971]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.03.12-10.44.48:910][971]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2021.03.12-10.44.48:912][971]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.03.12-10.45.03:761][486]Cmd: TRANSACTION UNDO
+[2021.03.12-10.45.03:761][486]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.03.12-10.45.03:841][486]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2021.03.12-10.45.03:842][486]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.03.12-10.45.04:856][511]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2021.03.12-10.45.11:907][744]Cmd: TRANSACTION UNDO
+[2021.03.12-10.45.11:908][744]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.03.12-10.45.11:994][744]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2021.03.12-10.45.11:995][744]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.03.12-10.45.21:623][ 66]Cmd: TRANSACTION UNDO
+[2021.03.12-10.45.21:624][ 66]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.03.12-10.45.21:704][ 66]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2021.03.12-10.45.21:704][ 66]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.03.12-10.45.22:564][ 87]Cmd: TRANSACTION UNDO
+[2021.03.12-10.45.22:564][ 87]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.03.12-10.53.04:521][454]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2021.03.12-10.53.04:545][454]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.03.12-10.53.04:550][454]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2021.03.12-10.53.04:550][454]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2021.03.12-10.53.04:649][454]LogSavePackage: Moving '../../../../../../PROJECTS/FUTUREGAMES/Level Design/Assignment/UnrealProject/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/TestMapRob_Auto70E2A633F4CCF307654DD9D85D6CD39C8.tmp' to '../../../../../../PROJECTS/FUTUREGAMES/Level Design/Assignment/UnrealProject/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/Autosaves/Game/Maps/Test/TestMapRob_Auto7.umap'
+[2021.03.12-10.53.04:933][454]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Test/TestMapRob' took 0.448
+[2021.03.12-10.53.04:933][454]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.448
+[2021.03.12-10.53.07:149][505]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2021.03.12-10.53.08:198][505]LogSlate: Window 'Save Content' being destroyed
+[2021.03.12-10.53.08:272][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.03.12-10.53.08:371][505]LogSavePackage: Moving '../../../../../../PROJECTS/FUTUREGAMES/Level Design/Assignment/UnrealProject/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/TestMapRobD8F6F2DC4125A5D2EB90109F2DB62270.tmp' to '../../../../../../PROJECTS/FUTUREGAMES/Level Design/Assignment/UnrealProject/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Maps/Test/TestMapRob.umap'
+[2021.03.12-10.53.08:412][505]LogFileHelpers: Saving map 'TestMapRob' took 0.168
+[2021.03.12-10.53.08:430][505]AssetCheck: New page: Asset Save: TestMapRob
+[2021.03.12-10.53.08:430][505]LogContentValidation: Display: Validating World /Game/Maps/Test/TestMapRob.TestMapRob

@@ -1071,3 +1071,1264 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.12-12.35.03:182][915]AssetCheck: New page: Asset Save: multiple assets
 [2021.03.12-12.35.03:182][915]LogContentValidation: Display: Validating StaticMesh /Game/Level1_Assets/Meshes/sm_cover.sm_cover
 [2021.03.12-12.35.03:182][915]LogContentValidation: Display: Validating StaticMesh /Game/Level1_Assets/Meshes/sm_plank.sm_plank
+[2021.03.12-12.35.37:891][874]LogActorFactory: Actor Factory created sm_landmarktree
+[2021.03.12-12.35.38:333][926]LogActorFactory: Actor Factory created sm_landmarktree
+[2021.03.12-12.35.51:498][459]Cmd: DELETE
+[2021.03.12-12.35.51:498][459]Cmd: ACTOR DELETE
+[2021.03.12-12.35.51:500][459]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.12-12.35.51:504][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.03.12-12.35.51:507][459]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2021.03.12-12.35.53:763][726]LogActorFactory: Actor Factory created sm_pickup
+[2021.03.12-12.35.53:991][753]LogActorFactory: Actor Factory created sm_pickup
+[2021.03.12-12.35.54:605][823]Cmd: DELETE
+[2021.03.12-12.35.54:605][823]Cmd: ACTOR DELETE
+[2021.03.12-12.35.54:608][823]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.12-12.35.54:612][823]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.03.12-12.35.54:613][823]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2021.03.12-12.37.42:960][403]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Simon\Downloads\SM_PickUp_01.fbx)
+[2021.03.12-12.37.42:967][403]LogFbx: Loading FBX Scene from C:\Users\Simon\Downloads\SM_PickUp_01.fbx
+[2021.03.12-12.37.42:971][403]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.12-12.37.46:723][403]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.03.12-12.37.46:751][403]LogFbx: Display: Triangulating static mesh Cube
+[2021.03.12-12.37.46:755][403]LogStaticMesh: Building static mesh SM_PickUp_01...
+[2021.03.12-12.37.46:758][403]LogStaticMesh: Built static mesh [0.00s] /Game/Level1_Assets/Meshes/SM_PickUp_01.SM_PickUp_01
+[2021.03.12-12.37.46:761][403]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.12-12.37.50:030][759]LogSlate: Window 'Message Log' being destroyed
+[2021.03.12-12.37.50:035][759]LogSlate: Window 'Message Log' being destroyed
+[2021.03.12-12.37.50:838][850]LogActorFactory: Actor Factory created SM_PickUp_01
+[2021.03.12-12.37.51:145][886]LogActorFactory: Actor Factory created SM_PickUp_01
+[2021.03.12-12.37.55:864][435]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Map_DrawnBluePrintTOP)
+[2021.03.12-12.38.13:176][473]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PickUp_01)
+[2021.03.12-12.38.13:753][539]Cmd: DELETE
+[2021.03.12-12.38.13:753][539]Cmd: ACTOR DELETE
+[2021.03.12-12.38.13:756][539]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.12-12.38.13:760][539]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.03.12-12.38.13:763][539]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2021.03.12-12.38.22:312][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.03.12-12.38.31:822][638]LogContentBrowser: Attempting asset rename: BP_Pickup_2 -> BP_PickupReal
+[2021.03.12-12.38.31:835][638]LogMetaData: Removing '/Game/Level1_Assets/BPs/BP_PickupReal.SKEL_BP_PickupReal_C' ref from Metadata '/Game/Level1_Assets/BPs/BP_Pickup_2.PackageMetaData'
+[2021.03.12-12.38.31:835][638]LogMetaData: Removing '/Game/Level1_Assets/BPs/BP_PickupReal.BP_PickupReal_C' ref from Metadata '/Game/Level1_Assets/BPs/BP_Pickup_2.PackageMetaData'
+[2021.03.12-12.38.31:835][638]LogMetaData: Removing '/Game/Level1_Assets/BPs/BP_PickupReal.SKEL_BP_PickupReal_C:ReceiveBeginPlay' ref from Metadata '/Game/Level1_Assets/BPs/BP_Pickup_2.PackageMetaData'
+[2021.03.12-12.38.31:835][638]LogMetaData: Removing '/Game/Level1_Assets/BPs/BP_PickupReal.SKEL_BP_PickupReal_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Level1_Assets/BPs/BP_Pickup_2.PackageMetaData'
+[2021.03.12-12.38.31:835][638]LogMetaData: Removing '/Game/Level1_Assets/BPs/BP_PickupReal.SKEL_BP_PickupReal_C:UserConstructionScript' ref from Metadata '/Game/Level1_Assets/BPs/BP_Pickup_2.PackageMetaData'
+[2021.03.12-12.38.31:835][638]LogMetaData: Removing '/Game/Level1_Assets/BPs/BP_PickupReal.BP_PickupReal_C:ReceiveBeginPlay' ref from Metadata '/Game/Level1_Assets/BPs/BP_Pickup_2.PackageMetaData'
+[2021.03.12-12.38.31:849][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1_Assets/BPs/BP_PickupReal" FILE="D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level1_Assets/BPs/BP_PickupReal.uasset" SILENT=true
+[2021.03.12-12.38.31:916][638]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/BP_PickupReal9B9237A6421DE65013B54D9B36FEAFD1.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level1_Assets/BPs/BP_PickupReal.uasset'
+[2021.03.12-12.38.31:948][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.03.12-12.38.31:959][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.03.12-12.38.31:963][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.03.12-12.38.31:984][638]AssetCheck: New page: Asset Save: BP_PickupReal
+[2021.03.12-12.38.31:984][638]LogContentValidation: Display: Validating Blueprint /Game/Level1_Assets/BPs/BP_PickupReal.BP_PickupReal
+[2021.03.12-12.38.33:399][805]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Level1_Assets/BPs/BP_PickupReal.BP_PickupReal
+[2021.03.12-12.38.33:737][805]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2021.03.12-12.38.35:115][805]LogSlate: Took 0.018226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.03.12-12.38.45:455][861]BlueprintLog: New page: Compile BP_PickupReal
+[2021.03.12-12.38.45:506][861]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.03.12-12.38.45:890][898]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1_Assets/BPs/BP_PickupReal" FILE="D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level1_Assets/BPs/BP_PickupReal.uasset" SILENT=true
+[2021.03.12-12.38.45:902][898]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/BP_PickupReal1D33FE9248C64C702BC56595280CB951.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level1_Assets/BPs/BP_PickupReal.uasset'
+[2021.03.12-12.38.45:915][898]AssetCheck: New page: Asset Save: BP_PickupReal
+[2021.03.12-12.38.45:915][898]LogContentValidation: Display: Validating Blueprint /Game/Level1_Assets/BPs/BP_PickupReal.BP_PickupReal
+[2021.03.12-12.38.49:777][333]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.12-12.38.49:786][333]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.12-12.38.49:787][333]PIE: New page: PIE session: FirstPersonExampleMap (Mar 12, 2021, 2:38:49 PM)
+[2021.03.12-12.38.49:788][333]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.03.12-12.38.49:788][333]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.03.12-12.38.49:789][333]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.03.12-12.38.49:810][333]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022126s)
+[2021.03.12-12.38.49:811][333]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.03.12-12.38.49:811][333]LogPlayLevel: PIE: World Init took: (0.000885s)
+[2021.03.12-12.38.49:811][333]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.023134s)
+[2021.03.12-12.38.49:835][333]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.03.12-12.38.49:838][333]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.03.12-12.38.49:838][333]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.12-12.38.49:838][333]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.12-12.38.49:838][333]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.12-12.38.49:838][333]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.12-12.38.49:838][333]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.12-12.38.49:838][333]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.12-12.38.49:838][333]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.12-12.38.49:838][333]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.12-12.38.49:838][333]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.12-12.38.49:838][333]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.12-12.38.49:842][333]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.12-12.38.49:842][333]LogAudioMixer: Display: 1: FrontRight
+[2021.03.12-12.38.49:842][333]LogAudioMixer: Display: 2: FrontCenter
+[2021.03.12-12.38.49:842][333]LogAudioMixer: Display: 3: LowFrequency
+[2021.03.12-12.38.49:842][333]LogAudioMixer: Display: 4: BackLeft
+[2021.03.12-12.38.49:842][333]LogAudioMixer: Display: 5: BackRight
+[2021.03.12-12.38.49:842][333]LogAudioMixer: Display: 6: SideLeft
+[2021.03.12-12.38.49:842][333]LogAudioMixer: Display: 7: SideRight
+[2021.03.12-12.38.49:864][333]LogAudioMixer: Display: Using Audio Device Hörlurar (ROG Headset)
+[2021.03.12-12.38.49:864][333]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.12-12.38.49:864][333]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.12-12.38.49:864][333]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.12-12.38.49:864][333]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.12-12.38.49:864][333]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.12-12.38.49:864][333]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.03.12-12.38.49:876][333]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.12-12.38.49:876][333]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.12-12.38.49:876][333]LogInit: FAudioDevice initialized.
+[2021.03.12-12.38.49:877][333]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonExampleMap'.
+[2021.03.12-12.38.49:882][333]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.03.12-12.38.49:885][333]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.03.12-13.38.49
+[2021.03.12-12.38.49:885][333]LogWorld: Bringing up level for play took: 0.002318
+[2021.03.12-12.38.49:885][333]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.03.12-12.38.49:888][333]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.03.12-12.38.49:888][333]PIE: Server logged in
+[2021.03.12-12.38.49:889][333]PIE: Play in editor total start time 0.104 seconds.
+[2021.03.12-12.38.55:064][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-12.38.55:064][915]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.03.12-12.38.55:064][915]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.12-12.38.55:065][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-12.38.55:070][915]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.12-12.38.55:080][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-12.38.55:099][915]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.12-12.38.55:106][915]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.12-12.38.55:107][915]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.12-12.38.55:125][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-12.38.55:153][915]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2021.03.12-12.38.55:185][916]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.03.12-12.39.10:714][704]BlueprintLog: New page: Compile BP_PickupReal
+[2021.03.12-12.39.10:767][704]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2021.03.12-12.39.11:169][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1_Assets/BPs/BP_PickupReal" FILE="D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level1_Assets/BPs/BP_PickupReal.uasset" SILENT=true
+[2021.03.12-12.39.11:182][744]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/BP_PickupReal95CE68D14D29EC4DC9706080BBCF4349.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level1_Assets/BPs/BP_PickupReal.uasset'
+[2021.03.12-12.39.11:195][744]AssetCheck: New page: Asset Save: BP_PickupReal
+[2021.03.12-12.39.11:195][744]LogContentValidation: Display: Validating Blueprint /Game/Level1_Assets/BPs/BP_PickupReal.BP_PickupReal
+[2021.03.12-12.39.11:823][815]LogSlate: Window 'BP_PickupReal' being destroyed
+[2021.03.12-12.39.11:827][815]LogSlate: Window 'BP_PickupReal' being destroyed
+[2021.03.12-12.39.11:884][815]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.03.12-12.39.11:884][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-12.39.12:449][871]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.12-12.39.12:457][871]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.12-12.39.12:457][871]PIE: New page: PIE session: FirstPersonExampleMap (Mar 12, 2021, 2:39:12 PM)
+[2021.03.12-12.39.12:484][871]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.03.12-12.39.12:505][871]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020702s)
+[2021.03.12-12.39.12:506][871]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.03.12-12.39.12:506][871]LogPlayLevel: PIE: World Init took: (0.001331s)
+[2021.03.12-12.39.12:506][871]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.022171s)
+[2021.03.12-12.39.12:544][871]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.03.12-12.39.12:546][871]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.03.12-12.39.12:546][871]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.12-12.39.12:546][871]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.12-12.39.12:546][871]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.12-12.39.12:546][871]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.12-12.39.12:546][871]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.12-12.39.12:546][871]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.12-12.39.12:546][871]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.12-12.39.12:546][871]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.12-12.39.12:546][871]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.12-12.39.12:546][871]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.12-12.39.12:549][871]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.12-12.39.12:549][871]LogAudioMixer: Display: 1: FrontRight
+[2021.03.12-12.39.12:549][871]LogAudioMixer: Display: 2: FrontCenter
+[2021.03.12-12.39.12:549][871]LogAudioMixer: Display: 3: LowFrequency
+[2021.03.12-12.39.12:549][871]LogAudioMixer: Display: 4: BackLeft
+[2021.03.12-12.39.12:549][871]LogAudioMixer: Display: 5: BackRight
+[2021.03.12-12.39.12:549][871]LogAudioMixer: Display: 6: SideLeft
+[2021.03.12-12.39.12:549][871]LogAudioMixer: Display: 7: SideRight
+[2021.03.12-12.39.12:571][871]LogAudioMixer: Display: Using Audio Device Hörlurar (ROG Headset)
+[2021.03.12-12.39.12:571][871]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.12-12.39.12:571][871]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.12-12.39.12:571][871]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.12-12.39.12:572][871]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.12-12.39.12:572][871]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.12-12.39.12:572][871]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.03.12-12.39.12:584][871]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.12-12.39.12:584][871]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.12-12.39.12:584][871]LogInit: FAudioDevice initialized.
+[2021.03.12-12.39.12:584][871]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonExampleMap'.
+[2021.03.12-12.39.12:593][871]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.03.12-12.39.12:596][871]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.03.12-13.39.12
+[2021.03.12-12.39.12:596][871]LogWorld: Bringing up level for play took: 0.002084
+[2021.03.12-12.39.12:596][871]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.03.12-12.39.12:598][871]PIE: Server logged in
+[2021.03.12-12.39.12:599][871]PIE: Play in editor total start time 0.143 seconds.
+[2021.03.12-12.39.30:634][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-12.39.30:634][ 28]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.03.12-12.39.30:634][ 28]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.12-12.39.30:635][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-12.39.30:641][ 28]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.12-12.39.30:649][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-12.39.30:667][ 28]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.12-12.39.30:668][ 28]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.12-12.39.30:668][ 28]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.12-12.39.30:699][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-12.39.30:716][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2021.03.12-12.39.30:745][ 29]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.03.12-12.39.45:266][712]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Level1_Assets/BPs/BP_PickupReal.BP_PickupReal
+[2021.03.12-12.39.55:023][647]BlueprintLog: New page: Compile BP_PickupReal
+[2021.03.12-12.39.55:059][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.03.12-12.39.55:445][681]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1_Assets/BPs/BP_PickupReal" FILE="D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level1_Assets/BPs/BP_PickupReal.uasset" SILENT=true
+[2021.03.12-12.39.55:457][681]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/BP_PickupReal9F515A204BFB1242E286BBA97F96C99D.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level1_Assets/BPs/BP_PickupReal.uasset'
+[2021.03.12-12.39.55:466][681]AssetCheck: New page: Asset Save: BP_PickupReal
+[2021.03.12-12.39.55:466][681]LogContentValidation: Display: Validating Blueprint /Game/Level1_Assets/BPs/BP_PickupReal.BP_PickupReal
+[2021.03.12-12.39.55:930][726]LogSlate: Window 'BP_PickupReal' being destroyed
+[2021.03.12-12.39.55:935][726]LogSlate: Window 'BP_PickupReal' being destroyed
+[2021.03.12-12.39.55:984][726]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.03.12-12.39.55:984][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-12.39.56:526][784]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.12-12.39.56:535][784]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.12-12.39.56:535][784]PIE: New page: PIE session: FirstPersonExampleMap (Mar 12, 2021, 2:39:56 PM)
+[2021.03.12-12.39.56:535][784]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.03.12-12.39.56:555][784]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019580s)
+[2021.03.12-12.39.56:556][784]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.03.12-12.39.56:556][784]LogPlayLevel: PIE: World Init took: (0.001053s)
+[2021.03.12-12.39.56:556][784]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.020756s)
+[2021.03.12-12.39.56:577][784]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.03.12-12.39.56:579][784]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.03.12-12.39.56:579][784]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.12-12.39.56:579][784]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.12-12.39.56:579][784]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.12-12.39.56:579][784]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.12-12.39.56:579][784]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.12-12.39.56:579][784]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.12-12.39.56:579][784]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.12-12.39.56:579][784]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.12-12.39.56:579][784]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.12-12.39.56:579][784]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.12-12.39.56:582][784]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.12-12.39.56:582][784]LogAudioMixer: Display: 1: FrontRight
+[2021.03.12-12.39.56:582][784]LogAudioMixer: Display: 2: FrontCenter
+[2021.03.12-12.39.56:582][784]LogAudioMixer: Display: 3: LowFrequency
+[2021.03.12-12.39.56:582][784]LogAudioMixer: Display: 4: BackLeft
+[2021.03.12-12.39.56:582][784]LogAudioMixer: Display: 5: BackRight
+[2021.03.12-12.39.56:582][784]LogAudioMixer: Display: 6: SideLeft
+[2021.03.12-12.39.56:582][784]LogAudioMixer: Display: 7: SideRight
+[2021.03.12-12.39.56:603][784]LogAudioMixer: Display: Using Audio Device Hörlurar (ROG Headset)
+[2021.03.12-12.39.56:603][784]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.12-12.39.56:603][784]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.12-12.39.56:603][784]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.12-12.39.56:604][784]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.12-12.39.56:604][784]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.12-12.39.56:604][784]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.03.12-12.39.56:616][784]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.12-12.39.56:616][784]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.12-12.39.56:616][784]LogInit: FAudioDevice initialized.
+[2021.03.12-12.39.56:616][784]LogAudio: Display: Audio Device (ID: 4) registered with world 'FirstPersonExampleMap'.
+[2021.03.12-12.39.56:625][784]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.03.12-12.39.56:627][784]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.03.12-13.39.56
+[2021.03.12-12.39.56:627][784]LogWorld: Bringing up level for play took: 0.002069
+[2021.03.12-12.39.56:627][784]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.03.12-12.39.56:629][784]PIE: Server logged in
+[2021.03.12-12.39.56:630][784]PIE: Play in editor total start time 0.096 seconds.
+[2021.03.12-12.40.05:174][802]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-12.40.05:174][802]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.03.12-12.40.05:174][802]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.12-12.40.05:175][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-12.40.05:179][802]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.12-12.40.05:186][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-12.40.05:198][802]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.12-12.40.05:198][802]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.12-12.40.05:199][802]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.12-12.40.05:227][802]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-12.40.05:231][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2021.03.12-12.40.05:261][803]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.03.12-12.40.06:481][944]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Level1_Assets/BPs/BP_PickupReal.BP_PickupReal
+[2021.03.12-12.40.16:841][ 40]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Level1_Assets/Meshes/SM_PickUp_01.SM_PickUp_01
+[2021.03.12-12.40.26:887][114]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/SM_PickUp_01E82A98524BCF139FB4FC7AA8BF7806DC.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level1_Assets/Meshes/SM_PickUp_01.uasset'
+[2021.03.12-12.40.26:896][114]AssetCheck: New page: Asset Save: SM_PickUp_01
+[2021.03.12-12.40.26:896][114]LogContentValidation: Display: Validating StaticMesh /Game/Level1_Assets/Meshes/SM_PickUp_01.SM_PickUp_01
+[2021.03.12-12.40.37:912][318]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/SM_PickUp_016C9CE99D4547037F78AD77BA1F036181.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level1_Assets/Meshes/SM_PickUp_01.uasset'
+[2021.03.12-12.40.37:920][318]AssetCheck: New page: Asset Save: SM_PickUp_01
+[2021.03.12-12.40.37:920][318]LogContentValidation: Display: Validating StaticMesh /Game/Level1_Assets/Meshes/SM_PickUp_01.SM_PickUp_01
+[2021.03.12-12.40.38:278][358]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/SM_PickUp_01A7513AB748AC8865702945859F7574CC.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level1_Assets/Meshes/SM_PickUp_01.uasset'
+[2021.03.12-12.40.38:287][358]AssetCheck: New page: Asset Save: SM_PickUp_01
+[2021.03.12-12.40.38:287][358]LogContentValidation: Display: Validating StaticMesh /Game/Level1_Assets/Meshes/SM_PickUp_01.SM_PickUp_01
+[2021.03.12-12.40.38:521][383]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/SM_PickUp_01B0B724B34E530EB38362139ABDB6521E.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level1_Assets/Meshes/SM_PickUp_01.uasset'
+[2021.03.12-12.40.38:529][383]AssetCheck: New page: Asset Save: SM_PickUp_01
+[2021.03.12-12.40.38:529][383]LogContentValidation: Display: Validating StaticMesh /Game/Level1_Assets/Meshes/SM_PickUp_01.SM_PickUp_01
+[2021.03.12-12.40.38:688][399]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/SM_PickUp_018B439A674ED4F802CEF7C18F75F47ADF.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level1_Assets/Meshes/SM_PickUp_01.uasset'
+[2021.03.12-12.40.38:695][399]AssetCheck: New page: Asset Save: SM_PickUp_01
+[2021.03.12-12.40.38:695][399]LogContentValidation: Display: Validating StaticMesh /Game/Level1_Assets/Meshes/SM_PickUp_01.SM_PickUp_01
+[2021.03.12-12.40.38:876][418]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/SM_PickUp_012BEA380B44D66D078CE0568FE8ADF938.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level1_Assets/Meshes/SM_PickUp_01.uasset'
+[2021.03.12-12.40.38:884][418]AssetCheck: New page: Asset Save: SM_PickUp_01
+[2021.03.12-12.40.38:884][418]LogContentValidation: Display: Validating StaticMesh /Game/Level1_Assets/Meshes/SM_PickUp_01.SM_PickUp_01
+[2021.03.12-12.40.39:111][443]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/SM_PickUp_01FCEB1E924C85E06D3B396FBE3397659C.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level1_Assets/Meshes/SM_PickUp_01.uasset'
+[2021.03.12-12.40.39:118][443]AssetCheck: New page: Asset Save: SM_PickUp_01
+[2021.03.12-12.40.39:118][443]LogContentValidation: Display: Validating StaticMesh /Game/Level1_Assets/Meshes/SM_PickUp_01.SM_PickUp_01
+[2021.03.12-12.40.39:340][467]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/SM_PickUp_0155768D7549121002A060A48A2CD5BB36.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level1_Assets/Meshes/SM_PickUp_01.uasset'
+[2021.03.12-12.40.39:349][467]AssetCheck: New page: Asset Save: SM_PickUp_01
+[2021.03.12-12.40.39:349][467]LogContentValidation: Display: Validating StaticMesh /Game/Level1_Assets/Meshes/SM_PickUp_01.SM_PickUp_01
+[2021.03.12-12.40.39:900][522]LogSlate: Window 'SM_PickUp_01' being destroyed
+[2021.03.12-12.40.39:904][522]LogSlate: Window 'SM_PickUp_01' being destroyed
+[2021.03.12-12.40.39:910][522]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.03.12-12.40.39:910][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-12.40.39:961][522]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.03.12-12.40.39:961][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-12.40.40:615][593]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.12-12.40.40:623][593]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.12-12.40.40:623][593]PIE: New page: PIE session: FirstPersonExampleMap (Mar 12, 2021, 2:40:40 PM)
+[2021.03.12-12.40.40:654][593]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.03.12-12.40.40:675][593]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020765s)
+[2021.03.12-12.40.40:676][593]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.03.12-12.40.40:676][593]LogPlayLevel: PIE: World Init took: (0.001089s)
+[2021.03.12-12.40.40:676][593]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.022007s)
+[2021.03.12-12.40.40:695][593]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2021.03.12-12.40.40:698][593]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.03.12-12.40.40:698][593]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.12-12.40.40:699][593]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.12-12.40.40:699][593]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.12-12.40.40:699][593]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.12-12.40.40:699][593]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.12-12.40.40:699][593]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.12-12.40.40:699][593]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.12-12.40.40:699][593]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.12-12.40.40:699][593]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.12-12.40.40:699][593]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.12-12.40.40:702][593]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.12-12.40.40:702][593]LogAudioMixer: Display: 1: FrontRight
+[2021.03.12-12.40.40:702][593]LogAudioMixer: Display: 2: FrontCenter
+[2021.03.12-12.40.40:702][593]LogAudioMixer: Display: 3: LowFrequency
+[2021.03.12-12.40.40:702][593]LogAudioMixer: Display: 4: BackLeft
+[2021.03.12-12.40.40:702][593]LogAudioMixer: Display: 5: BackRight
+[2021.03.12-12.40.40:702][593]LogAudioMixer: Display: 6: SideLeft
+[2021.03.12-12.40.40:702][593]LogAudioMixer: Display: 7: SideRight
+[2021.03.12-12.40.40:726][593]LogAudioMixer: Display: Using Audio Device Hörlurar (ROG Headset)
+[2021.03.12-12.40.40:726][593]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.12-12.40.40:726][593]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.12-12.40.40:726][593]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.12-12.40.40:727][593]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.12-12.40.40:727][593]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.12-12.40.40:727][593]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.03.12-12.40.40:739][593]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.12-12.40.40:739][593]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.12-12.40.40:739][593]LogInit: FAudioDevice initialized.
+[2021.03.12-12.40.40:739][593]LogAudio: Display: Audio Device (ID: 5) registered with world 'FirstPersonExampleMap'.
+[2021.03.12-12.40.40:747][593]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.03.12-12.40.40:749][593]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.03.12-13.40.40
+[2021.03.12-12.40.40:749][593]LogWorld: Bringing up level for play took: 0.002128
+[2021.03.12-12.40.40:749][593]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.03.12-12.40.40:752][593]PIE: Server logged in
+[2021.03.12-12.40.40:752][593]PIE: Play in editor total start time 0.129 seconds.
+[2021.03.12-12.40.50:194][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-12.40.50:194][718]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.03.12-12.40.50:194][718]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.12-12.40.50:195][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-12.40.50:200][718]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.12-12.40.50:207][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-12.40.50:220][718]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.12-12.40.50:220][718]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.12-12.40.50:221][718]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.12-12.40.50:246][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-12.40.50:250][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2021.03.12-12.40.50:280][719]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.03.12-12.40.52:066][931]LogEditorViewport: Clicking on Actor (LMB): BP_PickupReal_C (BP_PickupReal)
+[2021.03.12-12.40.52:882][ 28]LogEditorViewport: Clicking on Actor (LMB): BP_PickupReal_C (BP_PickupReal)
+[2021.03.12-12.40.57:815][589]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.12-12.40.57:823][589]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.12-12.40.57:823][589]PIE: New page: PIE session: FirstPersonExampleMap (Mar 12, 2021, 2:40:57 PM)
+[2021.03.12-12.40.57:845][589]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.03.12-12.40.57:864][589]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019496s)
+[2021.03.12-12.40.57:865][589]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.03.12-12.40.57:865][589]LogPlayLevel: PIE: World Init took: (0.000854s)
+[2021.03.12-12.40.57:865][589]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.020498s)
+[2021.03.12-12.40.57:880][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2021.03.12-12.40.57:884][589]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.03.12-12.40.57:884][589]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.12-12.40.57:884][589]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.12-12.40.57:884][589]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.12-12.40.57:884][589]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.12-12.40.57:884][589]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.12-12.40.57:884][589]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.12-12.40.57:884][589]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.12-12.40.57:884][589]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.12-12.40.57:885][589]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.12-12.40.57:885][589]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.12-12.40.57:888][589]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.12-12.40.57:888][589]LogAudioMixer: Display: 1: FrontRight
+[2021.03.12-12.40.57:888][589]LogAudioMixer: Display: 2: FrontCenter
+[2021.03.12-12.40.57:888][589]LogAudioMixer: Display: 3: LowFrequency
+[2021.03.12-12.40.57:888][589]LogAudioMixer: Display: 4: BackLeft
+[2021.03.12-12.40.57:888][589]LogAudioMixer: Display: 5: BackRight
+[2021.03.12-12.40.57:888][589]LogAudioMixer: Display: 6: SideLeft
+[2021.03.12-12.40.57:888][589]LogAudioMixer: Display: 7: SideRight
+[2021.03.12-12.40.57:910][589]LogAudioMixer: Display: Using Audio Device Hörlurar (ROG Headset)
+[2021.03.12-12.40.57:910][589]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.12-12.40.57:910][589]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.12-12.40.57:910][589]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.12-12.40.57:910][589]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.12-12.40.57:910][589]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.12-12.40.57:910][589]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.03.12-12.40.57:922][589]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.12-12.40.57:922][589]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.12-12.40.57:922][589]LogInit: FAudioDevice initialized.
+[2021.03.12-12.40.57:922][589]LogAudio: Display: Audio Device (ID: 6) registered with world 'FirstPersonExampleMap'.
+[2021.03.12-12.40.57:931][589]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.03.12-12.40.57:934][589]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.03.12-13.40.57
+[2021.03.12-12.40.57:934][589]LogWorld: Bringing up level for play took: 0.002410
+[2021.03.12-12.40.57:934][589]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.03.12-12.40.57:936][589]PIE: Server logged in
+[2021.03.12-12.40.57:937][589]PIE: Play in editor total start time 0.114 seconds.
+[2021.03.12-12.41.02:224][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-12.41.02:224][ 97]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.03.12-12.41.02:225][ 97]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.12-12.41.02:225][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-12.41.02:232][ 97]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.12-12.41.02:239][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-12.41.02:252][ 97]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.12-12.41.02:252][ 97]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.12-12.41.02:253][ 97]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.12-12.41.02:270][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-12.41.02:273][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2021.03.12-12.41.02:301][ 98]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.03.12-12.41.02:874][165]Cmd: TRANSACTION UNDO
+[2021.03.12-12.41.02:874][165]LogEditorTransaction: Undo Move Actors
+[2021.03.12-12.41.04:147][281]Cmd: TRANSACTION UNDO
+[2021.03.12-12.41.04:147][281]LogEditorTransaction: Undo Scale Actors
+[2021.03.12-12.41.16:836][750]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Level1_Assets/BPs/BP_PickupReal.BP_PickupReal
+[2021.03.12-12.41.28:622][846]BlueprintLog: New page: Compile BP_PickupReal
+[2021.03.12-12.41.28:655][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.03.12-12.41.29:016][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1_Assets/BPs/BP_PickupReal" FILE="D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level1_Assets/BPs/BP_PickupReal.uasset" SILENT=true
+[2021.03.12-12.41.29:029][877]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/BP_PickupRealE41C04D94F685DED8F35DEB685ADB5AC.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level1_Assets/BPs/BP_PickupReal.uasset'
+[2021.03.12-12.41.29:041][877]AssetCheck: New page: Asset Save: BP_PickupReal
+[2021.03.12-12.41.29:041][877]LogContentValidation: Display: Validating Blueprint /Game/Level1_Assets/BPs/BP_PickupReal.BP_PickupReal
+[2021.03.12-12.41.30:218][  0]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.12-12.41.30:227][  0]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.12-12.41.30:227][  0]PIE: New page: PIE session: FirstPersonExampleMap (Mar 12, 2021, 2:41:30 PM)
+[2021.03.12-12.41.30:254][  0]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.03.12-12.41.30:275][  0]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021124s)
+[2021.03.12-12.41.30:276][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.03.12-12.41.30:276][  0]LogPlayLevel: PIE: World Init took: (0.000890s)
+[2021.03.12-12.41.30:276][  0]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.022153s)
+[2021.03.12-12.41.30:293][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.03.12-12.41.30:294][  0]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.03.12-12.41.30:294][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.12-12.41.30:294][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.12-12.41.30:294][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.12-12.41.30:295][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.12-12.41.30:295][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.12-12.41.30:295][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.12-12.41.30:295][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.12-12.41.30:295][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.12-12.41.30:295][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.12-12.41.30:295][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.12-12.41.30:298][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.12-12.41.30:298][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.03.12-12.41.30:298][  0]LogAudioMixer: Display: 2: FrontCenter
+[2021.03.12-12.41.30:298][  0]LogAudioMixer: Display: 3: LowFrequency
+[2021.03.12-12.41.30:298][  0]LogAudioMixer: Display: 4: BackLeft
+[2021.03.12-12.41.30:298][  0]LogAudioMixer: Display: 5: BackRight
+[2021.03.12-12.41.30:298][  0]LogAudioMixer: Display: 6: SideLeft
+[2021.03.12-12.41.30:298][  0]LogAudioMixer: Display: 7: SideRight
+[2021.03.12-12.41.30:320][  0]LogAudioMixer: Display: Using Audio Device Hörlurar (ROG Headset)
+[2021.03.12-12.41.30:320][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.12-12.41.30:320][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.12-12.41.30:320][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.12-12.41.30:321][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.12-12.41.30:321][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.12-12.41.30:321][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.03.12-12.41.30:333][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.12-12.41.30:333][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.12-12.41.30:333][  0]LogInit: FAudioDevice initialized.
+[2021.03.12-12.41.30:333][  0]LogAudio: Display: Audio Device (ID: 7) registered with world 'FirstPersonExampleMap'.
+[2021.03.12-12.41.30:343][  0]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.03.12-12.41.30:345][  0]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.03.12-13.41.30
+[2021.03.12-12.41.30:346][  0]LogWorld: Bringing up level for play took: 0.002223
+[2021.03.12-12.41.30:346][  0]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.03.12-12.41.30:347][  0]PIE: Server logged in
+[2021.03.12-12.41.30:348][  0]PIE: Play in editor total start time 0.122 seconds.
+[2021.03.12-12.41.43:595][583]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-12.41.43:595][583]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.03.12-12.41.43:595][583]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.12-12.41.43:595][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-12.41.43:606][583]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.12-12.41.43:613][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-12.41.43:628][583]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.12-12.41.43:628][583]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.12-12.41.43:629][583]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.12-12.41.43:644][583]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-12.41.43:647][583]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.03.12-12.41.43:677][584]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.03.12-12.41.54:326][572]BlueprintLog: New page: Compile BP_PickupReal
+[2021.03.12-12.41.54:358][572]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2021.03.12-12.41.54:700][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1_Assets/BPs/BP_PickupReal" FILE="D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level1_Assets/BPs/BP_PickupReal.uasset" SILENT=true
+[2021.03.12-12.41.54:713][602]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/BP_PickupReal859A03DC4BC888399297598DAD71D849.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level1_Assets/BPs/BP_PickupReal.uasset'
+[2021.03.12-12.41.54:723][602]AssetCheck: New page: Asset Save: BP_PickupReal
+[2021.03.12-12.41.54:723][602]LogContentValidation: Display: Validating Blueprint /Game/Level1_Assets/BPs/BP_PickupReal.BP_PickupReal
+[2021.03.12-12.41.55:821][720]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.12-12.41.55:830][720]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.12-12.41.55:830][720]PIE: New page: PIE session: FirstPersonExampleMap (Mar 12, 2021, 2:41:55 PM)
+[2021.03.12-12.41.55:853][720]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.03.12-12.41.55:876][720]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022210s)
+[2021.03.12-12.41.55:877][720]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.03.12-12.41.55:877][720]LogPlayLevel: PIE: World Init took: (0.000925s)
+[2021.03.12-12.41.55:877][720]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.023261s)
+[2021.03.12-12.41.55:894][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.03.12-12.41.55:896][720]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.03.12-12.41.55:896][720]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.12-12.41.55:896][720]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.12-12.41.55:896][720]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.12-12.41.55:896][720]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.12-12.41.55:896][720]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.12-12.41.55:896][720]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.12-12.41.55:896][720]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.12-12.41.55:896][720]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.12-12.41.55:896][720]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.12-12.41.55:896][720]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.12-12.41.55:899][720]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.12-12.41.55:899][720]LogAudioMixer: Display: 1: FrontRight
+[2021.03.12-12.41.55:899][720]LogAudioMixer: Display: 2: FrontCenter
+[2021.03.12-12.41.55:899][720]LogAudioMixer: Display: 3: LowFrequency
+[2021.03.12-12.41.55:899][720]LogAudioMixer: Display: 4: BackLeft
+[2021.03.12-12.41.55:899][720]LogAudioMixer: Display: 5: BackRight
+[2021.03.12-12.41.55:899][720]LogAudioMixer: Display: 6: SideLeft
+[2021.03.12-12.41.55:899][720]LogAudioMixer: Display: 7: SideRight
+[2021.03.12-12.41.55:921][720]LogAudioMixer: Display: Using Audio Device Hörlurar (ROG Headset)
+[2021.03.12-12.41.55:921][720]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.12-12.41.55:921][720]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.12-12.41.55:921][720]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.12-12.41.55:922][720]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.12-12.41.55:922][720]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.12-12.41.55:922][720]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.03.12-12.41.55:934][720]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.12-12.41.55:934][720]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.12-12.41.55:934][720]LogInit: FAudioDevice initialized.
+[2021.03.12-12.41.55:934][720]LogAudio: Display: Audio Device (ID: 8) registered with world 'FirstPersonExampleMap'.
+[2021.03.12-12.41.55:939][720]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.03.12-12.41.55:941][720]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.03.12-13.41.55
+[2021.03.12-12.41.55:941][720]LogWorld: Bringing up level for play took: 0.002177
+[2021.03.12-12.41.55:942][720]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.03.12-12.41.55:943][720]PIE: Server logged in
+[2021.03.12-12.41.55:944][720]PIE: Play in editor total start time 0.114 seconds.
+[2021.03.12-12.41.58:264][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-12.41.58:264][990]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.03.12-12.41.58:264][990]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.12-12.41.58:265][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-12.41.58:273][990]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.12-12.41.58:280][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-12.41.58:295][990]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.12-12.41.58:295][990]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.12-12.41.58:296][990]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.12-12.41.58:315][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-12.41.58:318][990]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2021.03.12-12.41.58:346][991]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.03.12-12.42.02:312][461]Cmd: MODE GRID=0
+[2021.03.12-12.42.04:735][742]Cmd: MODE GRID=1
+[2021.03.12-12.42.06:371][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.03.12-12.42.06:428][928]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/FirstPersonExampleMap78ABC1944E0BBF4CC0EB949827045E8C.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.03.12-12.42.06:453][928]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2021.03.12-12.42.06:453][928]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.03.12-12.42.09:852][333]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.12-12.42.09:861][333]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.12-12.42.09:861][333]PIE: New page: PIE session: FirstPersonExampleMap (Mar 12, 2021, 2:42:09 PM)
+[2021.03.12-12.42.09:893][333]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.03.12-12.42.09:916][333]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022836s)
+[2021.03.12-12.42.09:917][333]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.03.12-12.42.09:917][333]LogPlayLevel: PIE: World Init took: (0.001222s)
+[2021.03.12-12.42.09:917][333]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.024192s)
+[2021.03.12-12.42.09:937][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2021.03.12-12.42.09:939][333]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.03.12-12.42.09:939][333]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.12-12.42.09:939][333]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.12-12.42.09:939][333]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.12-12.42.09:939][333]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.12-12.42.09:939][333]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.12-12.42.09:939][333]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.12-12.42.09:939][333]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.12-12.42.09:939][333]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.12-12.42.09:940][333]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.12-12.42.09:940][333]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.12-12.42.09:943][333]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.12-12.42.09:943][333]LogAudioMixer: Display: 1: FrontRight
+[2021.03.12-12.42.09:943][333]LogAudioMixer: Display: 2: FrontCenter
+[2021.03.12-12.42.09:943][333]LogAudioMixer: Display: 3: LowFrequency
+[2021.03.12-12.42.09:943][333]LogAudioMixer: Display: 4: BackLeft
+[2021.03.12-12.42.09:943][333]LogAudioMixer: Display: 5: BackRight
+[2021.03.12-12.42.09:943][333]LogAudioMixer: Display: 6: SideLeft
+[2021.03.12-12.42.09:943][333]LogAudioMixer: Display: 7: SideRight
+[2021.03.12-12.42.09:964][333]LogAudioMixer: Display: Using Audio Device Hörlurar (ROG Headset)
+[2021.03.12-12.42.09:964][333]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.12-12.42.09:964][333]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.12-12.42.09:964][333]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.12-12.42.09:964][333]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.12-12.42.09:964][333]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.12-12.42.09:964][333]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.03.12-12.42.09:977][333]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.12-12.42.09:977][333]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.12-12.42.09:977][333]LogInit: FAudioDevice initialized.
+[2021.03.12-12.42.09:977][333]LogAudio: Display: Audio Device (ID: 9) registered with world 'FirstPersonExampleMap'.
+[2021.03.12-12.42.09:983][333]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.03.12-12.42.09:986][333]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.03.12-13.42.09
+[2021.03.12-12.42.09:986][333]LogWorld: Bringing up level for play took: 0.002057
+[2021.03.12-12.42.09:986][333]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.03.12-12.42.09:988][333]PIE: Server logged in
+[2021.03.12-12.42.09:989][333]PIE: Play in editor total start time 0.128 seconds.
+[2021.03.12-12.42.12:025][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-12.42.12:025][572]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.03.12-12.42.12:025][572]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.12-12.42.12:025][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-12.42.12:037][572]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.12-12.42.12:044][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-12.42.12:059][572]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.12-12.42.12:059][572]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.12-12.42.12:060][572]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.12-12.42.12:084][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-12.42.12:086][572]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2021.03.12-12.42.12:114][573]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.03.12-12.42.19:993][496]Cmd: DELETE
+[2021.03.12-12.42.19:993][496]Cmd: ACTOR DELETE
+[2021.03.12-12.42.19:995][496]LogEditorActor: Deleted Actor: BP_EnemySmall_C
+[2021.03.12-12.42.20:012][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2021.03.12-12.42.20:014][496]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2021.03.12-12.42.20:919][602]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Level1_Assets/BPs/BP_EnemySmall.BP_EnemySmall
+[2021.03.12-12.42.25:299][ 79]BlueprintLog: New page: Compile BP_EnemySmall
+[2021.03.12-12.42.25:335][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.03.12-12.42.28:593][460]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.03.12-12.42.28:593][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-12.42.28:639][460]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Level1_Assets/BPs/BP_EnemySmall.BP_EnemySmall
+[2021.03.12-12.42.36:845][348]BlueprintLog: New page: Compile BP_EnemySmall
+[2021.03.12-12.42.36:884][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.03.12-12.42.37:286][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1_Assets/BPs/BP_EnemySmall" FILE="D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level1_Assets/BPs/BP_EnemySmall.uasset" SILENT=true
+[2021.03.12-12.42.37:295][391]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/BP_EnemySmall20D08E55488553BA431F1B9D253C990C.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level1_Assets/BPs/BP_EnemySmall.uasset'
+[2021.03.12-12.42.37:304][391]AssetCheck: New page: Asset Save: BP_EnemySmall
+[2021.03.12-12.42.37:304][391]LogContentValidation: Display: Validating Blueprint /Game/Level1_Assets/BPs/BP_EnemySmall.BP_EnemySmall
+[2021.03.12-12.42.40:650][770]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.12-12.42.40:660][770]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.12-12.42.40:661][770]PIE: New page: PIE session: FirstPersonExampleMap (Mar 12, 2021, 2:42:40 PM)
+[2021.03.12-12.42.40:693][770]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.03.12-12.42.40:716][770]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022167s)
+[2021.03.12-12.42.40:716][770]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.03.12-12.42.40:717][770]LogPlayLevel: PIE: World Init took: (0.000877s)
+[2021.03.12-12.42.40:717][770]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.023169s)
+[2021.03.12-12.42.40:737][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.03.12-12.42.40:738][770]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.03.12-12.42.40:738][770]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.12-12.42.40:738][770]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.12-12.42.40:738][770]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.12-12.42.40:738][770]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.12-12.42.40:738][770]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.12-12.42.40:738][770]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.12-12.42.40:738][770]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.12-12.42.40:738][770]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.12-12.42.40:739][770]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.12-12.42.40:739][770]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.12-12.42.40:742][770]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.12-12.42.40:742][770]LogAudioMixer: Display: 1: FrontRight
+[2021.03.12-12.42.40:742][770]LogAudioMixer: Display: 2: FrontCenter
+[2021.03.12-12.42.40:742][770]LogAudioMixer: Display: 3: LowFrequency
+[2021.03.12-12.42.40:742][770]LogAudioMixer: Display: 4: BackLeft
+[2021.03.12-12.42.40:742][770]LogAudioMixer: Display: 5: BackRight
+[2021.03.12-12.42.40:742][770]LogAudioMixer: Display: 6: SideLeft
+[2021.03.12-12.42.40:742][770]LogAudioMixer: Display: 7: SideRight
+[2021.03.12-12.42.40:763][770]LogAudioMixer: Display: Using Audio Device Hörlurar (ROG Headset)
+[2021.03.12-12.42.40:763][770]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.12-12.42.40:763][770]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.12-12.42.40:763][770]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.12-12.42.40:763][770]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.12-12.42.40:763][770]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.12-12.42.40:763][770]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.03.12-12.42.40:776][770]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.12-12.42.40:776][770]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.12-12.42.40:776][770]LogInit: FAudioDevice initialized.
+[2021.03.12-12.42.40:776][770]LogAudio: Display: Audio Device (ID: 10) registered with world 'FirstPersonExampleMap'.
+[2021.03.12-12.42.40:786][770]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.03.12-12.42.40:789][770]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.03.12-13.42.40
+[2021.03.12-12.42.40:789][770]LogWorld: Bringing up level for play took: 0.002232
+[2021.03.12-12.42.40:789][770]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.03.12-12.42.40:791][770]PIE: Server logged in
+[2021.03.12-12.42.40:791][770]PIE: Play in editor total start time 0.132 seconds.
+[2021.03.12-12.42.46:685][463]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-12.42.46:685][463]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.03.12-12.42.46:685][463]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.12-12.42.46:686][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-12.42.46:692][463]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.12-12.42.46:706][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-12.42.46:723][463]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.12-12.42.46:723][463]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.12-12.42.46:724][463]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.12-12.42.46:755][463]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-12.42.46:758][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2021.03.12-12.42.46:790][464]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.03.12-12.42.49:591][781]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Level1_Assets/BPs/BP_Pickup.BP_Pickup
+[2021.03.12-12.42.54:019][233]BlueprintLog: New page: Compile BP_Pickup
+[2021.03.12-12.42.54:061][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2021.03.12-12.43.00:801][981]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.03.12-12.43.00:801][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-12.43.02:945][224]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Level1_Assets/BPs/BP_Pickup.BP_Pickup
+[2021.03.12-12.43.09:462][877]BlueprintLog: New page: Compile BP_Pickup
+[2021.03.12-12.43.09:508][877]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2021.03.12-12.43.09:994][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1_Assets/BPs/BP_Pickup" FILE="D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level1_Assets/BPs/BP_Pickup.uasset" SILENT=true
+[2021.03.12-12.43.10:007][922]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/BP_PickupA61468754DFF3A66EDFF02AAECC294C3.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level1_Assets/BPs/BP_Pickup.uasset'
+[2021.03.12-12.43.10:017][922]AssetCheck: New page: Asset Save: BP_Pickup
+[2021.03.12-12.43.10:017][922]LogContentValidation: Display: Validating Blueprint /Game/Level1_Assets/BPs/BP_Pickup.BP_Pickup
+[2021.03.12-12.43.12:072][148]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.12-12.43.12:080][148]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.12-12.43.12:080][148]PIE: New page: PIE session: FirstPersonExampleMap (Mar 12, 2021, 2:43:12 PM)
+[2021.03.12-12.43.12:113][148]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.03.12-12.43.12:137][148]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022952s)
+[2021.03.12-12.43.12:138][148]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.03.12-12.43.12:138][148]LogPlayLevel: PIE: World Init took: (0.001115s)
+[2021.03.12-12.43.12:138][148]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.024257s)
+[2021.03.12-12.43.12:160][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.03.12-12.43.12:161][148]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.03.12-12.43.12:161][148]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.12-12.43.12:161][148]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.12-12.43.12:161][148]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.12-12.43.12:161][148]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.12-12.43.12:161][148]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.12-12.43.12:161][148]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.12-12.43.12:161][148]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.12-12.43.12:161][148]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.12-12.43.12:162][148]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.12-12.43.12:162][148]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.12-12.43.12:165][148]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.12-12.43.12:165][148]LogAudioMixer: Display: 1: FrontRight
+[2021.03.12-12.43.12:165][148]LogAudioMixer: Display: 2: FrontCenter
+[2021.03.12-12.43.12:165][148]LogAudioMixer: Display: 3: LowFrequency
+[2021.03.12-12.43.12:165][148]LogAudioMixer: Display: 4: BackLeft
+[2021.03.12-12.43.12:165][148]LogAudioMixer: Display: 5: BackRight
+[2021.03.12-12.43.12:165][148]LogAudioMixer: Display: 6: SideLeft
+[2021.03.12-12.43.12:165][148]LogAudioMixer: Display: 7: SideRight
+[2021.03.12-12.43.12:186][148]LogAudioMixer: Display: Using Audio Device Hörlurar (ROG Headset)
+[2021.03.12-12.43.12:187][148]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.12-12.43.12:187][148]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.12-12.43.12:187][148]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.12-12.43.12:187][148]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.12-12.43.12:187][148]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.12-12.43.12:187][148]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.03.12-12.43.12:199][148]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.12-12.43.12:199][148]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.12-12.43.12:199][148]LogInit: FAudioDevice initialized.
+[2021.03.12-12.43.12:199][148]LogAudio: Display: Audio Device (ID: 11) registered with world 'FirstPersonExampleMap'.
+[2021.03.12-12.43.12:204][148]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.03.12-12.43.12:207][148]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.03.12-13.43.12
+[2021.03.12-12.43.12:208][148]LogWorld: Bringing up level for play took: 0.002576
+[2021.03.12-12.43.12:208][148]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2021.03.12-12.43.12:210][148]PIE: Server logged in
+[2021.03.12-12.43.12:210][148]PIE: Play in editor total start time 0.131 seconds.
+[2021.03.12-12.43.30:355][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-12.43.30:355][903]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.03.12-12.43.30:355][903]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.12-12.43.30:355][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-12.43.30:368][903]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.12-12.43.30:375][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-12.43.30:394][903]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.12-12.43.30:394][903]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.12-12.43.30:394][903]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.12-12.43.30:410][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-12.43.30:413][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.03.12-12.43.30:442][904]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.03.12-12.44.32:786][278]LogContentBrowser: Attempting asset rename: sm_tree02 -> sm_tree
+[2021.03.12-12.44.32:825][278]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1_Assets/Meshes/sm_tree" FILE="D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level1_Assets/Meshes/sm_tree.uasset" SILENT=true
+[2021.03.12-12.44.32:838][278]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/sm_tree1FD724EF4D10ADC8E6F89AA498E50834.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level1_Assets/Meshes/sm_tree.uasset'
+[2021.03.12-12.44.32:894][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2021.03.12-12.44.32:921][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2021.03.12-12.44.32:939][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.03.12-12.44.32:966][278]AssetCheck: New page: Asset Save: sm_tree
+[2021.03.12-12.44.32:966][278]LogContentValidation: Display: Validating StaticMesh /Game/Level1_Assets/Meshes/sm_tree.sm_tree
+[2021.03.12-12.45.14:959][181]LogContentBrowser: Attempting asset rename: sm_rockflat2 -> sm_rockflat
+[2021.03.12-12.45.14:991][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1_Assets/Meshes/sm_rockflat" FILE="D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level1_Assets/Meshes/sm_rockflat.uasset" SILENT=true
+[2021.03.12-12.45.15:001][181]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/sm_rockflat83CEB0DE41F4786DEF3279816CD30276.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level1_Assets/Meshes/sm_rockflat.uasset'
+[2021.03.12-12.45.15:056][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2021.03.12-12.45.15:082][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2021.03.12-12.45.15:101][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.03.12-12.45.15:129][181]AssetCheck: New page: Asset Save: sm_rockflat
+[2021.03.12-12.45.15:129][181]LogContentValidation: Display: Validating StaticMesh /Game/Level1_Assets/Meshes/sm_rockflat.sm_rockflat
+[2021.03.12-12.45.19:694][700]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.03.12-12.45.19:751][700]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/FirstPersonExampleMap596355AA4AB84B9937B4E29472AEABAC.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.03.12-12.45.19:773][700]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2021.03.12-12.45.19:773][700]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.03.12-12.45.20:645][799]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2021.03.12-12.45.37:879][103]LogContentBrowser: Attempting asset rename: sm_pickup -> sm_pickup_unused
+[2021.03.12-12.45.37:925][103]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/sm_pickup_unusedEA84EF114234D33A4D890089215037F0.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level1_Assets/Meshes/sm_pickup_unused.uasset'
+[2021.03.12-12.45.37:977][103]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2021.03.12-12.45.38:003][103]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2021.03.12-12.45.38:023][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.03.12-12.45.38:043][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1_Assets/BPs/BP_Pickup" FILE="D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level1_Assets/BPs/BP_Pickup.uasset" SILENT=true
+[2021.03.12-12.45.38:055][103]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/BP_PickupD28134EB461767119CB988BEF36A86A0.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Level1_Assets/BPs/BP_Pickup.uasset'
+[2021.03.12-12.45.38:088][103]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.12-12.45.38:088][103]LogContentValidation: Display: Validating StaticMesh /Game/Level1_Assets/Meshes/sm_pickup_unused.sm_pickup_unused
+[2021.03.12-12.45.38:088][103]LogContentValidation: Display: Validating Blueprint /Game/Level1_Assets/BPs/BP_Pickup.BP_Pickup
+[2021.03.12-12.48.23:850][246]LogSlate: Window 'BP_Pickup' being destroyed
+[2021.03.12-12.48.23:851][246]LogSlate: Window 'BP_Pickup' being destroyed
+[2021.03.12-12.48.23:863][246]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.03.12-12.48.23:863][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-12.48.23:916][246]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.03.12-12.48.23:916][246]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.03.12-12.48.23:916][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-12.48.23:964][246]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.03.12-12.48.23:964][246]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.03.12-12.48.23:964][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-12.48.30:851][486]LogEditorFactories: Performing atomic reimport of [C:/Users/Simon/Desktop/assets/sm_rockflat.fbx]
+[2021.03.12-12.48.30:872][486]LogFbx: Loading FBX Scene from C:/Users/Simon/Desktop/assets/sm_rockflat.fbx
+[2021.03.12-12.48.30:876][486]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.12-12.48.30:879][486]LogStaticMesh: Building static mesh sm_rockflat...
+[2021.03.12-12.48.30:894][486]LogStaticMesh: Built static mesh [0.02s] /Engine/Transient.sm_rockflat
+[2021.03.12-12.48.30:910][486]LogFbx: Display: Triangulating static mesh Sphere
+[2021.03.12-12.48.30:945][486]LogStaticMesh: Building static mesh sm_rockflat...
+[2021.03.12-12.48.30:950][486]LogStaticMesh: Built static mesh [0.01s] /Game/Level1_Assets/Meshes/sm_rockflat.sm_rockflat
+[2021.03.12-12.48.30:958][486]LogEditorFactories: -- imported successfully
+[2021.03.12-12.48.30:960][486]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.12-12.48.41:347][ 10]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Simon\Desktop\assets\sm_enemy1weak.fbx)
+[2021.03.12-12.48.41:363][ 10]LogFbx: Loading FBX Scene from C:\Users\Simon\Desktop\assets\sm_enemy1weak.fbx
+[2021.03.12-12.48.41:367][ 10]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.12-12.48.45:115][ 10]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.03.12-12.48.45:155][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2021.03.12-12.48.45:160][ 10]LogUObjectGlobals: Force Deleting 0 Package(s):
+[2021.03.12-12.48.45:546][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.03.12-12.48.45:547][ 10]FBXImport: Import was canceled. 
+[2021.03.12-12.48.45:572][ 10]LogAssetTools: The import task was canceled.
+[2021.03.12-12.48.47:132][196]LogSlate: Window 'Message Log' being destroyed
+[2021.03.12-12.48.47:136][196]LogSlate: Window 'Message Log' being destroyed
+[2021.03.12-12.48.48:063][301]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2021.03.12-12.48.48:121][301]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/FirstPersonExampleMapD7BBE04144B625582BD0E7BFEC60DC5D.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.03.12-12.48.48:145][301]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2021.03.12-12.48.48:145][301]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.03.12-12.48.50:324][558]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.12-12.48.50:331][558]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.03.12-12.48.50:331][558]LogPlayLevel: [PlayLevel] Compiling BP_Pickup before play...
+[2021.03.12-12.48.50:362][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.03.12-12.48.50:364][558]LogPlayLevel: PlayLevel: Blueprint regeneration took 32 ms (1 blueprints)
+[2021.03.12-12.48.50:364][558]PIE: New page: PIE session: FirstPersonExampleMap (Mar 12, 2021, 2:48:50 PM)
+[2021.03.12-12.48.50:364][558]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.03.12-12.48.50:384][558]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020045s)
+[2021.03.12-12.48.50:385][558]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.03.12-12.48.50:385][558]LogPlayLevel: PIE: World Init took: (0.001005s)
+[2021.03.12-12.48.50:385][558]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.021156s)
+[2021.03.12-12.48.50:400][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.03.12-12.48.50:401][558]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2021.03.12-12.48.50:401][558]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.12-12.48.50:401][558]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.12-12.48.50:401][558]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.12-12.48.50:401][558]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.12-12.48.50:401][558]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.12-12.48.50:401][558]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.12-12.48.50:401][558]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.12-12.48.50:401][558]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.12-12.48.50:402][558]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.12-12.48.50:402][558]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.12-12.48.50:405][558]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.12-12.48.50:405][558]LogAudioMixer: Display: 1: FrontRight
+[2021.03.12-12.48.50:405][558]LogAudioMixer: Display: 2: FrontCenter
+[2021.03.12-12.48.50:405][558]LogAudioMixer: Display: 3: LowFrequency
+[2021.03.12-12.48.50:405][558]LogAudioMixer: Display: 4: BackLeft
+[2021.03.12-12.48.50:405][558]LogAudioMixer: Display: 5: BackRight
+[2021.03.12-12.48.50:405][558]LogAudioMixer: Display: 6: SideLeft
+[2021.03.12-12.48.50:405][558]LogAudioMixer: Display: 7: SideRight
+[2021.03.12-12.48.50:428][558]LogAudioMixer: Display: Using Audio Device Hörlurar (ROG Headset)
+[2021.03.12-12.48.50:429][558]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.12-12.48.50:429][558]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.12-12.48.50:429][558]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.12-12.48.50:429][558]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.12-12.48.50:429][558]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.12-12.48.50:429][558]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.03.12-12.48.50:441][558]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.12-12.48.50:441][558]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.12-12.48.50:441][558]LogInit: FAudioDevice initialized.
+[2021.03.12-12.48.50:441][558]LogAudio: Display: Audio Device (ID: 12) registered with world 'FirstPersonExampleMap'.
+[2021.03.12-12.48.50:450][558]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.03.12-12.48.50:453][558]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.03.12-13.48.50
+[2021.03.12-12.48.50:453][558]LogWorld: Bringing up level for play took: 0.002274
+[2021.03.12-12.48.50:453][558]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2021.03.12-12.48.50:455][558]PIE: Server logged in
+[2021.03.12-12.48.50:456][558]PIE: Play in editor total start time 0.124 seconds.
+[2021.03.12-12.48.51:929][732]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1838.850 Y=130.973 Z=446.000] for [FirstPersonProjectile_C]
+[2021.03.12-12.48.53:420][911]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1850.958 Y=125.149 Z=452.931] for [FirstPersonProjectile_C]
+[2021.03.12-12.48.53:662][940]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1850.603 Y=125.022 Z=453.710] for [FirstPersonProjectile_C]
+[2021.03.12-12.48.53:829][960]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1845.832 Y=120.349 Z=462.725] for [FirstPersonProjectile_C]
+[2021.03.12-12.48.53:970][977]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1841.615 Y=112.789 Z=474.627] for [FirstPersonProjectile_C]
+[2021.03.12-12.48.54:104][993]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1842.506 Y=114.426 Z=472.782] for [FirstPersonProjectile_C]
+[2021.03.12-12.48.54:338][ 21]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1847.163 Y=117.770 Z=462.554] for [FirstPersonProjectile_C]
+[2021.03.12-12.48.54:546][ 46]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1835.985 Y=112.580 Z=482.089] for [FirstPersonProjectile_C]
+[2021.03.12-12.48.54:771][ 73]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1828.341 Y=140.422 Z=480.295] for [FirstPersonProjectile_C]
+[2021.03.12-12.48.56:213][241]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1897.038 Y=136.825 Z=434.561] for [FirstPersonProjectile_C]
+[2021.03.12-12.48.58:927][566]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1794.732 Y=124.641 Z=474.321] for [FirstPersonProjectile_C]
+[2021.03.12-12.49.08:505][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-12.49.08:505][711]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.03.12-12.49.08:505][711]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.12-12.49.08:506][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-12.49.08:511][711]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.12-12.49.08:518][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-12.49.08:530][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-12.49.08:530][711]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.12-12.49.08:531][711]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.12-12.49.08:560][711]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.03.12-12.49.08:591][712]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.03.12-12.49.24:916][816]LogActorFactory: Actor Factory created sm_enemyWeak
+[2021.03.12-12.49.25:152][832]LogActorFactory: Actor Factory created sm_enemyWeak
+[2021.03.12-12.49.27:425][101]Cmd: DELETE
+[2021.03.12-12.49.27:425][101]Cmd: ACTOR DELETE
+[2021.03.12-12.49.27:427][101]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.12-12.49.27:441][101]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.03.12-12.49.27:443][101]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2021.03.12-12.49.42:245][703]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.03.12-12.49.42:258][703]LogContentBrowser: Creating deferred item: NewFolder
+[2021.03.12-12.49.45:156][ 49]LogContentBrowser: Attempting asset rename: NewFolder -> Level2_assets
+[2021.03.12-12.49.45:157][ 49]LogContentBrowser: End creating deferred item NewFolder
+[2021.03.12-12.50.57:764][816]LogFactory: Error: Can't find file 'SM_Wall_01.fbx' for import
+[2021.03.12-12.51.00:310][816]LogSlate: Window 'Message' being destroyed
+[2021.03.12-12.51.00:314][816]Message dialog closed, result: Ok, title: Message, text: Failed to import 'SM_Wall_01.fbx'. Failed to create asset '/Game/Level2_assets/SM_Wall_01'.
+Please see Output Log for details.
+[2021.03.12-12.51.00:315][816]LogAssetTools: Warning: Failed to import 'SM_Wall_01.fbx'. Failed to create asset '/Game/Level2_assets/SM_Wall_01'.
+Please see Output Log for details.
+[2021.03.12-12.51.00:315][816]LogFactory: Error: Can't find file 'SM_Stair_01.fbx' for import
+[2021.03.12-12.51.00:718][816]LogSlate: Window 'Message' being destroyed
+[2021.03.12-12.51.00:721][816]Message dialog closed, result: Ok, title: Message, text: Failed to import 'SM_Stair_01.fbx'. Failed to create asset '/Game/Level2_assets/SM_Stair_01'.
+Please see Output Log for details.
+[2021.03.12-12.51.00:721][816]LogAssetTools: Warning: Failed to import 'SM_Stair_01.fbx'. Failed to create asset '/Game/Level2_assets/SM_Stair_01'.
+Please see Output Log for details.
+[2021.03.12-12.51.00:722][816]LogFactory: Error: Can't find file 'SM_Railing_01.fbx' for import
+[2021.03.12-12.51.02:237][816]LogSlate: Window 'Message' being destroyed
+[2021.03.12-12.51.02:241][816]Message dialog closed, result: Cancel, title: Message, text: Failed to import 'SM_Railing_01.fbx'. Failed to create asset '/Game/Level2_assets/SM_Railing_01'.
+Please see Output Log for details.
+[2021.03.12-12.51.02:241][816]LogAssetTools: Warning: Failed to import 'SM_Railing_01.fbx'. Failed to create asset '/Game/Level2_assets/SM_Railing_01'.
+Please see Output Log for details.
+[2021.03.12-12.51.02:242][816]LogFactory: Error: Can't find file 'SM_LowCover_02.fbx' for import
+[2021.03.12-12.51.02:450][816]LogSlate: Window 'Message' being destroyed
+[2021.03.12-12.51.02:455][816]Message dialog closed, result: Cancel, title: Message, text: Failed to import 'SM_LowCover_02.fbx'. Failed to create asset '/Game/Level2_assets/SM_LowCover_02'.
+Please see Output Log for details.
+[2021.03.12-12.51.02:455][816]LogAssetTools: Warning: Failed to import 'SM_LowCover_02.fbx'. Failed to create asset '/Game/Level2_assets/SM_LowCover_02'.
+Please see Output Log for details.
+[2021.03.12-12.51.02:455][816]LogFactory: Error: Can't find file 'SM_LowCover_01.fbx' for import
+[2021.03.12-12.51.02:682][816]LogSlate: Window 'Message' being destroyed
+[2021.03.12-12.51.02:686][816]Message dialog closed, result: Cancel, title: Message, text: Failed to import 'SM_LowCover_01.fbx'. Failed to create asset '/Game/Level2_assets/SM_LowCover_01'.
+Please see Output Log for details.
+[2021.03.12-12.51.02:686][816]LogAssetTools: Warning: Failed to import 'SM_LowCover_01.fbx'. Failed to create asset '/Game/Level2_assets/SM_LowCover_01'.
+Please see Output Log for details.
+[2021.03.12-12.51.02:687][816]LogFactory: Error: Can't find file 'SM_Floor_01.fbx' for import
+[2021.03.12-12.51.02:859][816]LogSlate: Window 'Message' being destroyed
+[2021.03.12-12.51.02:862][816]Message dialog closed, result: Cancel, title: Message, text: Failed to import 'SM_Floor_01.fbx'. Failed to create asset '/Game/Level2_assets/SM_Floor_01'.
+Please see Output Log for details.
+[2021.03.12-12.51.02:862][816]LogAssetTools: Warning: Failed to import 'SM_Floor_01.fbx'. Failed to create asset '/Game/Level2_assets/SM_Floor_01'.
+Please see Output Log for details.
+[2021.03.12-12.51.02:862][816]LogFactory: Error: Can't find file 'SM_Enemy_01.fbx' for import
+[2021.03.12-12.51.03:058][816]LogSlate: Window 'Message' being destroyed
+[2021.03.12-12.51.03:063][816]Message dialog closed, result: Cancel, title: Message, text: Failed to import 'SM_Enemy_01.fbx'. Failed to create asset '/Game/Level2_assets/SM_Enemy_01'.
+Please see Output Log for details.
+[2021.03.12-12.51.03:063][816]LogAssetTools: Warning: Failed to import 'SM_Enemy_01.fbx'. Failed to create asset '/Game/Level2_assets/SM_Enemy_01'.
+Please see Output Log for details.
+[2021.03.12-12.51.03:064][816]LogFactory: Error: Can't find file 'SM_BridgeGoodVersion_01.fbx' for import
+[2021.03.12-12.51.03:290][816]LogSlate: Window 'Message' being destroyed
+[2021.03.12-12.51.03:294][816]Message dialog closed, result: Cancel, title: Message, text: Failed to import 'SM_BridgeGoodVersion_01.fbx'. Failed to create asset '/Game/Level2_assets/SM_BridgeGoodVersion_01'.
+Please see Output Log for details.
+[2021.03.12-12.51.03:294][816]LogAssetTools: Warning: Failed to import 'SM_BridgeGoodVersion_01.fbx'. Failed to create asset '/Game/Level2_assets/SM_BridgeGoodVersion_01'.
+Please see Output Log for details.
+[2021.03.12-12.51.03:453][835]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube32)
+[2021.03.12-12.51.18:672][ 48]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Simon\Desktop\assets\team2\SM_Stair_01.fbx)
+[2021.03.12-12.51.18:678][ 48]LogFbx: Loading FBX Scene from C:\Users\Simon\Desktop\assets\team2\SM_Stair_01.fbx
+[2021.03.12-12.51.18:682][ 48]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.12-12.51.22:164][ 48]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.03.12-12.51.22:193][ 48]LogFbx: Display: Triangulating static mesh Cube.010
+[2021.03.12-12.51.22:197][ 48]LogStaticMesh: Building static mesh SM_Stair_01...
+[2021.03.12-12.51.22:201][ 48]LogStaticMesh: Built static mesh [0.00s] /Game/Level2_assets/SM_Stair_01.SM_Stair_01
+[2021.03.12-12.51.22:207][ 48]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.12-12.51.22:235][ 48]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Simon\Desktop\assets\team2\SM_Wall_01.fbx)
+[2021.03.12-12.51.22:250][ 48]LogFbx: Loading FBX Scene from C:\Users\Simon\Desktop\assets\team2\SM_Wall_01.fbx
+[2021.03.12-12.51.22:253][ 48]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.12-12.51.22:253][ 48]LogFbx: Display: Triangulating static mesh Cube
+[2021.03.12-12.51.22:254][ 48]LogStaticMesh: Building static mesh SM_Wall_01...
+[2021.03.12-12.51.22:254][ 48]LogStaticMesh: Built static mesh [0.00s] /Game/Level2_assets/SM_Wall_01.SM_Wall_01
+[2021.03.12-12.51.22:259][ 48]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.12-12.51.22:264][ 48]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Simon\Desktop\assets\team2\SM_BridgeGoodVersion_01.fbx)
+[2021.03.12-12.51.22:270][ 48]LogFbx: Loading FBX Scene from C:\Users\Simon\Desktop\assets\team2\SM_BridgeGoodVersion_01.fbx
+[2021.03.12-12.51.22:274][ 48]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.12-12.51.22:274][ 48]LogFbx: Display: Triangulating static mesh Cube
+[2021.03.12-12.51.22:275][ 48]LogStaticMesh: Building static mesh SM_BridgeGoodVersion_01...
+[2021.03.12-12.51.22:276][ 48]LogStaticMesh: Built static mesh [0.00s] /Game/Level2_assets/SM_BridgeGoodVersion_01.SM_BridgeGoodVersion_01
+[2021.03.12-12.51.22:280][ 48]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.12-12.51.22:286][ 48]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Simon\Desktop\assets\team2\SM_Enemy_01.fbx)
+[2021.03.12-12.51.22:292][ 48]LogFbx: Loading FBX Scene from C:\Users\Simon\Desktop\assets\team2\SM_Enemy_01.fbx
+[2021.03.12-12.51.22:296][ 48]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.12-12.51.22:296][ 48]LogFbx: Display: Triangulating static mesh Cone
+[2021.03.12-12.51.22:297][ 48]LogStaticMesh: Building static mesh SM_Enemy_01...
+[2021.03.12-12.51.22:298][ 48]LogStaticMesh: Built static mesh [0.00s] /Game/Level2_assets/SM_Enemy_01.SM_Enemy_01
+[2021.03.12-12.51.22:303][ 48]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.12-12.51.22:309][ 48]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Simon\Desktop\assets\team2\SM_Floor_01.fbx)
+[2021.03.12-12.51.22:315][ 48]LogFbx: Loading FBX Scene from C:\Users\Simon\Desktop\assets\team2\SM_Floor_01.fbx
+[2021.03.12-12.51.22:318][ 48]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.12-12.51.22:319][ 48]LogFbx: Display: Triangulating static mesh Cube
+[2021.03.12-12.51.22:320][ 48]LogStaticMesh: Building static mesh SM_Floor_01...
+[2021.03.12-12.51.22:320][ 48]LogStaticMesh: Built static mesh [0.00s] /Game/Level2_assets/SM_Floor_01.SM_Floor_01
+[2021.03.12-12.51.22:324][ 48]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.12-12.51.22:330][ 48]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Simon\Desktop\assets\team2\SM_LowCover_01.fbx)
+[2021.03.12-12.51.22:335][ 48]LogFbx: Loading FBX Scene from C:\Users\Simon\Desktop\assets\team2\SM_LowCover_01.fbx
+[2021.03.12-12.51.22:339][ 48]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.12-12.51.22:339][ 48]LogFbx: Display: Triangulating static mesh Cube
+[2021.03.12-12.51.22:340][ 48]LogStaticMesh: Building static mesh SM_LowCover_01...
+[2021.03.12-12.51.22:341][ 48]LogStaticMesh: Built static mesh [0.00s] /Game/Level2_assets/SM_LowCover_01.SM_LowCover_01
+[2021.03.12-12.51.22:346][ 48]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.12-12.51.22:351][ 48]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Simon\Desktop\assets\team2\SM_LowCover_02.fbx)
+[2021.03.12-12.51.22:357][ 48]LogFbx: Loading FBX Scene from C:\Users\Simon\Desktop\assets\team2\SM_LowCover_02.fbx
+[2021.03.12-12.51.22:361][ 48]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.12-12.51.22:361][ 48]LogFbx: Display: Triangulating static mesh Cube
+[2021.03.12-12.51.22:362][ 48]LogStaticMesh: Building static mesh SM_LowCover_02...
+[2021.03.12-12.51.22:362][ 48]LogStaticMesh: Built static mesh [0.00s] /Game/Level2_assets/SM_LowCover_02.SM_LowCover_02
+[2021.03.12-12.51.22:367][ 48]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.12-12.51.22:372][ 48]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Simon\Desktop\assets\team2\SM_Railing_01.fbx)
+[2021.03.12-12.51.22:378][ 48]LogFbx: Loading FBX Scene from C:\Users\Simon\Desktop\assets\team2\SM_Railing_01.fbx
+[2021.03.12-12.51.22:381][ 48]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.12-12.51.22:381][ 48]LogFbx: Display: Triangulating static mesh Cube
+[2021.03.12-12.51.22:386][ 48]LogStaticMesh: Building static mesh SM_Railing_01...
+[2021.03.12-12.51.22:389][ 48]LogStaticMesh: Built static mesh [0.00s] /Game/Level2_assets/SM_Railing_01.SM_Railing_01
+[2021.03.12-12.51.22:395][ 48]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.12-12.51.24:006][215]LogSlate: Window 'Message Log' being destroyed
+[2021.03.12-12.51.24:010][215]LogSlate: Window 'Message Log' being destroyed
+[2021.03.12-12.51.26:521][513]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube32)
+[2021.03.12-12.51.27:986][683]LogActorFactory: Actor Factory created SM_BridgeGoodVersion_01
+[2021.03.12-12.51.27:986][683]LogActorFactory: Actor Factory created SM_Enemy_01
+[2021.03.12-12.51.27:987][683]LogActorFactory: Actor Factory created SM_Floor_01
+[2021.03.12-12.51.27:987][683]LogActorFactory: Actor Factory created SM_LowCover_01
+[2021.03.12-12.51.27:987][683]LogActorFactory: Actor Factory created SM_LowCover_02
+[2021.03.12-12.51.27:987][683]LogActorFactory: Actor Factory created SM_Railing_01
+[2021.03.12-12.51.27:988][683]LogActorFactory: Actor Factory created SM_Stair_01
+[2021.03.12-12.51.27:988][683]LogActorFactory: Actor Factory created SM_Wall_01
+[2021.03.12-12.51.28:407][726]LogActorFactory: Actor Factory created SM_BridgeGoodVersion_01
+[2021.03.12-12.51.28:418][726]LogActorFactory: Actor Factory created SM_Enemy_01
+[2021.03.12-12.51.28:428][726]LogActorFactory: Actor Factory created SM_Floor_01
+[2021.03.12-12.51.28:439][726]LogActorFactory: Actor Factory created SM_LowCover_01
+[2021.03.12-12.51.28:449][726]LogActorFactory: Actor Factory created SM_LowCover_02
+[2021.03.12-12.51.28:460][726]LogActorFactory: Actor Factory created SM_Railing_01
+[2021.03.12-12.51.28:470][726]LogActorFactory: Actor Factory created SM_Stair_01
+[2021.03.12-12.51.28:481][726]LogActorFactory: Actor Factory created SM_Wall_01
+[2021.03.12-12.51.31:487][ 33]Cmd: DELETE
+[2021.03.12-12.51.31:487][ 33]Cmd: ACTOR DELETE
+[2021.03.12-12.51.31:491][ 33]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.12-12.51.31:491][ 33]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.12-12.51.31:492][ 33]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.12-12.51.31:492][ 33]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.12-12.51.31:492][ 33]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.12-12.51.31:493][ 33]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.12-12.51.31:493][ 33]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.12-12.51.31:493][ 33]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.12-12.51.31:508][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.03.12-12.51.31:515][ 33]LogEditorActor: Deleted 8 Actors (0.027 secs)
+[2021.03.12-12.51.32:377][131]LogActorFactory: Actor Factory created SM_BridgeGoodVersion_01
+[2021.03.12-12.51.32:377][131]LogActorFactory: Actor Factory created SM_Enemy_01
+[2021.03.12-12.51.32:377][131]LogActorFactory: Actor Factory created SM_Floor_01
+[2021.03.12-12.51.32:378][131]LogActorFactory: Actor Factory created SM_LowCover_01
+[2021.03.12-12.51.32:378][131]LogActorFactory: Actor Factory created SM_LowCover_02
+[2021.03.12-12.51.32:378][131]LogActorFactory: Actor Factory created SM_Railing_01
+[2021.03.12-12.51.32:378][131]LogActorFactory: Actor Factory created SM_Stair_01
+[2021.03.12-12.51.32:379][131]LogActorFactory: Actor Factory created SM_Wall_01
+[2021.03.12-12.51.32:713][167]LogActorFactory: Actor Factory created SM_BridgeGoodVersion_01
+[2021.03.12-12.51.32:725][167]LogActorFactory: Actor Factory created SM_Enemy_01
+[2021.03.12-12.51.32:735][167]LogActorFactory: Actor Factory created SM_Floor_01
+[2021.03.12-12.51.32:746][167]LogActorFactory: Actor Factory created SM_LowCover_01
+[2021.03.12-12.51.32:756][167]LogActorFactory: Actor Factory created SM_LowCover_02
+[2021.03.12-12.51.32:766][167]LogActorFactory: Actor Factory created SM_Railing_01
+[2021.03.12-12.51.32:777][167]LogActorFactory: Actor Factory created SM_Stair_01
+[2021.03.12-12.51.32:787][167]LogActorFactory: Actor Factory created SM_Wall_01
+[2021.03.12-12.51.34:892][401]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.03.12-12.51.37:314][653]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BridgeGoodVersion_01)
+[2021.03.12-12.51.38:013][717]Cmd: DELETE
+[2021.03.12-12.51.38:013][717]Cmd: ACTOR DELETE
+[2021.03.12-12.51.38:015][717]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.12-12.51.38:029][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.03.12-12.51.38:032][717]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2021.03.12-12.51.38:530][773]LogActorFactory: Actor Factory created SM_BridgeGoodVersion_01
+[2021.03.12-12.51.38:530][773]LogActorFactory: Actor Factory created SM_Enemy_01
+[2021.03.12-12.51.38:531][773]LogActorFactory: Actor Factory created SM_Floor_01
+[2021.03.12-12.51.38:531][773]LogActorFactory: Actor Factory created SM_LowCover_01
+[2021.03.12-12.51.38:531][773]LogActorFactory: Actor Factory created SM_LowCover_02
+[2021.03.12-12.51.38:532][773]LogActorFactory: Actor Factory created SM_Railing_01
+[2021.03.12-12.51.38:532][773]LogActorFactory: Actor Factory created SM_Stair_01
+[2021.03.12-12.51.38:532][773]LogActorFactory: Actor Factory created SM_Wall_01
+[2021.03.12-12.51.38:836][805]LogActorFactory: Actor Factory created SM_BridgeGoodVersion_01
+[2021.03.12-12.51.38:847][805]LogActorFactory: Actor Factory created SM_Enemy_01
+[2021.03.12-12.51.38:857][805]LogActorFactory: Actor Factory created SM_Floor_01
+[2021.03.12-12.51.38:867][805]LogActorFactory: Actor Factory created SM_LowCover_01
+[2021.03.12-12.51.38:878][805]LogActorFactory: Actor Factory created SM_LowCover_02
+[2021.03.12-12.51.38:888][805]LogActorFactory: Actor Factory created SM_Railing_01
+[2021.03.12-12.51.38:898][805]LogActorFactory: Actor Factory created SM_Stair_01
+[2021.03.12-12.51.38:910][805]LogActorFactory: Actor Factory created SM_Wall_01
+[2021.03.12-12.51.41:349][ 74]Cmd: DELETE
+[2021.03.12-12.51.41:349][ 74]Cmd: ACTOR DELETE
+[2021.03.12-12.51.41:353][ 74]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.12-12.51.41:353][ 74]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.12-12.51.41:354][ 74]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.12-12.51.41:354][ 74]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.12-12.51.41:354][ 74]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.12-12.51.41:355][ 74]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.12-12.51.41:355][ 74]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.12-12.51.41:355][ 74]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.12-12.51.41:369][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2021.03.12-12.51.41:372][ 74]LogEditorActor: Deleted 8 Actors (0.023 secs)
+[2021.03.12-12.51.41:925][132]LogActorFactory: Actor Factory created SM_BridgeGoodVersion_01
+[2021.03.12-12.51.41:926][132]LogActorFactory: Actor Factory created SM_Enemy_01
+[2021.03.12-12.51.41:926][132]LogActorFactory: Actor Factory created SM_Floor_01
+[2021.03.12-12.51.41:926][132]LogActorFactory: Actor Factory created SM_LowCover_01
+[2021.03.12-12.51.41:926][132]LogActorFactory: Actor Factory created SM_LowCover_02
+[2021.03.12-12.51.41:927][132]LogActorFactory: Actor Factory created SM_Railing_01
+[2021.03.12-12.51.41:927][132]LogActorFactory: Actor Factory created SM_Stair_01
+[2021.03.12-12.51.41:927][132]LogActorFactory: Actor Factory created SM_Wall_01
+[2021.03.12-12.51.42:179][159]LogActorFactory: Actor Factory created SM_BridgeGoodVersion_01
+[2021.03.12-12.51.42:190][159]LogActorFactory: Actor Factory created SM_Enemy_01
+[2021.03.12-12.51.42:200][159]LogActorFactory: Actor Factory created SM_Floor_01
+[2021.03.12-12.51.42:211][159]LogActorFactory: Actor Factory created SM_LowCover_01
+[2021.03.12-12.51.42:221][159]LogActorFactory: Actor Factory created SM_LowCover_02
+[2021.03.12-12.51.42:231][159]LogActorFactory: Actor Factory created SM_Railing_01
+[2021.03.12-12.51.42:242][159]LogActorFactory: Actor Factory created SM_Stair_01
+[2021.03.12-12.51.42:252][159]LogActorFactory: Actor Factory created SM_Wall_01
+[2021.03.12-12.51.44:312][380]Cmd: DELETE
+[2021.03.12-12.51.44:312][380]Cmd: ACTOR DELETE
+[2021.03.12-12.51.44:315][380]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.12-12.51.44:315][380]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.12-12.51.44:316][380]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.12-12.51.44:316][380]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.12-12.51.44:316][380]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.12-12.51.44:316][380]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.12-12.51.44:317][380]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.12-12.51.44:317][380]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.12-12.51.44:330][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2021.03.12-12.51.44:332][380]LogEditorActor: Deleted 8 Actors (0.021 secs)
+[2021.03.12-12.51.45:521][517]LogActorFactory: Actor Factory created SM_Stair_01
+[2021.03.12-12.51.45:678][535]LogActorFactory: Actor Factory created SM_Stair_01
+[2021.03.12-12.51.50:420][ 97]Cmd: DELETE
+[2021.03.12-12.51.50:420][ 97]Cmd: ACTOR DELETE
+[2021.03.12-12.51.50:423][ 97]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.12-12.51.50:436][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2021.03.12-12.51.50:439][ 97]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2021.03.12-12.52.00:872][227]LogActorFactory: Actor Factory created SM_LowCover_01
+[2021.03.12-12.52.01:141][258]LogActorFactory: Actor Factory created SM_LowCover_01
+[2021.03.12-12.52.03:118][491]Cmd: DELETE
+[2021.03.12-12.52.03:118][491]Cmd: ACTOR DELETE
+[2021.03.12-12.52.03:120][491]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.12-12.52.03:133][491]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2021.03.12-12.52.03:135][491]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2021.03.12-12.52.08:843][156]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.03.12-12.52.08:854][156]LogContentBrowser: Creating deferred item: NewFolder
+[2021.03.12-12.52.12:767][626]LogContentBrowser: Attempting asset rename: NewFolder -> Level3_assets
+[2021.03.12-12.52.12:767][626]LogContentBrowser: End creating deferred item NewFolder
+[2021.03.12-12.52.43:171][154]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Simon\Desktop\assets\team3\SM_Tile_01.fbx)
+[2021.03.12-12.52.43:178][154]LogFbx: Loading FBX Scene from C:\Users\Simon\Desktop\assets\team3\SM_Tile_01.fbx
+[2021.03.12-12.52.43:227][154]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.12-12.52.46:748][154]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.03.12-12.52.46:778][154]LogFbx: Display: Triangulating static mesh Cube
+[2021.03.12-12.52.46:780][154]LogStaticMesh: Building static mesh SM_Tile_01...
+[2021.03.12-12.52.46:780][154]LogStaticMesh: Built static mesh [0.00s] /Game/Level3_assets/SM_Tile_01.SM_Tile_01
+[2021.03.12-12.52.46:780][154]LogStaticMesh: Warning: SM_Tile_01 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.03.12-12.52.46:780][154]LogStaticMesh: Warning: SM_Tile_01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.03.12-12.52.46:785][154]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.12-12.52.46:785][154]FBXImport: Warning: SM_Tile_01 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.03.12-12.52.46:785][154]FBXImport: Warning: SM_Tile_01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.03.12-12.52.46:819][154]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Simon\Desktop\assets\team3\SM_Tree_01.fbx)
+[2021.03.12-12.52.46:834][154]LogFbx: Loading FBX Scene from C:\Users\Simon\Desktop\assets\team3\SM_Tree_01.fbx
+[2021.03.12-12.52.46:840][154]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.12-12.52.46:840][154]LogFbx: Display: Triangulating static mesh Cylinder
+[2021.03.12-12.52.46:843][154]LogStaticMesh: Building static mesh SM_Tree_01...
+[2021.03.12-12.52.46:844][154]LogStaticMesh: Built static mesh [0.00s] /Game/Level3_assets/SM_Tree_01.SM_Tree_01
+[2021.03.12-12.52.46:850][154]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.12-12.52.46:855][154]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Simon\Desktop\assets\team3\SM_Wall3x5_01.fbx)
+[2021.03.12-12.52.46:862][154]LogFbx: Loading FBX Scene from C:\Users\Simon\Desktop\assets\team3\SM_Wall3x5_01.fbx
+[2021.03.12-12.52.46:869][154]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.12-12.52.46:870][154]LogFbx: Display: Triangulating static mesh Cube
+[2021.03.12-12.52.46:871][154]LogStaticMesh: Building static mesh SM_Wall3x5_01...
+[2021.03.12-12.52.46:871][154]LogStaticMesh: Built static mesh [0.00s] /Game/Level3_assets/SM_Wall3x5_01.SM_Wall3x5_01
+[2021.03.12-12.52.46:871][154]LogStaticMesh: Warning: SM_Wall3x5_01 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.03.12-12.52.46:871][154]LogStaticMesh: Warning: SM_Wall3x5_01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.03.12-12.52.46:877][154]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.12-12.52.46:877][154]FBXImport: Warning: SM_Wall3x5_01 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.03.12-12.52.46:877][154]FBXImport: Warning: SM_Wall3x5_01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.03.12-12.52.46:882][154]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Simon\Desktop\assets\team3\G3_Bridge_01.fbx)
+[2021.03.12-12.52.46:888][154]LogFbx: Loading FBX Scene from C:\Users\Simon\Desktop\assets\team3\G3_Bridge_01.fbx
+[2021.03.12-12.52.46:893][154]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.12-12.52.46:893][154]LogFbx: Display: Triangulating static mesh Cube
+[2021.03.12-12.52.46:903][154]LogStaticMesh: Building static mesh G3_Bridge_01...
+[2021.03.12-12.52.46:905][154]LogStaticMesh: Built static mesh [0.00s] /Game/Level3_assets/G3_Bridge_01.G3_Bridge_01
+[2021.03.12-12.52.46:906][154]LogStaticMesh: Warning: G3_Bridge_01 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.03.12-12.52.46:906][154]LogStaticMesh: Warning: G3_Bridge_01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.03.12-12.52.46:911][154]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.12-12.52.46:912][154]FBXImport: Warning: G3_Bridge_01 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.03.12-12.52.46:912][154]FBXImport: Warning: G3_Bridge_01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.03.12-12.52.46:917][154]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Simon\Desktop\assets\team3\SM_Bush_01.fbx)
+[2021.03.12-12.52.46:923][154]LogFbx: Loading FBX Scene from C:\Users\Simon\Desktop\assets\team3\SM_Bush_01.fbx
+[2021.03.12-12.52.46:928][154]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.12-12.52.46:929][154]LogStaticMesh: Building static mesh SM_Bush_01...
+[2021.03.12-12.52.46:931][154]LogStaticMesh: Built static mesh [0.00s] /Game/Level3_assets/SM_Bush_01.SM_Bush_01
+[2021.03.12-12.52.46:939][154]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.12-12.52.46:946][154]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Simon\Desktop\assets\team3\SM_Enemy_03-CragSquid.fbx)
+[2021.03.12-12.52.46:952][154]LogFbx: Loading FBX Scene from C:\Users\Simon\Desktop\assets\team3\SM_Enemy_03-CragSquid.fbx
+[2021.03.12-12.52.46:992][154]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.12-12.52.46:996][154]LogFbxMaterialImport: Display: Unable to find Texture file D:\Games\UnityGames\Hexen\Assets\Prefabs\CragSquidRed2.png
+[2021.03.12-12.52.46:996][154]LogFbx: Display: Triangulating static mesh Cone
+[2021.03.12-12.52.47:008][154]LogStaticMesh: Building static mesh SM_Enemy_03-CragSquid...
+[2021.03.12-12.52.47:023][154]LogStaticMesh: Built static mesh [0.02s] /Game/Level3_assets/SM_Enemy_03-CragSquid.SM_Enemy_03-CragSquid
+[2021.03.12-12.52.47:030][154]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.12-12.52.47:037][154]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Simon\Desktop\assets\team3\SM_HalfCover3x4_01.fbx)
+[2021.03.12-12.52.47:043][154]LogFbx: Loading FBX Scene from C:\Users\Simon\Desktop\assets\team3\SM_HalfCover3x4_01.fbx
+[2021.03.12-12.52.47:047][154]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.12-12.52.47:048][154]LogFbx: Display: Triangulating static mesh Cube
+[2021.03.12-12.52.47:049][154]LogStaticMesh: Building static mesh SM_HalfCover3x4_01...
+[2021.03.12-12.52.47:050][154]LogStaticMesh: Built static mesh [0.00s] /Game/Level3_assets/SM_HalfCover3x4_01.SM_HalfCover3x4_01
+[2021.03.12-12.52.47:050][154]LogStaticMesh: Warning: SM_HalfCover3x4_01 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.03.12-12.52.47:050][154]LogStaticMesh: Warning: SM_HalfCover3x4_01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.03.12-12.52.47:056][154]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.12-12.52.47:056][154]FBXImport: Warning: SM_HalfCover3x4_01 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.03.12-12.52.47:056][154]FBXImport: Warning: SM_HalfCover3x4_01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.03.12-12.52.47:061][154]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Simon\Desktop\assets\team3\SM_LandMarkPortal_01.fbx)
+[2021.03.12-12.52.47:068][154]LogFbx: Loading FBX Scene from C:\Users\Simon\Desktop\assets\team3\SM_LandMarkPortal_01.fbx
+[2021.03.12-12.52.47:072][154]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.12-12.52.47:073][154]LogFbx: Display: Triangulating static mesh Cube
+[2021.03.12-12.52.47:132][154]LogStaticMesh: Building static mesh SM_LandMarkPortal_01...
+[2021.03.12-12.52.47:150][154]LogStaticMesh: Built static mesh [0.02s] /Game/Level3_assets/SM_LandMarkPortal_01.SM_LandMarkPortal_01
+[2021.03.12-12.52.47:153][154]LogStaticMesh: Warning: SM_LandMarkPortal_01 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.03.12-12.52.47:153][154]LogStaticMesh: Warning: SM_LandMarkPortal_01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.03.12-12.52.47:162][154]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.12-12.52.47:162][154]FBXImport: Warning: SM_LandMarkPortal_01 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.03.12-12.52.47:162][154]FBXImport: Warning: SM_LandMarkPortal_01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.03.12-12.53.19:618][588]LogSlate: Window 'Message Log' being destroyed
+[2021.03.12-12.53.19:622][588]LogSlate: Window 'Message Log' being destroyed
+[2021.03.12-12.53.21:943][859]LogActorFactory: Actor Factory created SM_Bush_01
+[2021.03.12-12.53.22:188][888]LogActorFactory: Actor Factory created SM_Bush_01
+[2021.03.12-12.53.23:317][ 20]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Map_DrawnBluePrintTOP)
+[2021.03.12-12.53.24:554][164]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bush_01)
+[2021.03.12-12.53.24:995][212]Cmd: DELETE
+[2021.03.12-12.53.24:995][212]Cmd: ACTOR DELETE
+[2021.03.12-12.53.24:997][212]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.12-12.53.25:012][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.03.12-12.53.25:017][212]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2021.03.12-12.53.25:372][250]LogActorFactory: Actor Factory created G3_Bridge_01
+[2021.03.12-12.53.25:555][271]LogActorFactory: Actor Factory created G3_Bridge_01
+[2021.03.12-12.53.27:409][490]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Map_DrawnBluePrintTOP)
+[2021.03.12-12.53.31:559][976]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (G3_Bridge_01)
+[2021.03.12-12.53.32:056][ 25]Cmd: DELETE
+[2021.03.12-12.53.32:056][ 25]Cmd: ACTOR DELETE
+[2021.03.12-12.53.32:059][ 25]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.12-12.53.32:071][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.03.12-12.53.32:074][ 25]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2021.03.12-12.53.32:665][ 90]LogActorFactory: Actor Factory created SM_Tree_01
+[2021.03.12-12.53.32:860][113]LogActorFactory: Actor Factory created SM_Tree_01
+[2021.03.12-12.53.34:621][321]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Map_DrawnBluePrintTOP)
+[2021.03.12-12.53.37:460][650]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Tree_01)
+[2021.03.12-12.53.38:079][720]Cmd: DELETE
+[2021.03.12-12.53.38:079][720]Cmd: ACTOR DELETE
+[2021.03.12-12.53.38:081][720]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.12-12.53.38:094][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.03.12-12.53.38:097][720]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2021.03.12-12.53.39:776][918]LogActorFactory: Actor Factory created SM_LandMarkPortal_01
+[2021.03.12-12.53.39:989][943]LogActorFactory: Actor Factory created SM_LandMarkPortal_01
+[2021.03.12-12.53.41:412][106]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.03.12-12.53.46:499][705]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LandMarkPortal_01)
+[2021.03.12-12.53.46:793][729]Cmd: DELETE
+[2021.03.12-12.53.46:793][729]Cmd: ACTOR DELETE
+[2021.03.12-12.53.46:796][729]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.12-12.53.46:809][729]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.03.12-12.53.46:812][729]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2021.03.12-12.53.47:295][784]LogActorFactory: Actor Factory created SM_HalfCover3x4_01
+[2021.03.12-12.53.47:456][803]LogActorFactory: Actor Factory created SM_HalfCover3x4_01
+[2021.03.12-12.53.48:514][926]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Map_DrawnBluePrintTOP)
+[2021.03.12-12.53.49:080][991]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_HalfCover3x4_01)
+[2021.03.12-12.53.59:893][645]Cmd: DELETE
+[2021.03.12-12.53.59:893][645]Cmd: ACTOR DELETE
+[2021.03.12-12.53.59:896][645]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.12-12.53.59:908][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.03.12-12.53.59:912][645]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2021.03.12-12.54.00:264][684]LogActorFactory: Actor Factory created SM_Enemy_03-CragSquid
+[2021.03.12-12.54.00:451][706]LogActorFactory: Actor Factory created SM_Enemy_03-CragSquid
+[2021.03.12-12.54.01:786][863]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Map_DrawnBluePrintTOP)
+[2021.03.12-12.54.06:767][443]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Enemy_03-CragSquid)
+[2021.03.12-12.54.06:961][462]Cmd: DELETE
+[2021.03.12-12.54.06:961][462]Cmd: ACTOR DELETE
+[2021.03.12-12.54.06:964][462]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.12-12.54.06:977][462]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.03.12-12.54.06:979][462]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2021.03.12-12.54.21:184][154]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.03.12-12.54.22:014][222]LogActorFactory: Actor Factory created sm_landmarktree
+[2021.03.12-12.54.22:030][223]LogActorFactory: Actor Factory created sm_landmarktree
+[2021.03.12-12.54.31:007][250]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.03.12-12.54.42:283][586]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sm_landmarktree)
+[2021.03.12-12.54.42:629][620]Cmd: DELETE
+[2021.03.12-12.54.42:629][620]Cmd: ACTOR DELETE
+[2021.03.12-12.54.42:631][620]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.12-12.54.42:645][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.03.12-12.54.42:651][620]LogEditorActor: Deleted 1 Actors (0.022 secs)

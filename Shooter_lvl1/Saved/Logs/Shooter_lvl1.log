@@ -8918,3 +8918,973 @@ SkySphereBlueprint
 [2021.03.12-18.19.18:529][686]MapCheck: Warning: m_plank14_3 Static mesh actor has NULL StaticMesh property 
 [2021.03.12-18.19.18:529][686]MapCheck: Warning: m_plank19 Static mesh actor has NULL StaticMesh property 
 [2021.03.12-18.19.18:530][686]MapCheck: Map check complete: 0 Error(s), 32 Warning(s), took 1.727ms to complete.
+[2021.03.12-18.19.25:712][ 26]LogSlate: Window 'Message Log' being destroyed
+[2021.03.12-18.19.25:718][ 26]LogSlate: Window 'Message Log' being destroyed
+[2021.03.12-18.19.27:211][202]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.12-18.19.27:219][202]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.12-18.19.27:220][202]PIE: New page: PIE session: TestMapSimon (Mar 12, 2021, 8:19:27 PM)
+[2021.03.12-18.19.27:220][202]LogPlayLevel: Creating play world package: /Game/Maps/Test/UEDPIE_0_TestMapSimon
+[2021.03.12-18.19.27:249][202]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029387s)
+[2021.03.12-18.19.27:250][202]LogAIModule: Creating AISystem for world TestMapSimon
+[2021.03.12-18.19.27:250][202]LogPlayLevel: PIE: World Init took: (0.000947s)
+[2021.03.12-18.19.27:250][202]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test/TestMapSimon.TestMapSimon to /Game/Maps/Test/UEDPIE_0_TestMapSimon.TestMapSimon (0.030450s)
+[2021.03.12-18.19.27:256][202]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.03.12-18.19.27:258][202]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2021.03.12-18.19.27:258][202]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.12-18.19.27:258][202]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.12-18.19.27:258][202]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.12-18.19.27:258][202]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.12-18.19.27:258][202]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.12-18.19.27:258][202]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.12-18.19.27:258][202]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.12-18.19.27:258][202]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.12-18.19.27:259][202]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.12-18.19.27:259][202]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.12-18.19.27:262][202]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.12-18.19.27:262][202]LogAudioMixer: Display: 1: FrontRight
+[2021.03.12-18.19.27:262][202]LogAudioMixer: Display: 2: FrontCenter
+[2021.03.12-18.19.27:262][202]LogAudioMixer: Display: 3: LowFrequency
+[2021.03.12-18.19.27:262][202]LogAudioMixer: Display: 4: BackLeft
+[2021.03.12-18.19.27:262][202]LogAudioMixer: Display: 5: BackRight
+[2021.03.12-18.19.27:262][202]LogAudioMixer: Display: 6: SideLeft
+[2021.03.12-18.19.27:262][202]LogAudioMixer: Display: 7: SideRight
+[2021.03.12-18.19.27:284][202]LogAudioMixer: Display: Using Audio Device Hörlurar (ROG Headset)
+[2021.03.12-18.19.27:284][202]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.12-18.19.27:284][202]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.12-18.19.27:284][202]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.12-18.19.27:284][202]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.12-18.19.27:284][202]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.12-18.19.27:284][202]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.03.12-18.19.27:297][202]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.12-18.19.27:297][202]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.12-18.19.27:297][202]LogInit: FAudioDevice initialized.
+[2021.03.12-18.19.27:297][202]LogAudio: Display: Audio Device (ID: 17) registered with world 'TestMapSimon'.
+[2021.03.12-18.19.27:307][202]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.03.12-18.19.27:313][202]LogWorld: Bringing World /Game/Maps/Test/UEDPIE_0_TestMapSimon.TestMapSimon up for play (max tick rate 0) at 2021.03.12-19.19.27
+[2021.03.12-18.19.27:313][202]LogWorld: Bringing up level for play took: 0.004982
+[2021.03.12-18.19.27:313][202]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2021.03.12-18.19.27:315][202]PIE: Server logged in
+[2021.03.12-18.19.27:316][202]PIE: Play in editor total start time 0.097 seconds.
+[2021.03.12-18.19.39:820][687]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-18.19.39:820][687]LogWorld: BeginTearingDown for /Game/Maps/Test/UEDPIE_0_TestMapSimon
+[2021.03.12-18.19.39:820][687]LogWorld: UWorld::CleanupWorld for TestMapSimon, bSessionEnded=true, bCleanupResources=true
+[2021.03.12-18.19.39:821][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-18.19.39:827][687]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.12-18.19.39:829][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-18.19.39:834][687]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.12-18.19.39:834][687]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.12-18.19.39:835][687]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.12-18.19.39:869][687]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-18.19.39:872][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.03.12-18.19.39:891][688]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.03.12-18.19.46:457][467]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.12-18.19.46:465][467]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.12-18.19.46:465][467]PIE: New page: PIE session: TestMapSimon (Mar 12, 2021, 8:19:46 PM)
+[2021.03.12-18.19.46:509][467]LogPlayLevel: Creating play world package: /Game/Maps/Test/UEDPIE_0_TestMapSimon
+[2021.03.12-18.19.46:539][467]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030322s)
+[2021.03.12-18.19.46:540][467]LogAIModule: Creating AISystem for world TestMapSimon
+[2021.03.12-18.19.46:540][467]LogPlayLevel: PIE: World Init took: (0.001055s)
+[2021.03.12-18.19.46:540][467]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test/TestMapSimon.TestMapSimon to /Game/Maps/Test/UEDPIE_0_TestMapSimon.TestMapSimon (0.031536s)
+[2021.03.12-18.19.46:546][467]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.03.12-18.19.46:548][467]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2021.03.12-18.19.46:548][467]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.12-18.19.46:548][467]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.12-18.19.46:548][467]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.12-18.19.46:548][467]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.12-18.19.46:548][467]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.12-18.19.46:548][467]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.12-18.19.46:548][467]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.12-18.19.46:548][467]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.12-18.19.46:548][467]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.12-18.19.46:548][467]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.12-18.19.46:552][467]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.12-18.19.46:552][467]LogAudioMixer: Display: 1: FrontRight
+[2021.03.12-18.19.46:552][467]LogAudioMixer: Display: 2: FrontCenter
+[2021.03.12-18.19.46:552][467]LogAudioMixer: Display: 3: LowFrequency
+[2021.03.12-18.19.46:552][467]LogAudioMixer: Display: 4: BackLeft
+[2021.03.12-18.19.46:552][467]LogAudioMixer: Display: 5: BackRight
+[2021.03.12-18.19.46:552][467]LogAudioMixer: Display: 6: SideLeft
+[2021.03.12-18.19.46:552][467]LogAudioMixer: Display: 7: SideRight
+[2021.03.12-18.19.46:573][467]LogAudioMixer: Display: Using Audio Device Hörlurar (ROG Headset)
+[2021.03.12-18.19.46:573][467]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.12-18.19.46:574][467]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.12-18.19.46:574][467]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.12-18.19.46:574][467]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.12-18.19.46:574][467]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.12-18.19.46:574][467]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.03.12-18.19.46:574][467]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.12-18.19.46:574][467]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.12-18.19.46:574][467]LogInit: FAudioDevice initialized.
+[2021.03.12-18.19.46:574][467]LogAudio: Display: Audio Device (ID: 18) registered with world 'TestMapSimon'.
+[2021.03.12-18.19.46:590][467]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.03.12-18.19.46:595][467]LogWorld: Bringing World /Game/Maps/Test/UEDPIE_0_TestMapSimon.TestMapSimon up for play (max tick rate 0) at 2021.03.12-19.19.46
+[2021.03.12-18.19.46:596][467]LogWorld: Bringing up level for play took: 0.004822
+[2021.03.12-18.19.46:596][467]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2021.03.12-18.19.46:598][467]PIE: Server logged in
+[2021.03.12-18.19.46:598][467]PIE: Play in editor total start time 0.134 seconds.
+[2021.03.12-18.19.58:400][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-18.19.58:400][876]LogWorld: BeginTearingDown for /Game/Maps/Test/UEDPIE_0_TestMapSimon
+[2021.03.12-18.19.58:400][876]LogWorld: UWorld::CleanupWorld for TestMapSimon, bSessionEnded=true, bCleanupResources=true
+[2021.03.12-18.19.58:401][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-18.19.58:411][876]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.12-18.19.58:412][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-18.19.58:417][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-18.19.58:418][876]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.12-18.19.58:419][876]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.12-18.19.58:440][876]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.03.12-18.19.58:482][878]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.03.12-18.20.21:687][594]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.12-18.20.21:696][594]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.12-18.20.21:696][594]PIE: New page: PIE session: TestMapSimon (Mar 12, 2021, 8:20:21 PM)
+[2021.03.12-18.20.21:729][594]LogPlayLevel: Creating play world package: /Game/Maps/Test/UEDPIE_0_TestMapSimon
+[2021.03.12-18.20.21:761][594]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032243s)
+[2021.03.12-18.20.21:762][594]LogAIModule: Creating AISystem for world TestMapSimon
+[2021.03.12-18.20.21:762][594]LogPlayLevel: PIE: World Init took: (0.001189s)
+[2021.03.12-18.20.21:762][594]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test/TestMapSimon.TestMapSimon to /Game/Maps/Test/UEDPIE_0_TestMapSimon.TestMapSimon (0.033595s)
+[2021.03.12-18.20.21:771][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.03.12-18.20.21:774][594]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2021.03.12-18.20.21:774][594]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.12-18.20.21:774][594]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.12-18.20.21:774][594]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.12-18.20.21:774][594]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.12-18.20.21:774][594]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.12-18.20.21:774][594]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.12-18.20.21:774][594]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.12-18.20.21:774][594]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.12-18.20.21:774][594]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.12-18.20.21:774][594]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.12-18.20.21:777][594]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.12-18.20.21:777][594]LogAudioMixer: Display: 1: FrontRight
+[2021.03.12-18.20.21:777][594]LogAudioMixer: Display: 2: FrontCenter
+[2021.03.12-18.20.21:777][594]LogAudioMixer: Display: 3: LowFrequency
+[2021.03.12-18.20.21:777][594]LogAudioMixer: Display: 4: BackLeft
+[2021.03.12-18.20.21:777][594]LogAudioMixer: Display: 5: BackRight
+[2021.03.12-18.20.21:777][594]LogAudioMixer: Display: 6: SideLeft
+[2021.03.12-18.20.21:777][594]LogAudioMixer: Display: 7: SideRight
+[2021.03.12-18.20.21:798][594]LogAudioMixer: Display: Using Audio Device Hörlurar (ROG Headset)
+[2021.03.12-18.20.21:799][594]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.12-18.20.21:799][594]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.12-18.20.21:799][594]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.12-18.20.21:799][594]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.12-18.20.21:799][594]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.12-18.20.21:799][594]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.03.12-18.20.21:812][594]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.12-18.20.21:812][594]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.12-18.20.21:812][594]LogInit: FAudioDevice initialized.
+[2021.03.12-18.20.21:812][594]LogAudio: Display: Audio Device (ID: 19) registered with world 'TestMapSimon'.
+[2021.03.12-18.20.21:823][594]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.03.12-18.20.21:828][594]LogWorld: Bringing World /Game/Maps/Test/UEDPIE_0_TestMapSimon.TestMapSimon up for play (max tick rate 0) at 2021.03.12-19.20.21
+[2021.03.12-18.20.21:828][594]LogWorld: Bringing up level for play took: 0.004899
+[2021.03.12-18.20.21:828][594]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2021.03.12-18.20.21:830][594]PIE: Server logged in
+[2021.03.12-18.20.21:831][594]PIE: Play in editor total start time 0.136 seconds.
+[2021.03.12-18.20.23:929][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-18.20.23:929][839]LogWorld: BeginTearingDown for /Game/Maps/Test/UEDPIE_0_TestMapSimon
+[2021.03.12-18.20.23:930][839]LogWorld: UWorld::CleanupWorld for TestMapSimon, bSessionEnded=true, bCleanupResources=true
+[2021.03.12-18.20.23:931][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-18.20.23:940][839]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.12-18.20.23:942][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-18.20.23:948][839]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.12-18.20.23:948][839]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.12-18.20.23:949][839]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.12-18.20.23:966][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-18.20.23:968][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.03.12-18.20.24:012][841]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2021.03.12-18.20.29:380][456]Cmd: TRANSACTION UNDO
+[2021.03.12-18.20.29:380][456]LogEditorTransaction: Undo Landscape Editing: Paint
+[2021.03.12-18.20.29:426][456]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 64X64)
+[2021.03.12-18.20.29:445][456]LogMaterial: Display: Missing cached shader map for material Landscape_Material, compiling. 
+[2021.03.12-18.20.29:479][457]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 11
+[2021.03.12-18.20.29:479][457]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2021.03.12-18.20.29:479][457]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 9
+[2021.03.12-18.20.29:479][457]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 8
+[2021.03.12-18.20.29:479][457]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 7
+[2021.03.12-18.20.29:479][457]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2021.03.12-18.20.29:479][457]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2021.03.12-18.20.29:479][457]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2021.03.12-18.20.29:479][457]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 3
+[2021.03.12-18.20.29:479][457]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2
+[2021.03.12-18.20.29:479][457]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2021.03.12-18.20.29:946][469]Cmd: TRANSACTION UNDO
+[2021.03.12-18.20.29:946][469]LogEditorTransaction: Undo Landscape Editing: Paint
+[2021.03.12-18.20.29:986][469]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 64X64)
+[2021.03.12-18.20.30:038][469]LogMaterial: Display: Missing cached shader map for material Landscape_Material, compiling. 
+[2021.03.12-18.20.30:046][469]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 11
+[2021.03.12-18.20.30:206][476]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 10
+[2021.03.12-18.20.30:222][477]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 9
+[2021.03.12-18.20.30:237][478]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 8
+[2021.03.12-18.20.30:363][487]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2021.03.12-18.20.30:473][493]Cmd: TRANSACTION UNDO
+[2021.03.12-18.20.30:473][493]LogEditorTransaction: Undo Landscape Editing: Paint
+[2021.03.12-18.20.30:514][493]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 6
+[2021.03.12-18.20.30:514][493]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 64X64)
+[2021.03.12-18.20.30:580][493]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2021.03.12-18.20.30:580][493]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 4
+[2021.03.12-18.20.30:580][493]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 3
+[2021.03.12-18.20.30:581][493]LogMaterial: Display: Missing cached shader map for material Landscape_Material, compiling. 
+[2021.03.12-18.20.30:598][493]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 11
+[2021.03.12-18.20.30:607][493]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 10
+[2021.03.12-18.20.30:649][494]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 9
+[2021.03.12-18.20.30:792][502]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 8
+[2021.03.12-18.20.31:035][515]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2021.03.12-18.20.31:130][521]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 6
+[2021.03.12-18.20.31:162][523]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 5
+[2021.03.12-18.20.31:162][523]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2021.03.12-18.20.31:357][535]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2021.03.12-18.20.31:381][536]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2021.03.12-18.20.31:403][537]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2021.03.12-18.20.31:957][586]MaterialEditorStats: Base pass shader: 119 instructions
+[2021.03.12-18.20.31:957][586]MaterialEditorStats: Base pass shader with Surface Lightmap: 146 instructions
+[2021.03.12-18.20.31:957][586]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2021.03.12-18.20.31:957][586]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.03.12-18.20.31:957][586]MaterialEditorStats: Texture samplers: 2/16
+[2021.03.12-18.20.47:162][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.03.12-18.20.47:276][346]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/TestMapSimonAECCF3334CDB9BC406B4C7898A97B20A.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Maps/Test/TestMapSimon.umap'
+[2021.03.12-18.20.47:433][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test/TestMapSimon_BuiltData" FILE="D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Maps/Test/TestMapSimon_BuiltData.uasset" SILENT=true
+[2021.03.12-18.20.48:355][346]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/TestMapSimon_BuiltDataF8CE635F41F710C545E6688584A0F455.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Maps/Test/TestMapSimon_BuiltData.uasset'
+[2021.03.12-18.20.48:373][346]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.12-18.20.48:373][346]LogContentValidation: Display: Validating World /Game/Maps/Test/TestMapSimon.TestMapSimon
+[2021.03.12-18.20.48:373][346]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Test/TestMapSimon_BuiltData.TestMapSimon_BuiltData
+[2021.03.12-18.20.54:326][ 51]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.03.12-18.20.55:627][187]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.03.12-18.20.55:740][187]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/TestMapSimonA1F07BF2470013ED8A38B09B1A60CFD3.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Maps/Test/TestMapSimon.umap'
+[2021.03.12-18.20.55:753][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test/TestMapSimon_BuiltData" FILE="D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Maps/Test/TestMapSimon_BuiltData.uasset" SILENT=true
+[2021.03.12-18.20.56:489][187]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/TestMapSimon_BuiltData26DD10904E9E82C927F3D3A778230C24.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Maps/Test/TestMapSimon_BuiltData.uasset'
+[2021.03.12-18.20.56:508][187]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.12-18.20.56:508][187]LogContentValidation: Display: Validating World /Game/Maps/Test/TestMapSimon.TestMapSimon
+[2021.03.12-18.20.56:508][187]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Test/TestMapSimon_BuiltData.TestMapSimon_BuiltData
+[2021.03.12-18.20.57:150][259]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.12-18.20.57:159][259]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.12-18.20.57:159][259]PIE: New page: PIE session: TestMapSimon (Mar 12, 2021, 8:20:57 PM)
+[2021.03.12-18.20.57:159][259]LogPlayLevel: Creating play world package: /Game/Maps/Test/UEDPIE_0_TestMapSimon
+[2021.03.12-18.20.57:190][259]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030289s)
+[2021.03.12-18.20.57:190][259]LogAIModule: Creating AISystem for world TestMapSimon
+[2021.03.12-18.20.57:191][259]LogPlayLevel: PIE: World Init took: (0.001085s)
+[2021.03.12-18.20.57:191][259]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test/TestMapSimon.TestMapSimon to /Game/Maps/Test/UEDPIE_0_TestMapSimon.TestMapSimon (0.031511s)
+[2021.03.12-18.20.57:197][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.03.12-18.20.57:198][259]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2021.03.12-18.20.57:198][259]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.12-18.20.57:198][259]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.12-18.20.57:198][259]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.12-18.20.57:198][259]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.12-18.20.57:198][259]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.12-18.20.57:198][259]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.12-18.20.57:198][259]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.12-18.20.57:198][259]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.12-18.20.57:198][259]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.12-18.20.57:198][259]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.12-18.20.57:202][259]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.12-18.20.57:202][259]LogAudioMixer: Display: 1: FrontRight
+[2021.03.12-18.20.57:202][259]LogAudioMixer: Display: 2: FrontCenter
+[2021.03.12-18.20.57:202][259]LogAudioMixer: Display: 3: LowFrequency
+[2021.03.12-18.20.57:202][259]LogAudioMixer: Display: 4: BackLeft
+[2021.03.12-18.20.57:202][259]LogAudioMixer: Display: 5: BackRight
+[2021.03.12-18.20.57:202][259]LogAudioMixer: Display: 6: SideLeft
+[2021.03.12-18.20.57:202][259]LogAudioMixer: Display: 7: SideRight
+[2021.03.12-18.20.57:223][259]LogAudioMixer: Display: Using Audio Device Hörlurar (ROG Headset)
+[2021.03.12-18.20.57:224][259]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.12-18.20.57:224][259]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.12-18.20.57:224][259]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.12-18.20.57:224][259]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.12-18.20.57:224][259]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.12-18.20.57:224][259]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.03.12-18.20.57:237][259]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.12-18.20.57:237][259]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.12-18.20.57:237][259]LogInit: FAudioDevice initialized.
+[2021.03.12-18.20.57:237][259]LogAudio: Display: Audio Device (ID: 20) registered with world 'TestMapSimon'.
+[2021.03.12-18.20.57:242][259]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.03.12-18.20.57:248][259]LogWorld: Bringing World /Game/Maps/Test/UEDPIE_0_TestMapSimon.TestMapSimon up for play (max tick rate 0) at 2021.03.12-19.20.57
+[2021.03.12-18.20.57:248][259]LogWorld: Bringing up level for play took: 0.004762
+[2021.03.12-18.20.57:248][259]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2021.03.12-18.20.57:250][259]PIE: Server logged in
+[2021.03.12-18.20.57:250][259]PIE: Play in editor total start time 0.091 seconds.
+[2021.03.12-18.21.02:330][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-18.21.02:330][863]LogWorld: BeginTearingDown for /Game/Maps/Test/UEDPIE_0_TestMapSimon
+[2021.03.12-18.21.02:331][863]LogWorld: UWorld::CleanupWorld for TestMapSimon, bSessionEnded=true, bCleanupResources=true
+[2021.03.12-18.21.02:332][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-18.21.02:340][863]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.12-18.21.02:348][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-18.21.02:353][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-18.21.02:353][863]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.12-18.21.02:354][863]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.12-18.21.02:379][863]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.03.12-18.21.02:408][864]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.03.12-18.21.05:401][213]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.03.12-18.21.11:886][972]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.03.12-18.21.11:999][972]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/TestMapSimonE053F2184D6D8AEACD12A799654CADE1.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Maps/Test/TestMapSimon.umap'
+[2021.03.12-18.21.12:015][972]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test/TestMapSimon_BuiltData" FILE="D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Maps/Test/TestMapSimon_BuiltData.uasset" SILENT=true
+[2021.03.12-18.21.12:552][972]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/TestMapSimon_BuiltDataA4278C5146A9A501434599837890A655.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Maps/Test/TestMapSimon_BuiltData.uasset'
+[2021.03.12-18.21.12:586][972]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.12-18.21.12:586][972]LogContentValidation: Display: Validating World /Game/Maps/Test/TestMapSimon.TestMapSimon
+[2021.03.12-18.21.12:586][972]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Test/TestMapSimon_BuiltData.TestMapSimon_BuiltData
+[2021.03.12-18.21.13:293][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.03.12-18.21.13:429][ 51]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/TestMapSimon46CDE08048547DD31A5C5FB8DDC050A9.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Maps/Test/TestMapSimon.umap'
+[2021.03.12-18.21.13:443][ 51]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test/TestMapSimon_BuiltData" FILE="D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Maps/Test/TestMapSimon_BuiltData.uasset" SILENT=true
+[2021.03.12-18.21.13:982][ 51]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/TestMapSimon_BuiltData85D8517E41ABE8F30A75D585C490676C.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Maps/Test/TestMapSimon_BuiltData.uasset'
+[2021.03.12-18.21.13:997][ 51]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.12-18.21.13:997][ 51]LogContentValidation: Display: Validating World /Game/Maps/Test/TestMapSimon.TestMapSimon
+[2021.03.12-18.21.13:997][ 51]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Test/TestMapSimon_BuiltData.TestMapSimon_BuiltData
+[2021.03.12-18.21.14:623][123]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.12-18.21.14:637][123]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.12-18.21.14:637][123]PIE: New page: PIE session: TestMapSimon (Mar 12, 2021, 8:21:14 PM)
+[2021.03.12-18.21.14:658][123]LogPlayLevel: Creating play world package: /Game/Maps/Test/UEDPIE_0_TestMapSimon
+[2021.03.12-18.21.14:688][123]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029610s)
+[2021.03.12-18.21.14:689][123]LogAIModule: Creating AISystem for world TestMapSimon
+[2021.03.12-18.21.14:689][123]LogPlayLevel: PIE: World Init took: (0.000976s)
+[2021.03.12-18.21.14:689][123]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test/TestMapSimon.TestMapSimon to /Game/Maps/Test/UEDPIE_0_TestMapSimon.TestMapSimon (0.030731s)
+[2021.03.12-18.21.14:695][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.03.12-18.21.14:696][123]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2021.03.12-18.21.14:696][123]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.12-18.21.14:696][123]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.12-18.21.14:696][123]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.12-18.21.14:696][123]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.12-18.21.14:696][123]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.12-18.21.14:696][123]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.12-18.21.14:696][123]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.12-18.21.14:696][123]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.12-18.21.14:696][123]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.12-18.21.14:696][123]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.12-18.21.14:699][123]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.12-18.21.14:699][123]LogAudioMixer: Display: 1: FrontRight
+[2021.03.12-18.21.14:699][123]LogAudioMixer: Display: 2: FrontCenter
+[2021.03.12-18.21.14:700][123]LogAudioMixer: Display: 3: LowFrequency
+[2021.03.12-18.21.14:700][123]LogAudioMixer: Display: 4: BackLeft
+[2021.03.12-18.21.14:700][123]LogAudioMixer: Display: 5: BackRight
+[2021.03.12-18.21.14:700][123]LogAudioMixer: Display: 6: SideLeft
+[2021.03.12-18.21.14:700][123]LogAudioMixer: Display: 7: SideRight
+[2021.03.12-18.21.14:721][123]LogAudioMixer: Display: Using Audio Device Hörlurar (ROG Headset)
+[2021.03.12-18.21.14:721][123]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.12-18.21.14:721][123]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.12-18.21.14:721][123]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.12-18.21.14:721][123]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.12-18.21.14:721][123]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.12-18.21.14:721][123]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.03.12-18.21.14:734][123]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.12-18.21.14:734][123]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.12-18.21.14:734][123]LogInit: FAudioDevice initialized.
+[2021.03.12-18.21.14:734][123]LogAudio: Display: Audio Device (ID: 21) registered with world 'TestMapSimon'.
+[2021.03.12-18.21.14:744][123]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.03.12-18.21.14:749][123]LogWorld: Bringing World /Game/Maps/Test/UEDPIE_0_TestMapSimon.TestMapSimon up for play (max tick rate 0) at 2021.03.12-19.21.14
+[2021.03.12-18.21.14:749][123]LogWorld: Bringing up level for play took: 0.005020
+[2021.03.12-18.21.14:750][123]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2021.03.12-18.21.14:751][123]PIE: Server logged in
+[2021.03.12-18.21.14:752][123]PIE: Play in editor total start time 0.115 seconds.
+[2021.03.12-18.21.21:410][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-18.21.21:410][915]LogWorld: BeginTearingDown for /Game/Maps/Test/UEDPIE_0_TestMapSimon
+[2021.03.12-18.21.21:411][915]LogWorld: UWorld::CleanupWorld for TestMapSimon, bSessionEnded=true, bCleanupResources=true
+[2021.03.12-18.21.21:412][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-18.21.21:417][915]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.12-18.21.21:430][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-18.21.21:434][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-18.21.21:435][915]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.12-18.21.21:436][915]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.12-18.21.21:466][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.03.12-18.21.21:497][916]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.03.12-18.21.22:134][990]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sm_rockflat)
+[2021.03.12-18.21.23:183][100]Cmd: DELETE
+[2021.03.12-18.21.23:183][100]Cmd: ACTOR DELETE
+[2021.03.12-18.21.23:191][100]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.12-18.21.23:196][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.03.12-18.21.23:197][100]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.03.12-18.21.23:439][128]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sm_rockflat2)
+[2021.03.12-18.21.23:581][138]Cmd: DELETE
+[2021.03.12-18.21.23:581][138]Cmd: ACTOR DELETE
+[2021.03.12-18.21.23:588][138]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.12-18.21.23:592][138]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.03.12-18.21.23:593][138]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2021.03.12-18.21.23:824][163]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sm_rockflat3)
+[2021.03.12-18.21.23:911][170]Cmd: DELETE
+[2021.03.12-18.21.23:911][170]Cmd: ACTOR DELETE
+[2021.03.12-18.21.23:918][170]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.12-18.21.23:923][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.03.12-18.21.23:923][170]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2021.03.12-18.21.25:862][399]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.03.12-18.21.35:489][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.03.12-18.21.35:501][484]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 64X64)
+[2021.03.12-18.21.35:501][484]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 64X64)
+[2021.03.12-18.21.35:601][484]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/TestMapSimonAFABD47943E66BE4FBD9EDAFF3A7DD5B.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Maps/Test/TestMapSimon.umap'
+[2021.03.12-18.21.35:616][484]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test/TestMapSimon_BuiltData" FILE="D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Maps/Test/TestMapSimon_BuiltData.uasset" SILENT=true
+[2021.03.12-18.21.36:155][484]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/TestMapSimon_BuiltData1C3D4DCE45F7E508A303769C38A44A5B.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Maps/Test/TestMapSimon_BuiltData.uasset'
+[2021.03.12-18.21.36:168][484]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.12-18.21.36:168][484]LogContentValidation: Display: Validating World /Game/Maps/Test/TestMapSimon.TestMapSimon
+[2021.03.12-18.21.36:168][484]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Test/TestMapSimon_BuiltData.TestMapSimon_BuiltData
+[2021.03.12-18.21.38:857][783]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.03.12-18.21.38:967][783]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/TestMapSimon822EBCEB4BF946B6BC7DABBACEA9BFD1.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Maps/Test/TestMapSimon.umap'
+[2021.03.12-18.21.38:982][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test/TestMapSimon_BuiltData" FILE="D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Maps/Test/TestMapSimon_BuiltData.uasset" SILENT=true
+[2021.03.12-18.21.39:525][783]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/TestMapSimon_BuiltDataC52E32A94E4A05E51570C4B6FD20A108.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Maps/Test/TestMapSimon_BuiltData.uasset'
+[2021.03.12-18.21.39:535][783]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.12-18.21.39:535][783]LogContentValidation: Display: Validating World /Game/Maps/Test/TestMapSimon.TestMapSimon
+[2021.03.12-18.21.39:535][783]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Test/TestMapSimon_BuiltData.TestMapSimon_BuiltData
+[2021.03.12-18.21.43:390][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.03.12-18.21.43:408][234]LogLinker: Warning: [AssetLog] D:\Program\UnityProjects\UnrealLevel1LevelDesignCourse\Shooter_lvl1\Content\Maps\MapWhiteboxBackup.umap: Failed to load '/Game/Level1_Assets/Meshes/m_hangingtree2': Can't find file.
+[2021.03.12-18.21.43:409][234]LogLinker: Warning: [AssetLog] D:\Program\UnityProjects\UnrealLevel1LevelDesignCourse\Shooter_lvl1\Content\Maps\MapWhiteboxBackup.umap: Failed to load '/Game/Level1_Assets/Meshes/m_hangingtree2': Can't find file.
+[2021.03.12-18.21.43:409][234]LogLinker: Warning: [AssetLog] D:\Program\UnityProjects\UnrealLevel1LevelDesignCourse\Shooter_lvl1\Content\Maps\MapWhiteboxBackup.umap: Failed to load '/Game/Level1_Assets/Meshes/m_plank': Can't find file.
+[2021.03.12-18.21.43:409][234]LogLinker: Warning: [AssetLog] D:\Program\UnityProjects\UnrealLevel1LevelDesignCourse\Shooter_lvl1\Content\Maps\MapWhiteboxBackup.umap: Failed to load '/Game/Level1_Assets/Meshes/m_plank': Can't find file.
+[2021.03.12-18.21.43:409][234]LogLinker: Warning: [AssetLog] D:\Program\UnityProjects\UnrealLevel1LevelDesignCourse\Shooter_lvl1\Content\Maps\MapWhiteboxBackup.umap: Failed to load '/Game/Level1_Assets/Meshes/m_rockflat2': Can't find file.
+[2021.03.12-18.21.43:409][234]LogLinker: Warning: [AssetLog] D:\Program\UnityProjects\UnrealLevel1LevelDesignCourse\Shooter_lvl1\Content\Maps\MapWhiteboxBackup.umap: Failed to load '/Game/Level1_Assets/Meshes/m_rockflat2': Can't find file.
+[2021.03.12-18.21.43:409][234]LogLinker: Warning: [AssetLog] D:\Program\UnityProjects\UnrealLevel1LevelDesignCourse\Shooter_lvl1\Content\Maps\MapWhiteboxBackup.umap: Failed to load '/Game/Level1_Assets/Meshes/m_tree02': Can't find file.
+[2021.03.12-18.21.43:409][234]LogLinker: Warning: [AssetLog] D:\Program\UnityProjects\UnrealLevel1LevelDesignCourse\Shooter_lvl1\Content\Maps\MapWhiteboxBackup.umap: Failed to load '/Game/Level1_Assets/Meshes/m_tree02': Can't find file.
+[2021.03.12-18.21.43:409][234]LogLinker: Warning: [AssetLog] D:\Program\UnityProjects\UnrealLevel1LevelDesignCourse\Shooter_lvl1\Content\Maps\MapWhiteboxBackup.umap: Failed to load '/Game/Level1_Assets/Meshes/m_hangingtree2': Can't find file.
+[2021.03.12-18.21.43:409][234]LogLinker: Warning: [AssetLog] D:\Program\UnityProjects\UnrealLevel1LevelDesignCourse\Shooter_lvl1\Content\Maps\MapWhiteboxBackup.umap: Failed to load '/Game/Level1_Assets/Meshes/m_plank': Can't find file.
+[2021.03.12-18.21.43:409][234]LogLinker: Warning: [AssetLog] D:\Program\UnityProjects\UnrealLevel1LevelDesignCourse\Shooter_lvl1\Content\Maps\MapWhiteboxBackup.umap: Failed to load '/Game/Level1_Assets/Meshes/m_rockflat2': Can't find file.
+[2021.03.12-18.21.43:410][234]LogLinker: Warning: [AssetLog] D:\Program\UnityProjects\UnrealLevel1LevelDesignCourse\Shooter_lvl1\Content\Maps\MapWhiteboxBackup.umap: Failed to load '/Game/Level1_Assets/Meshes/m_tree02': Can't find file.
+[2021.03.12-18.21.43:410][234]LogLinker: Warning: Failed to load '/Game/Level1_Assets/Meshes/m_hangingtree2': Can't find file.
+[2021.03.12-18.21.43:410][234]LogLinker: Warning: Failed to load '/Game/Level1_Assets/Meshes/m_plank': Can't find file.
+[2021.03.12-18.21.43:410][234]LogLinker: Warning: Failed to load '/Game/Level1_Assets/Meshes/m_rockflat2': Can't find file.
+[2021.03.12-18.21.43:410][234]LogLinker: Warning: Failed to load '/Game/Level1_Assets/Meshes/m_tree02': Can't find file.
+[2021.03.12-18.21.43:410][234]LogLinker: Warning: Failed to load '/Game/Level1_Assets/Meshes/m_hangingtree2': Can't find file.
+[2021.03.12-18.21.43:410][234]LogLinker: Warning: Failed to load '/Game/Level1_Assets/Meshes/m_plank': Can't find file.
+[2021.03.12-18.21.43:410][234]LogLinker: Warning: Failed to load '/Game/Level1_Assets/Meshes/m_rockflat2': Can't find file.
+[2021.03.12-18.21.43:410][234]LogLinker: Warning: Failed to load '/Game/Level1_Assets/Meshes/m_tree02': Can't find file.
+[2021.03.12-18.21.43:437][234]LogLinker: Warning: [AssetLog] D:\Program\UnityProjects\UnrealLevel1LevelDesignCourse\Shooter_lvl1\Content\Maps\MapWhiteboxBackup.umap: Failed to load '/Game/Level1_Assets/Meshes/m_hangingtree2': Can't find file.
+[2021.03.12-18.21.43:437][234]LoadErrors: Failed to load /Game/Level1_Assets/Meshes/m_hangingtree2.m_hangingtree2 Referenced by m_hangingtree2_17
+[2021.03.12-18.21.43:437][234]LogLinker: Warning: [AssetLog] D:\Program\UnityProjects\UnrealLevel1LevelDesignCourse\Shooter_lvl1\Content\Maps\MapWhiteboxBackup.umap: Failed to load '/Game/Level1_Assets/Meshes/m_plank': Can't find file.
+[2021.03.12-18.21.43:437][234]LoadErrors: Failed to load /Game/Level1_Assets/Meshes/m_plank.m_plank Referenced by m_plank_8
+[2021.03.12-18.21.43:437][234]LogLinker: Warning: [AssetLog] D:\Program\UnityProjects\UnrealLevel1LevelDesignCourse\Shooter_lvl1\Content\Maps\MapWhiteboxBackup.umap: Failed to load '/Game/Level1_Assets/Meshes/m_rockflat2': Can't find file.
+[2021.03.12-18.21.43:437][234]LoadErrors: Failed to load /Game/Level1_Assets/Meshes/m_rockflat2.m_rockflat2 Referenced by m_rockflat2_32
+[2021.03.12-18.21.43:437][234]LogLinker: Warning: [AssetLog] D:\Program\UnityProjects\UnrealLevel1LevelDesignCourse\Shooter_lvl1\Content\Maps\MapWhiteboxBackup.umap: Failed to load '/Game/Level1_Assets/Meshes/m_tree02': Can't find file.
+[2021.03.12-18.21.43:437][234]LoadErrors: Failed to load /Game/Level1_Assets/Meshes/m_tree02.m_tree02 Referenced by m_tree02_11
+[2021.03.12-18.21.43:521][234]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/MapWhiteboxBackup.MapWhiteboxBackup
+[2021.03.12-18.21.43:522][234]Cmd: MAP LOAD FILE="D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Maps/MapWhiteboxBackup.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.12-18.21.43:522][234]LightingResults: New page: Lighting Build
+[2021.03.12-18.21.43:522][234]LoadErrors: New page: Loading map: MapWhiteboxBackup.umap
+[2021.03.12-18.21.43:524][234]LogWorld: UWorld::CleanupWorld for TestMapSimon, bSessionEnded=true, bCleanupResources=true
+[2021.03.12-18.21.43:524][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-18.21.43:524][234]MapCheck: New page: Map Check
+[2021.03.12-18.21.43:524][234]LightingResults: New page: Lighting Build
+[2021.03.12-18.21.43:529][234]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.12-18.21.43:549][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.03.12-18.21.43:556][234]LogAudio: Display: Audio Device (ID: 1) registered with world 'MapWhiteboxBackup'.
+[2021.03.12-18.21.44:176][234]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.12-18.21.44:176][234]LogAIModule: Creating AISystem for world MapWhiteboxBackup
+[2021.03.12-18.21.44:183][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.03.12-18.21.44:196][234]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.12-18.21.44:196][234]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.065ms to complete.
+[2021.03.12-18.21.44:196][234]LogFileHelpers: Loading map 'MapWhiteboxBackup' took 0.675
+[2021.03.12-18.21.48:224][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.03.12-18.21.48:293][707]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Test/TestMapSimon.TestMapSimon
+[2021.03.12-18.21.48:293][707]Cmd: MAP LOAD FILE="D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Maps/Test/TestMapSimon.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.12-18.21.48:294][707]LightingResults: New page: Lighting Build
+[2021.03.12-18.21.48:294][707]LoadErrors: New page: Loading map: TestMapSimon.umap
+[2021.03.12-18.21.48:295][707]LogWorld: UWorld::CleanupWorld for MapWhiteboxBackup, bSessionEnded=true, bCleanupResources=true
+[2021.03.12-18.21.48:295][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-18.21.48:295][707]MapCheck: New page: Map Check
+[2021.03.12-18.21.48:295][707]LightingResults: New page: Lighting Build
+[2021.03.12-18.21.48:300][707]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.12-18.21.48:306][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.03.12-18.21.48:307][707]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestMapSimon'.
+[2021.03.12-18.21.48:590][707]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.12-18.21.48:590][707]LogAIModule: Creating AISystem for world TestMapSimon
+[2021.03.12-18.21.48:598][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.03.12-18.21.48:610][707]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.12-18.21.48:610][707]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.085ms to complete.
+[2021.03.12-18.21.48:610][707]LogFileHelpers: Loading map 'TestMapSimon' took 0.316
+[2021.03.12-18.21.50:270][901]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.12-18.21.50:280][901]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.12-18.21.50:280][901]PIE: New page: PIE session: TestMapSimon (Mar 12, 2021, 8:21:50 PM)
+[2021.03.12-18.21.50:280][901]LogPlayLevel: Creating play world package: /Game/Maps/Test/UEDPIE_0_TestMapSimon
+[2021.03.12-18.21.50:314][901]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033660s)
+[2021.03.12-18.21.50:315][901]LogAIModule: Creating AISystem for world TestMapSimon
+[2021.03.12-18.21.50:315][901]LogPlayLevel: PIE: World Init took: (0.000914s)
+[2021.03.12-18.21.50:315][901]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test/TestMapSimon.TestMapSimon to /Game/Maps/Test/UEDPIE_0_TestMapSimon.TestMapSimon (0.034700s)
+[2021.03.12-18.21.50:320][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.03.12-18.21.50:322][901]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2021.03.12-18.21.50:322][901]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.12-18.21.50:322][901]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.12-18.21.50:322][901]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.12-18.21.50:322][901]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.12-18.21.50:322][901]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.12-18.21.50:322][901]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.12-18.21.50:322][901]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.12-18.21.50:322][901]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.12-18.21.50:322][901]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.12-18.21.50:322][901]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.12-18.21.50:325][901]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.12-18.21.50:325][901]LogAudioMixer: Display: 1: FrontRight
+[2021.03.12-18.21.50:325][901]LogAudioMixer: Display: 2: FrontCenter
+[2021.03.12-18.21.50:325][901]LogAudioMixer: Display: 3: LowFrequency
+[2021.03.12-18.21.50:325][901]LogAudioMixer: Display: 4: BackLeft
+[2021.03.12-18.21.50:325][901]LogAudioMixer: Display: 5: BackRight
+[2021.03.12-18.21.50:325][901]LogAudioMixer: Display: 6: SideLeft
+[2021.03.12-18.21.50:325][901]LogAudioMixer: Display: 7: SideRight
+[2021.03.12-18.21.50:345][901]LogAudioMixer: Display: Using Audio Device Hörlurar (ROG Headset)
+[2021.03.12-18.21.50:346][901]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.12-18.21.50:346][901]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.12-18.21.50:346][901]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.12-18.21.50:346][901]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.12-18.21.50:346][901]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.12-18.21.50:346][901]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.03.12-18.21.50:358][901]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.12-18.21.50:359][901]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.12-18.21.50:359][901]LogInit: FAudioDevice initialized.
+[2021.03.12-18.21.50:359][901]LogAudio: Display: Audio Device (ID: 22) registered with world 'TestMapSimon'.
+[2021.03.12-18.21.50:365][901]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.03.12-18.21.50:371][901]LogWorld: Bringing World /Game/Maps/Test/UEDPIE_0_TestMapSimon.TestMapSimon up for play (max tick rate 0) at 2021.03.12-19.21.50
+[2021.03.12-18.21.50:371][901]LogWorld: Bringing up level for play took: 0.005339
+[2021.03.12-18.21.50:371][901]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2021.03.12-18.21.50:373][901]PIE: Server logged in
+[2021.03.12-18.21.50:374][901]PIE: Play in editor total start time 0.096 seconds.
+[2021.03.12-18.21.56:570][638]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-18.21.56:570][638]LogWorld: BeginTearingDown for /Game/Maps/Test/UEDPIE_0_TestMapSimon
+[2021.03.12-18.21.56:570][638]LogWorld: UWorld::CleanupWorld for TestMapSimon, bSessionEnded=true, bCleanupResources=true
+[2021.03.12-18.21.56:571][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-18.21.56:582][638]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.12-18.21.56:584][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-18.21.56:588][638]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-18.21.56:588][638]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.12-18.21.56:589][638]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.12-18.21.56:608][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.03.12-18.21.56:655][640]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2021.03.12-18.21.57:556][748]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.03.12-18.21.57:969][795]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.03.12-18.21.58:251][828]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2021.03.12-18.21.59:681][994]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TemplateLabel)
+[2021.03.12-18.22.00:303][ 35]Cmd: DELETE
+[2021.03.12-18.22.00:303][ 35]Cmd: ACTOR DELETE
+[2021.03.12-18.22.00:307][ 35]LogEditorActor: Deleted Actor: TextRenderActor
+[2021.03.12-18.22.00:312][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.03.12-18.22.00:314][ 35]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2021.03.12-18.22.00:666][ 76]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2021.03.12-18.22.02:109][246]Cmd: DELETE
+[2021.03.12-18.22.02:109][246]Cmd: ACTOR DELETE
+[2021.03.12-18.22.02:114][246]LogEditorActor: Deleted Actor: PlayerStart
+[2021.03.12-18.22.02:119][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.03.12-18.22.02:120][246]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2021.03.12-18.22.02:508][292]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2021.03.12-18.22.04:042][467]Cmd: DELETE
+[2021.03.12-18.22.04:042][467]Cmd: ACTOR DELETE
+[2021.03.12-18.22.04:047][467]LogEditorActor: Deleted Actor: SkyLight
+[2021.03.12-18.22.04:051][467]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.03.12-18.22.04:052][467]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2021.03.12-18.22.05:213][603]Cmd: TRANSACTION UNDO
+[2021.03.12-18.22.05:213][603]LogEditorTransaction: Undo Delete Actors
+[2021.03.12-18.22.05:221][603]LogMaterial: Display: Missing cached shader map for material Landscape_Material, compiling. 
+[2021.03.12-18.22.05:262][604]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 11
+[2021.03.12-18.22.05:262][604]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2021.03.12-18.22.05:262][604]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 9
+[2021.03.12-18.22.05:262][604]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 8
+[2021.03.12-18.22.05:262][604]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 7
+[2021.03.12-18.22.05:262][604]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2021.03.12-18.22.05:262][604]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2021.03.12-18.22.05:262][604]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2021.03.12-18.22.05:262][604]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 3
+[2021.03.12-18.22.05:262][604]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2
+[2021.03.12-18.22.05:262][604]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2021.03.12-18.22.06:267][648]MaterialEditorStats: Base pass shader: 119 instructions
+[2021.03.12-18.22.06:267][648]MaterialEditorStats: Base pass shader with Surface Lightmap: 146 instructions
+[2021.03.12-18.22.06:267][648]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2021.03.12-18.22.06:267][648]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.03.12-18.22.06:267][648]MaterialEditorStats: Texture samplers: 2/16
+[2021.03.12-18.22.08:873][938]LogEditorViewport: Clicking on Actor (LMB): BP_Pickup_C (BP_Pickup)
+[2021.03.12-18.22.09:866][ 47]Cmd: DELETE
+[2021.03.12-18.22.09:866][ 47]Cmd: ACTOR DELETE
+[2021.03.12-18.22.09:870][ 47]LogEditorActor: Deleted Actor: BP_Pickup_C
+[2021.03.12-18.22.09:875][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.03.12-18.22.09:878][ 47]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2021.03.12-18.22.10:141][ 78]LogEditorViewport: Clicking on Actor (LMB): BP_EnemySmall_C (BP_EnemySmall2)
+[2021.03.12-18.22.10:353][100]Cmd: DELETE
+[2021.03.12-18.22.10:353][100]Cmd: ACTOR DELETE
+[2021.03.12-18.22.10:357][100]LogEditorActor: Deleted Actor: BP_EnemySmall_C
+[2021.03.12-18.22.10:362][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.03.12-18.22.10:363][100]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2021.03.12-18.22.10:608][129]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.03.12-18.22.10:738][142]Cmd: DELETE
+[2021.03.12-18.22.10:738][142]Cmd: ACTOR DELETE
+[2021.03.12-18.22.10:742][142]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2021.03.12-18.22.10:747][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.03.12-18.22.10:748][142]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2021.03.12-18.22.11:542][237]Cmd: TRANSACTION UNDO
+[2021.03.12-18.22.11:542][237]LogEditorTransaction: Undo Delete Actors
+[2021.03.12-18.22.11:549][237]LogMaterial: Display: Missing cached shader map for material Landscape_Material, compiling. 
+[2021.03.12-18.22.11:563][237]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 11
+[2021.03.12-18.22.11:563][237]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2021.03.12-18.22.11:563][237]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 9
+[2021.03.12-18.22.11:563][237]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 8
+[2021.03.12-18.22.11:563][237]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 7
+[2021.03.12-18.22.11:563][237]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2021.03.12-18.22.11:563][237]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2021.03.12-18.22.11:563][237]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2021.03.12-18.22.11:563][237]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 3
+[2021.03.12-18.22.11:563][237]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2
+[2021.03.12-18.22.11:563][237]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2021.03.12-18.22.11:920][246]LogEditorViewport: Clicking on Actor (LMB): BP_EnemySmall_C (BP_EnemySmall)
+[2021.03.12-18.22.12:407][278]MaterialEditorStats: Base pass shader: 119 instructions
+[2021.03.12-18.22.12:407][278]MaterialEditorStats: Base pass shader with Surface Lightmap: 146 instructions
+[2021.03.12-18.22.12:407][278]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2021.03.12-18.22.12:407][278]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.03.12-18.22.12:407][278]MaterialEditorStats: Texture samplers: 2/16
+[2021.03.12-18.22.12:766][321]Cmd: DELETE
+[2021.03.12-18.22.12:766][321]Cmd: ACTOR DELETE
+[2021.03.12-18.22.12:771][321]LogEditorActor: Deleted Actor: BP_EnemySmall_C
+[2021.03.12-18.22.12:776][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.03.12-18.22.12:778][321]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2021.03.12-18.22.13:075][357]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.03.12-18.22.14:991][583]Cmd: DELETE
+[2021.03.12-18.22.14:991][583]Cmd: ACTOR DELETE
+[2021.03.12-18.22.14:995][583]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2021.03.12-18.22.15:000][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.03.12-18.22.15:001][583]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2021.03.12-18.22.16:540][767]Cmd: TRANSACTION UNDO
+[2021.03.12-18.22.16:540][767]LogEditorTransaction: Undo Delete Actors
+[2021.03.12-18.22.16:552][767]LogMaterial: Display: Missing cached shader map for material Landscape_Material, compiling. 
+[2021.03.12-18.22.16:562][767]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 11
+[2021.03.12-18.22.16:562][767]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2021.03.12-18.22.16:562][767]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 9
+[2021.03.12-18.22.16:562][767]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 8
+[2021.03.12-18.22.16:562][767]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 7
+[2021.03.12-18.22.16:562][767]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2021.03.12-18.22.16:562][767]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2021.03.12-18.22.16:562][767]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2021.03.12-18.22.16:562][767]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 3
+[2021.03.12-18.22.16:562][767]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2
+[2021.03.12-18.22.16:562][767]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2021.03.12-18.22.17:412][801]MaterialEditorStats: Base pass shader: 119 instructions
+[2021.03.12-18.22.17:412][801]MaterialEditorStats: Base pass shader with Surface Lightmap: 146 instructions
+[2021.03.12-18.22.17:412][801]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2021.03.12-18.22.17:412][801]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.03.12-18.22.17:412][801]MaterialEditorStats: Texture samplers: 2/16
+[2021.03.12-18.22.24:924][678]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.12-18.22.27:994][ 25]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.12-18.22.28:004][ 25]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.12-18.22.28:004][ 25]PIE: New page: PIE session: TestMapSimon (Mar 12, 2021, 8:22:28 PM)
+[2021.03.12-18.22.28:004][ 25]LogPlayLevel: Creating play world package: /Game/Maps/Test/UEDPIE_0_TestMapSimon
+[2021.03.12-18.22.28:035][ 25]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030104s)
+[2021.03.12-18.22.28:036][ 25]LogAIModule: Creating AISystem for world TestMapSimon
+[2021.03.12-18.22.28:036][ 25]LogPlayLevel: PIE: World Init took: (0.001236s)
+[2021.03.12-18.22.28:036][ 25]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test/TestMapSimon.TestMapSimon to /Game/Maps/Test/UEDPIE_0_TestMapSimon.TestMapSimon (0.031497s)
+[2021.03.12-18.22.28:047][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.03.12-18.22.28:050][ 25]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2021.03.12-18.22.28:050][ 25]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.12-18.22.28:050][ 25]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.12-18.22.28:050][ 25]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.12-18.22.28:051][ 25]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.12-18.22.28:051][ 25]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.12-18.22.28:051][ 25]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.12-18.22.28:051][ 25]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.12-18.22.28:051][ 25]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.12-18.22.28:051][ 25]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.12-18.22.28:052][ 25]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.12-18.22.28:056][ 25]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.12-18.22.28:056][ 25]LogAudioMixer: Display: 1: FrontRight
+[2021.03.12-18.22.28:056][ 25]LogAudioMixer: Display: 2: FrontCenter
+[2021.03.12-18.22.28:056][ 25]LogAudioMixer: Display: 3: LowFrequency
+[2021.03.12-18.22.28:056][ 25]LogAudioMixer: Display: 4: BackLeft
+[2021.03.12-18.22.28:056][ 25]LogAudioMixer: Display: 5: BackRight
+[2021.03.12-18.22.28:056][ 25]LogAudioMixer: Display: 6: SideLeft
+[2021.03.12-18.22.28:056][ 25]LogAudioMixer: Display: 7: SideRight
+[2021.03.12-18.22.28:077][ 25]LogAudioMixer: Display: Using Audio Device Hörlurar (ROG Headset)
+[2021.03.12-18.22.28:077][ 25]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.12-18.22.28:077][ 25]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.12-18.22.28:077][ 25]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.12-18.22.28:077][ 25]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.12-18.22.28:077][ 25]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.12-18.22.28:077][ 25]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.03.12-18.22.28:090][ 25]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.12-18.22.28:090][ 25]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.12-18.22.28:090][ 25]LogInit: FAudioDevice initialized.
+[2021.03.12-18.22.28:090][ 25]LogAudio: Display: Audio Device (ID: 23) registered with world 'TestMapSimon'.
+[2021.03.12-18.22.28:099][ 25]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.03.12-18.22.28:104][ 25]LogWorld: Bringing World /Game/Maps/Test/UEDPIE_0_TestMapSimon.TestMapSimon up for play (max tick rate 0) at 2021.03.12-19.22.28
+[2021.03.12-18.22.28:104][ 25]LogWorld: Bringing up level for play took: 0.004618
+[2021.03.12-18.22.28:105][ 25]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2021.03.12-18.22.28:106][ 25]PIE: Server logged in
+[2021.03.12-18.22.28:107][ 25]PIE: Play in editor total start time 0.104 seconds.
+[2021.03.12-18.22.39:290][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-18.22.39:290][359]LogWorld: BeginTearingDown for /Game/Maps/Test/UEDPIE_0_TestMapSimon
+[2021.03.12-18.22.39:290][359]LogWorld: UWorld::CleanupWorld for TestMapSimon, bSessionEnded=true, bCleanupResources=true
+[2021.03.12-18.22.39:291][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-18.22.39:300][359]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.12-18.22.39:309][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-18.22.39:315][359]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.12-18.22.39:315][359]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.12-18.22.39:316][359]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.12-18.22.39:334][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-18.22.39:337][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.03.12-18.22.39:361][360]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2021.03.12-18.22.47:393][305]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.12-18.22.53:991][ 65]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.12-18.22.57:262][433]MapCheck: New page: Map Check
+[2021.03.12-18.22.57:272][433]Cmd: MAP REBUILD ALLVISIBLE
+[2021.03.12-18.22.57:272][433]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.03.12-18.22.57:282][433]LogWorld: UWorld::CleanupWorld for TestMapSimon, bSessionEnded=true, bCleanupResources=false
+[2021.03.12-18.22.57:308][433]LightingResults: New page: Lighting Build - Mar 12, 2021, 8:22:57 PM
+[2021.03.12-18.22.57:332][433]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2021.03.12-18.22.57:333][433]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.03.12-18.22.57:335][433]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.03.12-18.22.57:335][433]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.03.12-18.22.57:336][433]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.03.12-18.22.57:336][433]LogSwarmInterface: [TryOpenConnection] Local Process ID is 24232
+[2021.03.12-18.23.01:847][433]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.03.12-18.23.01:847][433]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.03.12-18.23.01:847][433]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.03.12-18.23.01:847][433]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.03.12-18.23.01:847][433]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.03.12-18.23.01:982][433]LogEditorBuildUtils: Build time 0:04
+[2021.03.12-18.23.02:402][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.03.12-18.23.24:000][381]Job is a success!
+[2021.03.12-18.23.24:125][382]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.005s
+[2021.03.12-18.23.24:125][382]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.03.12-18.23.24:125][382]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2021.03.12-18.23.24:125][382]LogVolumetricLightmapImport:      Bricks at depth
+[2021.03.12-18.23.24:125][382]LogVolumetricLightmapImport:          0: 11.1% covering 100.0% of volume
+[2021.03.12-18.23.24:125][382]LogVolumetricLightmapImport:          1: 44.4% covering 6.3% of volume
+[2021.03.12-18.23.24:125][382]LogVolumetricLightmapImport:          2: 44.4% covering 0.1% of volume
+[2021.03.12-18.23.24:125][382]LogVolumetricLightmapImport:      Bricks in each level
+[2021.03.12-18.23.24:125][382]LogVolumetricLightmapImport:          TestMapSimon 			 9 bricks 	 100.0% (Persistent Level)
+[2021.03.12-18.23.26:554][382]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 2048X1024)
+[2021.03.12-18.23.26:554][382]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2021.03.12-18.23.26:554][382]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2021.03.12-18.23.26:554][382]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2021.03.12-18.23.26:554][382]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2021.03.12-18.23.26:554][382]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2021.03.12-18.23.26:554][382]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 1024X512)
+[2021.03.12-18.23.26:554][382]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2021.03.12-18.23.26:554][382]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2021.03.12-18.23.26:554][382]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 256X128)
+[2021.03.12-18.23.26:554][382]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 256X256)
+[2021.03.12-18.23.26:554][382]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 256X256)
+[2021.03.12-18.23.26:554][382]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 128X64)
+[2021.03.12-18.23.26:554][382]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 128X128)
+[2021.03.12-18.23.26:554][382]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 128X128)
+[2021.03.12-18.23.26:554][382]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 128X64)
+[2021.03.12-18.23.26:554][382]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 128X128)
+[2021.03.12-18.23.26:554][382]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 128X128)
+[2021.03.12-18.23.26:554][382]LogTexture: Display: Building textures: SkyOcclusion0_7 (AutoDXT, 256X128)
+[2021.03.12-18.23.26:554][382]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 256X256)
+[2021.03.12-18.23.26:554][382]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 256X256)
+[2021.03.12-18.23.26:554][382]LogTexture: Display: Building textures: SkyOcclusion0_8 (AutoDXT, 256X128)
+[2021.03.12-18.23.26:554][382]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 256X256)
+[2021.03.12-18.23.26:554][382]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 256X256)
+[2021.03.12-18.23.26:554][382]LogTexture: Display: Building textures: SkyOcclusion0_9 (AutoDXT, 128X64)
+[2021.03.12-18.23.26:554][382]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 128X128)
+[2021.03.12-18.23.26:554][382]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 128X128)
+[2021.03.12-18.23.26:554][382]LogTexture: Display: Building textures: SkyOcclusion0_10 (AutoDXT, 128X64)
+[2021.03.12-18.23.26:554][382]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 128X128)
+[2021.03.12-18.23.26:554][382]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 128X128)
+[2021.03.12-18.23.26:554][382]LogTexture: Display: Building textures: SkyOcclusion0_11 (AutoDXT, 128X64)
+[2021.03.12-18.23.26:554][382]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 128X128)
+[2021.03.12-18.23.26:554][382]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 128X128)
+[2021.03.12-18.23.26:554][382]LogTexture: Display: Building textures: SkyOcclusion0_12 (AutoDXT, 256X128)
+[2021.03.12-18.23.26:554][382]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 256X256)
+[2021.03.12-18.23.26:554][382]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 256X256)
+[2021.03.12-18.23.26:554][382]LogTexture: Display: Building textures: SkyOcclusion0_13 (AutoDXT, 256X128)
+[2021.03.12-18.23.26:554][382]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 256X256)
+[2021.03.12-18.23.26:554][382]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 256X256)
+[2021.03.12-18.23.26:554][382]LogTexture: Display: Building textures: SkyOcclusion0_14 (AutoDXT, 128X64)
+[2021.03.12-18.23.26:554][382]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 128X128)
+[2021.03.12-18.23.26:554][382]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 128X128)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: SkyOcclusion0_15 (AutoDXT, 512X256)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 512X512)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 512X512)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: SkyOcclusion0_16 (AutoDXT, 128X64)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 128X128)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 128X128)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: SkyOcclusion0_17 (AutoDXT, 128X64)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 128X128)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: SkyOcclusion0_18 (AutoDXT, 128X64)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 128X128)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: HQ_Lightmap0_18 (AutoDXT, 128X128)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (DXT1, 128X128)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: SkyOcclusion0_19 (AutoDXT, 128X64)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: HQ_Lightmap0_19 (AutoDXT, 128X128)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: LQ_Lightmap_0_19 (DXT1, 128X128)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: SkyOcclusion0_20 (AutoDXT, 128X64)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: HQ_Lightmap0_20 (AutoDXT, 128X128)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: LQ_Lightmap_0_20 (DXT1, 128X128)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: SkyOcclusion0_21 (AutoDXT, 128X64)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: HQ_Lightmap0_21 (AutoDXT, 128X128)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: LQ_Lightmap_0_21 (DXT1, 128X128)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: SkyOcclusion0_22 (AutoDXT, 128X64)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: HQ_Lightmap0_22 (AutoDXT, 128X128)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: LQ_Lightmap_0_22 (DXT1, 128X128)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: SkyOcclusion0_23 (AutoDXT, 256X128)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: HQ_Lightmap0_23 (AutoDXT, 256X256)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: LQ_Lightmap_0_23 (DXT1, 256X256)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: SkyOcclusion0_24 (AutoDXT, 128X64)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: HQ_Lightmap0_24 (AutoDXT, 128X128)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: LQ_Lightmap_0_24 (DXT1, 128X128)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: SkyOcclusion0_25 (AutoDXT, 128X64)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: HQ_Lightmap0_25 (AutoDXT, 128X128)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: LQ_Lightmap_0_25 (DXT1, 128X128)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: SkyOcclusion0_26 (AutoDXT, 128X64)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: HQ_Lightmap0_26 (AutoDXT, 128X128)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: LQ_Lightmap_0_26 (DXT1, 128X128)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: SkyOcclusion0_27 (AutoDXT, 128X64)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: HQ_Lightmap0_27 (AutoDXT, 128X128)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: LQ_Lightmap_0_27 (DXT1, 128X128)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: SkyOcclusion0_28 (AutoDXT, 128X64)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: HQ_Lightmap0_28 (AutoDXT, 128X128)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: LQ_Lightmap_0_28 (DXT1, 128X128)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: SkyOcclusion0_29 (AutoDXT, 128X64)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: HQ_Lightmap0_29 (AutoDXT, 128X128)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: LQ_Lightmap_0_29 (DXT1, 128X128)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: SkyOcclusion0_30 (AutoDXT, 128X64)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: HQ_Lightmap0_30 (AutoDXT, 128X128)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: LQ_Lightmap_0_30 (DXT1, 128X128)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: SkyOcclusion0_31 (AutoDXT, 256X128)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: HQ_Lightmap0_31 (AutoDXT, 256X256)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: LQ_Lightmap_0_31 (DXT1, 256X256)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: SkyOcclusion0_32 (AutoDXT, 128X64)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: HQ_Lightmap0_32 (AutoDXT, 128X128)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: LQ_Lightmap_0_32 (DXT1, 128X128)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: SkyOcclusion0_33 (AutoDXT, 128X64)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: HQ_Lightmap0_33 (AutoDXT, 128X128)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: LQ_Lightmap_0_33 (DXT1, 128X128)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: SkyOcclusion0_34 (AutoDXT, 128X64)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: HQ_Lightmap0_34 (AutoDXT, 128X128)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: LQ_Lightmap_0_34 (DXT1, 128X128)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: SkyOcclusion0_35 (AutoDXT, 128X64)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: HQ_Lightmap0_35 (AutoDXT, 128X128)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: LQ_Lightmap_0_35 (DXT1, 128X128)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: SkyOcclusion0_36 (AutoDXT, 128X64)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: HQ_Lightmap0_36 (AutoDXT, 128X128)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: LQ_Lightmap_0_36 (DXT1, 128X128)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: SkyOcclusion1_37 (AutoDXT, 256X128)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: HQ_Lightmap1_37 (AutoDXT, 256X256)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: LQ_Lightmap_1_37 (DXT1, 256X256)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: SkyOcclusion0_38 (AutoDXT, 64X32)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: HQ_Lightmap0_38 (AutoDXT, 64X64)
+[2021.03.12-18.23.26:555][382]LogTexture: Display: Building textures: LQ_Lightmap_0_38 (DXT1, 64X64)
+[2021.03.12-18.23.26:755][382]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 128X64)
+[2021.03.12-18.23.26:755][382]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (BGRA8, 128X64)
+[2021.03.12-18.23.26:755][382]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (BGRA8, 128X64)
+[2021.03.12-18.23.26:755][382]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (BGRA8, 128X64)
+[2021.03.12-18.23.26:755][382]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (BGRA8, 64X64)
+[2021.03.12-18.23.26:755][382]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (BGRA8, 64X64)
+[2021.03.12-18.23.26:755][382]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (BGRA8, 256X64)
+[2021.03.12-18.23.26:755][382]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (BGRA8, 256X64)
+[2021.03.12-18.23.26:755][382]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (BGRA8, 128X64)
+[2021.03.12-18.23.26:755][382]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (BGRA8, 256X64)
+[2021.03.12-18.23.26:755][382]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (BGRA8, 64X64)
+[2021.03.12-18.23.26:755][382]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (BGRA8, 64X64)
+[2021.03.12-18.23.26:755][382]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (BGRA8, 128X64)
+[2021.03.12-18.23.26:755][382]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (BGRA8, 128X64)
+[2021.03.12-18.23.26:755][382]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (BGRA8, 256X64)
+[2021.03.12-18.23.26:755][382]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (BGRA8, 128X64)
+[2021.03.12-18.23.26:755][382]LogTexture: Display: Building textures: ShadowMapTexture2D_23 (BGRA8, 128X64)
+[2021.03.12-18.23.26:755][382]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (BGRA8, 128X64)
+[2021.03.12-18.23.26:755][382]LogTexture: Display: Building textures: ShadowMapTexture2D_26 (BGRA8, 128X64)
+[2021.03.12-18.23.26:755][382]LogTexture: Display: Building textures: ShadowMapTexture2D_24 (BGRA8, 128X64)
+[2021.03.12-18.23.26:755][382]LogTexture: Display: Building textures: ShadowMapTexture2D_25 (BGRA8, 128X64)
+[2021.03.12-18.23.26:755][382]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 512X64)
+[2021.03.12-18.23.26:755][382]LogTexture: Display: Building textures: ShadowMapTexture2D_73 (BGRA8, 32X32)
+[2021.03.12-18.23.26:755][382]LogTexture: Display: Building textures: ShadowMapTexture2D_33 (BGRA8, 64X64)
+[2021.03.12-18.23.26:755][382]LogTexture: Display: Building textures: ShadowMapTexture2D_32 (BGRA8, 128X64)
+[2021.03.12-18.23.26:755][382]LogTexture: Display: Building textures: ShadowMapTexture2D_31 (BGRA8, 128X64)
+[2021.03.12-18.23.26:755][382]LogTexture: Display: Building textures: ShadowMapTexture2D_27 (BGRA8, 128X64)
+[2021.03.12-18.23.26:755][382]LogTexture: Display: Building textures: ShadowMapTexture2D_22 (BGRA8, 256X64)
+[2021.03.12-18.23.26:755][382]LogTexture: Display: Building textures: ShadowMapTexture2D_34 (BGRA8, 128X64)
+[2021.03.12-18.23.26:755][382]LogTexture: Display: Building textures: ShadowMapTexture2D_28 (BGRA8, 128X64)
+[2021.03.12-18.23.26:755][382]LogTexture: Display: Building textures: ShadowMapTexture2D_29 (BGRA8, 256X64)
+[2021.03.12-18.23.26:755][382]LogTexture: Display: Building textures: ShadowMapTexture2D_30 (BGRA8, 512X64)
+[2021.03.12-18.23.26:755][382]LogTexture: Display: Building textures: ShadowMapTexture2D_35 (BGRA8, 512X64)
+[2021.03.12-18.23.26:755][382]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (BGRA8, 1024X64)
+[2021.03.12-18.23.26:755][382]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X256)
+[2021.03.12-18.23.26:755][382]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 512X512)
+[2021.03.12-18.23.26:866][382]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 2048X1024)
+[2021.03.12-18.23.26:866][382]Lightmass on DESKTOP-2GDE2BU: 24.0 sec total, 345 ms importing, 673 ms setup, 3.11 sec photons, 19.8 sec processing, 0 ms extra exporting [629/629 mappings]. Threads: 4:58 min total, 2:32 min processing.
+[2021.03.12-18.23.26:873][382]LogStaticLightingSystem: TestMapSimon_BuiltData storing lightmap data for 262 meshes in 46 LightmapResourceClusters (5.7 Meshes per cluster).
+[2021.03.12-18.23.26:886][382]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.03.12-18.23.26:911][382]LogStaticLightingSystem: Illumination: 29.5 sec (1.67 sec encoding lightmaps, 281 ms encoding shadowmaps)
+[2021.03.12-18.23.26:911][382]LogStaticLightingSystem: Lightmap texture memory:  19.1 MB (16.4 MB streaming, 2.7 MB non-streaming), 76 textures
+[2021.03.12-18.23.26:911][382]LogStaticLightingSystem: Shadowmap texture memory: 15.5 MB (14.2 MB streaming, 1.3 MB non-streaming), 37 textures
+[2021.03.12-18.23.27:871][382]DumpUnbuiltLightIteractions
+[2021.03.12-18.23.27:871][382]Lights with unbuilt interactions: 0
+[2021.03.12-18.23.27:871][382]
+[2021.03.12-18.23.27:871][382]Primitives with unbuilt interactions: 0
+[2021.03.12-18.23.27:968][382]LogTexture: Display: Building textures: NewReflectionComponentTexture4E9A31EC459F824B7293D9A5960F381F (BGRA8, 128X128)
+[2021.03.12-18.23.28:011][383]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.03.12-18.23.28:011][383]MapCheck: New page: TestMapSimon - Mar 12, 2021, 8:23:28 PM
+[2021.03.12-18.23.28:012][383]MapCheck: Warning: m_plank_8 Static mesh actor has NULL StaticMesh property 
+[2021.03.12-18.23.28:012][383]MapCheck: Warning: m_tree02_11 Static mesh actor has NULL StaticMesh property 
+[2021.03.12-18.23.28:012][383]MapCheck: Warning: m_hangingtree2_17 Static mesh actor has NULL StaticMesh property 
+[2021.03.12-18.23.28:012][383]MapCheck: Warning: m_rockflat2_32 Static mesh actor has NULL StaticMesh property 
+[2021.03.12-18.23.28:012][383]MapCheck: Warning: m_cover_38 Static mesh actor has NULL StaticMesh property 
+[2021.03.12-18.23.28:012][383]MapCheck: Warning: m_cover2_41 Static mesh actor has NULL StaticMesh property 
+[2021.03.12-18.23.28:012][383]MapCheck: Warning: m_cover3_44 Static mesh actor has NULL StaticMesh property 
+[2021.03.12-18.23.28:012][383]MapCheck: Warning: m_cover4_12 Static mesh actor has NULL StaticMesh property 
+[2021.03.12-18.23.28:012][383]MapCheck: Warning: m_cover5 Static mesh actor has NULL StaticMesh property 
+[2021.03.12-18.23.28:012][383]MapCheck: Warning: m_cover6 Static mesh actor has NULL StaticMesh property 
+[2021.03.12-18.23.28:012][383]MapCheck: Warning: m_cover7 Static mesh actor has NULL StaticMesh property 
+[2021.03.12-18.23.28:012][383]MapCheck: Warning: m_cover8 Static mesh actor has NULL StaticMesh property 
+[2021.03.12-18.23.28:012][383]MapCheck: Warning: m_cover9 Static mesh actor has NULL StaticMesh property 
+[2021.03.12-18.23.28:012][383]MapCheck: Warning: m_cover10 Static mesh actor has NULL StaticMesh property 
+[2021.03.12-18.23.28:012][383]MapCheck: Warning: m_plank2_11 Static mesh actor has NULL StaticMesh property 
+[2021.03.12-18.23.28:012][383]MapCheck: Warning: m_plank3 Static mesh actor has NULL StaticMesh property 
+[2021.03.12-18.23.28:012][383]MapCheck: Warning: m_plank4 Static mesh actor has NULL StaticMesh property 
+[2021.03.12-18.23.28:012][383]MapCheck: Warning: m_plank5 Static mesh actor has NULL StaticMesh property 
+[2021.03.12-18.23.28:012][383]MapCheck: Warning: m_plank6 Static mesh actor has NULL StaticMesh property 
+[2021.03.12-18.23.28:012][383]MapCheck: Warning: m_plank7 Static mesh actor has NULL StaticMesh property 
+[2021.03.12-18.23.28:012][383]MapCheck: Warning: m_plank8 Static mesh actor has NULL StaticMesh property 
+[2021.03.12-18.23.28:012][383]MapCheck: Warning: m_plank9 Static mesh actor has NULL StaticMesh property 
+[2021.03.12-18.23.28:012][383]MapCheck: Warning: m_plank10 Static mesh actor has NULL StaticMesh property 
+[2021.03.12-18.23.28:012][383]MapCheck: Warning: m_plank11 Static mesh actor has NULL StaticMesh property 
+[2021.03.12-18.23.28:012][383]MapCheck: Warning: m_plank12 Static mesh actor has NULL StaticMesh property 
+[2021.03.12-18.23.28:012][383]MapCheck: Warning: m_plank13 Static mesh actor has NULL StaticMesh property 
+[2021.03.12-18.23.28:012][383]MapCheck: Warning: m_plank15 Static mesh actor has NULL StaticMesh property 
+[2021.03.12-18.23.28:012][383]MapCheck: Warning: m_plank16 Static mesh actor has NULL StaticMesh property 
+[2021.03.12-18.23.28:012][383]MapCheck: Warning: m_plank17 Static mesh actor has NULL StaticMesh property 
+[2021.03.12-18.23.28:012][383]MapCheck: Warning: m_plank18 Static mesh actor has NULL StaticMesh property 
+[2021.03.12-18.23.28:012][383]MapCheck: Warning: m_plank14_3 Static mesh actor has NULL StaticMesh property 
+[2021.03.12-18.23.28:012][383]MapCheck: Warning: m_plank19 Static mesh actor has NULL StaticMesh property 
+[2021.03.12-18.23.28:013][383]MapCheck: Map check complete: 0 Error(s), 32 Warning(s), took 1.653ms to complete.
+[2021.03.12-18.23.36:244][326]LogSlate: Window 'Message Log' being destroyed
+[2021.03.12-18.23.36:249][326]LogSlate: Window 'Message Log' being destroyed
+[2021.03.12-18.23.36:755][382]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.12-18.23.36:764][382]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.12-18.23.36:764][382]PIE: New page: PIE session: TestMapSimon (Mar 12, 2021, 8:23:36 PM)
+[2021.03.12-18.23.36:799][382]LogPlayLevel: Creating play world package: /Game/Maps/Test/UEDPIE_0_TestMapSimon
+[2021.03.12-18.23.36:827][382]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028289s)
+[2021.03.12-18.23.36:828][382]LogAIModule: Creating AISystem for world TestMapSimon
+[2021.03.12-18.23.36:828][382]LogPlayLevel: PIE: World Init took: (0.000971s)
+[2021.03.12-18.23.36:828][382]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test/TestMapSimon.TestMapSimon to /Game/Maps/Test/UEDPIE_0_TestMapSimon.TestMapSimon (0.029408s)
+[2021.03.12-18.23.36:833][382]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.03.12-18.23.36:836][382]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2021.03.12-18.23.36:836][382]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.12-18.23.36:837][382]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.12-18.23.36:837][382]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.12-18.23.36:837][382]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.12-18.23.36:837][382]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.12-18.23.36:837][382]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.12-18.23.36:837][382]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.12-18.23.36:837][382]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.12-18.23.36:837][382]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.12-18.23.36:837][382]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.12-18.23.36:840][382]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.12-18.23.36:840][382]LogAudioMixer: Display: 1: FrontRight
+[2021.03.12-18.23.36:840][382]LogAudioMixer: Display: 2: FrontCenter
+[2021.03.12-18.23.36:840][382]LogAudioMixer: Display: 3: LowFrequency
+[2021.03.12-18.23.36:840][382]LogAudioMixer: Display: 4: BackLeft
+[2021.03.12-18.23.36:840][382]LogAudioMixer: Display: 5: BackRight
+[2021.03.12-18.23.36:840][382]LogAudioMixer: Display: 6: SideLeft
+[2021.03.12-18.23.36:840][382]LogAudioMixer: Display: 7: SideRight
+[2021.03.12-18.23.36:862][382]LogAudioMixer: Display: Using Audio Device Hörlurar (ROG Headset)
+[2021.03.12-18.23.36:862][382]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.12-18.23.36:862][382]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.12-18.23.36:862][382]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.12-18.23.36:862][382]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.12-18.23.36:862][382]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.12-18.23.36:862][382]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.03.12-18.23.36:875][382]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.12-18.23.36:875][382]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.12-18.23.36:875][382]LogInit: FAudioDevice initialized.
+[2021.03.12-18.23.36:875][382]LogAudio: Display: Audio Device (ID: 24) registered with world 'TestMapSimon'.
+[2021.03.12-18.23.36:884][382]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.03.12-18.23.36:890][382]LogWorld: Bringing World /Game/Maps/Test/UEDPIE_0_TestMapSimon.TestMapSimon up for play (max tick rate 0) at 2021.03.12-19.23.36
+[2021.03.12-18.23.36:890][382]LogWorld: Bringing up level for play took: 0.004871
+[2021.03.12-18.23.36:890][382]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2021.03.12-18.23.36:892][382]PIE: Server logged in
+[2021.03.12-18.23.36:892][382]PIE: Play in editor total start time 0.129 seconds.
+[2021.03.12-18.23.39:479][684]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-18.23.39:479][684]LogWorld: BeginTearingDown for /Game/Maps/Test/UEDPIE_0_TestMapSimon
+[2021.03.12-18.23.39:479][684]LogWorld: UWorld::CleanupWorld for TestMapSimon, bSessionEnded=true, bCleanupResources=true
+[2021.03.12-18.23.39:480][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-18.23.39:487][684]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.12-18.23.39:496][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-18.23.39:501][684]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-18.23.39:502][684]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.12-18.23.39:502][684]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.12-18.23.39:529][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.03.12-18.23.39:559][685]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2021.03.12-18.23.43:454][136]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.03.12-18.23.44:133][211]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)

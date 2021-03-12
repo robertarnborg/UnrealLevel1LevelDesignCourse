@@ -9888,3 +9888,203 @@ SkySphereBlueprint
 [2021.03.12-18.23.39:559][685]LogPlayLevel: Display: Destroying online subsystem :Context_29
 [2021.03.12-18.23.43:454][136]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
 [2021.03.12-18.23.44:133][211]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.03.12-18.24.59:529][799]LogSlate: Window 'Message' being destroyed
+[2021.03.12-18.24.59:534][799]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Engine/Tutorial/Landscape/TutorialAssets/Landscape_Material.Landscape_Material
+(Selecting 'No' will cause all changes to be lost!)
+[2021.03.12-18.24.59:927][799]LogMaterial: Display: Missing cached shader map for material Landscape_Material, compiling. 
+[2021.03.12-18.24.59:949][799]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 11
+[2021.03.12-18.24.59:949][799]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2021.03.12-18.24.59:949][799]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 9
+[2021.03.12-18.24.59:949][799]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 8
+[2021.03.12-18.24.59:949][799]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 7
+[2021.03.12-18.24.59:949][799]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2021.03.12-18.24.59:949][799]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2021.03.12-18.24.59:949][799]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2021.03.12-18.24.59:949][799]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 3
+[2021.03.12-18.24.59:949][799]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2
+[2021.03.12-18.24.59:949][799]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2021.03.12-18.24.59:964][799]LogMaterial: Display: Missing cached shader map for material Landscape_Material, compiling. 
+[2021.03.12-18.24.59:990][799]LogMaterial: Display: Missing cached shader map for material Landscape_Material, compiling. 
+[2021.03.12-18.25.00:016][799]LogMaterial: Display: Missing cached shader map for material Landscape_Material, compiling. 
+[2021.03.12-18.25.00:049][799]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 67
+[2021.03.12-18.25.00:049][799]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.03.12-18.25.00:063][799]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.03.12-18.25.01:079][799]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 109
+[2021.03.12-18.25.01:079][799]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 108
+[2021.03.12-18.25.01:079][799]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 107
+[2021.03.12-18.25.01:079][799]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 98
+[2021.03.12-18.25.01:079][799]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 89
+[2021.03.12-18.25.01:079][799]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 81
+[2021.03.12-18.25.01:079][799]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 74
+[2021.03.12-18.25.01:079][799]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 67
+[2021.03.12-18.25.01:079][799]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 61
+[2021.03.12-18.25.01:079][799]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 55
+[2021.03.12-18.25.01:079][799]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 49
+[2021.03.12-18.25.01:079][799]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 44
+[2021.03.12-18.25.01:079][799]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 40
+[2021.03.12-18.25.01:100][799]TextureStreamingBuild: Display: Compiling optional shaders took 1.041 seconds.
+[2021.03.12-18.25.01:105][799]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.03.12-18.25.01:129][799]LogSlate: Window 'Landscape_Material' being destroyed
+[2021.03.12-18.25.01:133][799]LogSlate: Window 'Landscape_Material' being destroyed
+[2021.03.12-18.25.01:405][799]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.03.12-18.25.01:405][799]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-18.25.02:952][885]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 36
+[2021.03.12-18.25.03:083][889]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 32
+[2021.03.12-18.25.03:165][895]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 29
+[2021.03.12-18.25.03:440][912]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 26
+[2021.03.12-18.25.03:926][941]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 23
+[2021.03.12-18.25.04:057][950]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 21
+[2021.03.12-18.25.04:226][961]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 19
+[2021.03.12-18.25.04:411][974]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 17
+[2021.03.12-18.25.04:444][976]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 15
+[2021.03.12-18.25.04:460][977]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 13
+[2021.03.12-18.25.04:629][988]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 11
+[2021.03.12-18.25.04:851][  2]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 10
+[2021.03.12-18.25.04:982][ 11]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2021.03.12-18.25.05:040][ 15]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 8
+[2021.03.12-18.25.05:055][ 16]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 7
+[2021.03.12-18.25.05:106][ 20]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2021.03.12-18.25.05:186][ 26]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 5
+[2021.03.12-18.25.05:255][ 30]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2021.03.12-18.25.05:256][ 30]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2021.03.12-18.25.05:382][ 38]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.03.12-18.25.05:425][ 41]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1
+[2021.03.12-18.25.18:682][685]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.12-18.25.18:691][685]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.12-18.25.18:691][685]PIE: New page: PIE session: TestMapSimon (Mar 12, 2021, 8:25:18 PM)
+[2021.03.12-18.25.18:691][685]LogPlayLevel: Creating play world package: /Game/Maps/Test/UEDPIE_0_TestMapSimon
+[2021.03.12-18.25.18:721][685]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029942s)
+[2021.03.12-18.25.18:722][685]LogAIModule: Creating AISystem for world TestMapSimon
+[2021.03.12-18.25.18:722][685]LogPlayLevel: PIE: World Init took: (0.001062s)
+[2021.03.12-18.25.18:722][685]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test/TestMapSimon.TestMapSimon to /Game/Maps/Test/UEDPIE_0_TestMapSimon.TestMapSimon (0.031142s)
+[2021.03.12-18.25.18:779][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.03.12-18.25.18:784][685]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2021.03.12-18.25.18:784][685]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.12-18.25.18:784][685]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.12-18.25.18:784][685]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.12-18.25.18:784][685]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.12-18.25.18:784][685]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.12-18.25.18:784][685]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.12-18.25.18:784][685]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.12-18.25.18:784][685]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.12-18.25.18:785][685]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.12-18.25.18:785][685]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.12-18.25.18:789][685]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.12-18.25.18:789][685]LogAudioMixer: Display: 1: FrontRight
+[2021.03.12-18.25.18:789][685]LogAudioMixer: Display: 2: FrontCenter
+[2021.03.12-18.25.18:789][685]LogAudioMixer: Display: 3: LowFrequency
+[2021.03.12-18.25.18:789][685]LogAudioMixer: Display: 4: BackLeft
+[2021.03.12-18.25.18:789][685]LogAudioMixer: Display: 5: BackRight
+[2021.03.12-18.25.18:789][685]LogAudioMixer: Display: 6: SideLeft
+[2021.03.12-18.25.18:789][685]LogAudioMixer: Display: 7: SideRight
+[2021.03.12-18.25.18:811][685]LogAudioMixer: Display: Using Audio Device Hörlurar (ROG Headset)
+[2021.03.12-18.25.18:811][685]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.12-18.25.18:811][685]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.12-18.25.18:811][685]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.12-18.25.18:811][685]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.12-18.25.18:811][685]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.12-18.25.18:811][685]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.03.12-18.25.18:824][685]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.12-18.25.18:824][685]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.12-18.25.18:824][685]LogInit: FAudioDevice initialized.
+[2021.03.12-18.25.18:824][685]LogAudio: Display: Audio Device (ID: 25) registered with world 'TestMapSimon'.
+[2021.03.12-18.25.18:832][685]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.03.12-18.25.18:837][685]LogWorld: Bringing World /Game/Maps/Test/UEDPIE_0_TestMapSimon.TestMapSimon up for play (max tick rate 0) at 2021.03.12-19.25.18
+[2021.03.12-18.25.18:838][685]LogWorld: Bringing up level for play took: 0.004718
+[2021.03.12-18.25.18:838][685]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2021.03.12-18.25.18:840][685]PIE: Server logged in
+[2021.03.12-18.25.18:841][685]PIE: Play in editor total start time 0.151 seconds.
+[2021.03.12-18.25.25:992][538]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1223.079 Y=-3460.498 Z=409.002] for [FirstPersonProjectile_C]
+[2021.03.12-18.25.26:459][594]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1220.679 Y=-3459.795 Z=406.788] for [FirstPersonProjectile_C]
+[2021.03.12-18.25.30:320][ 53]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-18.25.30:320][ 53]LogWorld: BeginTearingDown for /Game/Maps/Test/UEDPIE_0_TestMapSimon
+[2021.03.12-18.25.30:320][ 53]LogWorld: UWorld::CleanupWorld for TestMapSimon, bSessionEnded=true, bCleanupResources=true
+[2021.03.12-18.25.30:321][ 53]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-18.25.30:326][ 53]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.12-18.25.30:332][ 53]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-18.25.30:337][ 53]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-18.25.30:338][ 53]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.12-18.25.30:339][ 53]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.12-18.25.30:375][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.03.12-18.25.30:410][ 54]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2021.03.12-18.25.39:104][ 82]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sm_landmarktree)
+[2021.03.12-18.25.51:052][461]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.03.12-18.25.51:418][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.03.12-18.25.51:534][500]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/TestMapSimonAF829857483ABA8875C1F88B975F0C6A.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Maps/Test/TestMapSimon.umap'
+[2021.03.12-18.25.51:549][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test/TestMapSimon_BuiltData" FILE="D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Maps/Test/TestMapSimon_BuiltData.uasset" SILENT=true
+[2021.03.12-18.25.52:086][500]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/TestMapSimon_BuiltData5DB09D474EF62D8386FE16AAA4E80026.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Maps/Test/TestMapSimon_BuiltData.uasset'
+[2021.03.12-18.25.52:097][500]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.12-18.25.52:097][500]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Test/TestMapSimon_BuiltData.TestMapSimon_BuiltData
+[2021.03.12-18.25.52:097][500]LogContentValidation: Display: Validating World /Game/Maps/Test/TestMapSimon.TestMapSimon
+[2021.03.12-18.25.52:544][553]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sm_landmarktree)
+[2021.03.12-18.25.55:229][858]LogMaterial: Display: Missing cached shader map for material Landscape_Material, compiling. 
+[2021.03.12-18.25.55:234][858]LogMaterial: Display: Missing cached shader map for material Landscape_Material, compiling. 
+[2021.03.12-18.25.55:236][858]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 6
+[2021.03.12-18.25.55:236][858]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 5
+[2021.03.12-18.25.55:236][858]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 4
+[2021.03.12-18.25.55:236][858]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 3
+[2021.03.12-18.25.55:236][858]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2021.03.12-18.25.55:237][858]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2021.03.12-18.25.55:238][858]LogMaterial: Display: Missing cached shader map for material Landscape_Material, compiling. 
+[2021.03.12-18.25.55:242][858]LogTexture: Display: Building textures: Texture2D_4 (G8, 128X128)
+[2021.03.12-18.25.55:323][858]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 12
+[2021.03.12-18.25.55:323][858]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 10
+[2021.03.12-18.25.55:323][858]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 8
+[2021.03.12-18.25.55:323][858]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 6
+[2021.03.12-18.25.55:323][858]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2021.03.12-18.25.55:323][858]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2021.03.12-18.26.33:846][226]Cmd: TRANSACTION UNDO
+[2021.03.12-18.26.33:846][226]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.03.12-18.26.33:883][226]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X64)
+[2021.03.12-18.26.33:884][226]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.03.12-18.26.34:006][231]Cmd: TRANSACTION UNDO
+[2021.03.12-18.26.34:006][231]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.03.12-18.26.34:043][231]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X64)
+[2021.03.12-18.26.34:044][231]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.03.12-18.26.34:141][234]Cmd: TRANSACTION UNDO
+[2021.03.12-18.26.34:141][234]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.03.12-18.26.34:174][234]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X64)
+[2021.03.12-18.26.34:175][234]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.03.12-18.26.34:300][238]Cmd: TRANSACTION UNDO
+[2021.03.12-18.26.34:301][238]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.03.12-18.26.34:313][238]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.03.12-18.26.34:412][244]Cmd: TRANSACTION UNDO
+[2021.03.12-18.26.34:412][244]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.03.12-18.26.34:447][244]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X64)
+[2021.03.12-18.26.34:447][244]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.03.12-18.26.34:545][254]Cmd: TRANSACTION UNDO
+[2021.03.12-18.26.34:545][254]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.03.12-18.26.34:580][254]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X64)
+[2021.03.12-18.26.34:581][254]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.03.12-18.26.34:680][264]Cmd: TRANSACTION UNDO
+[2021.03.12-18.26.34:680][264]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.03.12-18.26.34:713][264]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X64)
+[2021.03.12-18.26.34:714][264]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.03.12-18.26.49:633][  3]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sm_landmarktree)
+[2021.03.12-18.26.55:514][702]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.03.12-18.27.01:801][432]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sm_landmarktree)
+[2021.03.12-18.27.11:879][555]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.12-18.27.22:827][823]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.03.12-18.27.24:461][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.03.12-18.27.24:479][ 11]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.03.12-18.27.24:481][ 11]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X64)
+[2021.03.12-18.27.24:584][ 11]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/TestMapSimonB2A856FD49B4E2FF7B2BF0BC7AF44F42.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Maps/Test/TestMapSimon.umap'
+[2021.03.12-18.27.24:598][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test/TestMapSimon_BuiltData" FILE="D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Maps/Test/TestMapSimon_BuiltData.uasset" SILENT=true
+[2021.03.12-18.27.25:133][ 11]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/TestMapSimon_BuiltDataC01E76B045375AEB71FF72A96BAABB37.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Maps/Test/TestMapSimon_BuiltData.uasset'
+[2021.03.12-18.27.25:146][ 11]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.12-18.27.25:146][ 11]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Test/TestMapSimon_BuiltData.TestMapSimon_BuiltData
+[2021.03.12-18.27.25:146][ 11]LogContentValidation: Display: Validating World /Game/Maps/Test/TestMapSimon.TestMapSimon
+[2021.03.12-18.27.29:229][475]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.03.12-18.27.30:080][475]LogSlate: Window 'Save Content' being destroyed
+[2021.03.12-18.27.30:105][475]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/Tutorial/Landscape/TutorialAssets/Landscape_Material" FILE="../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape_Material.uasset" SILENT=true
+[2021.03.12-18.27.30:113][475]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/Landscape_MaterialFA5001DD400B3AFC2929F99325042535.tmp' to '../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape_Material.uasset'
+[2021.03.12-18.27.30:124][475]AssetCheck: New page: Asset Save: Landscape_Material
+[2021.03.12-18.27.30:124][475]LogContentValidation: Display: Validating Material /Engine/Tutorial/Landscape/TutorialAssets/Landscape_Material.Landscape_Material
+[2021.03.12-18.27.32:416][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.03.12-18.27.32:526][737]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/TestMapSimon4B6DD7F04BD0361AD56E20A41DEE0B2D.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Maps/Test/TestMapSimon.umap'
+[2021.03.12-18.27.32:540][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test/TestMapSimon_BuiltData" FILE="D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Maps/Test/TestMapSimon_BuiltData.uasset" SILENT=true
+[2021.03.12-18.27.33:083][737]LogSavePackage: Moving 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Saved/TestMapSimon_BuiltData570B4E874AA12F2DF1C6179A57AB2354.tmp' to 'D:/Program/UnityProjects/UnrealLevel1LevelDesignCourse/Shooter_lvl1/Content/Maps/Test/TestMapSimon_BuiltData.uasset'
+[2021.03.12-18.27.33:094][737]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.12-18.27.33:094][737]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Test/TestMapSimon_BuiltData.TestMapSimon_BuiltData
+[2021.03.12-18.27.33:094][737]LogContentValidation: Display: Validating World /Game/Maps/Test/TestMapSimon.TestMapSimon
